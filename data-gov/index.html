@@ -2,7 +2,8 @@
 layout: default
 title: Data.gov
 ---
-{% assign items = site.data.datagov %}
+{% assign items = site.data.datagov | sort: 'total' %}
+{% assign items = items | sort: 'total' %}
 <p><strong>Data.gov Data</strong></p>
 <p>These are the data sets pulled from Data.gov, and sorted by their downloads.</p>
 <ul style="margin-left: 25px; text-align:left;">
