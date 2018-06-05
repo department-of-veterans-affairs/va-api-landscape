@@ -2,14 +2,17 @@
 layout: default
 title: Data.gov
 ---
-
-<div class="page-block-header-2">
-   <h2 style="text-align:left;">Landscape Analysis</h2>
-</div>
+{% assign items = site.data.datagov %}
 <div class="about-info">
    <div class="about-info-row">
       <div class="about-info-col">
-         <p>Blah Blah!</p>
+         <p><strong>Data.gov Data</strong></p>
+         <p>These are the data sets pulled from Data.gov, and sorted by their downloads.</p>
+         <ul>
+         {% for items in item %}
+          <li>{{ item.name }} ({{ item.format }}) ({{ item.total }}) - <a href="{{ item.url }}">{{ item.url }}</a></li>
+         {% endfor %}
+         </ul>
       </div>
    </div>
 </div>
