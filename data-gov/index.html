@@ -5,7 +5,7 @@ title: Data.gov
 {% assign items = site.data.datagov %}
 <p><strong>Data.gov Data</strong></p>
 <p>These are the data sets pulled from Data.gov, and sorted by their downloads.</p>
-<ul>
+<ul style="margin-left: 25px; text-align:left;">
 {% for item in items %}
 <li>{{ item.name }} ({{ item.format }}) ({{ item.total }}) - <a href="{{ item.url }}">{{ item.url }}</a></li>
 {% endfor %}
