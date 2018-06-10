@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Data.gov
+title: XLS URLs
 ---
-{% assign items = site.data.alltagcloud %}
-<p><strong>All Data</strong></p>
-<p>These are the data sets pulled from Data.gov, and sorted by their downloads, with the <a href="https://raw.githubusercontent.com/api-evangelist/va-api-landscape/master/_data/datagov.json" target="_blank">JSON file available here</a>.</p>
+{% assign items = site.data.xls_urls %}
+<p><strong>XLS URLS</strong></p>
+<p>These are the XLS data sets pulled harvested so far, with the <a href="https://raw.githubusercontent.com/api-evangelist/va-api-landscape/master/_data/xls_urls.xls" target="_blank">XLS file available here</a>.</p>
 <ul style="margin-left: 25px; text-align:left;">
 {% for item in items %}
-<li>{{ item.name }} ({{ item.format }}) ({{ item.total }}) - <a href="{{ item.url }}">{{ item.url }}</a></li>
+<li><a href="{{ item.url }}">{{ item.title }}</a></li>
 {% endfor %}
 </ul>
