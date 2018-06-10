@@ -1,1406 +1,7214 @@
 [
   {
-    "word": "Veterans",
-    "word_count": 1138
-  },
-  {
-    "word": "Vietnam",
-    "word_count": 846
-  },
-  {
-    "word": "State",
-    "word_count": 846
-  },
-  {
-    "word": "Service",
-    "word_count": 606
-  },
-  {
-    "word": "Annual",
-    "word_count": 314
-  },
-  {
-    "word": "Sheet",
-    "word_count": 314
-  },
-  {
-    "word": "Coin",
-    "word_count": 187
-  },
-  {
-    "word": "Patient",
-    "word_count": 164
-  },
-  {
-    "word": "Synthetic",
-    "word_count": 155
-  },
-  {
-    "word": "Report",
-    "word_count": 154
-  },
-  {
-    "word": "Satisfaction",
-    "word_count": 122
-  },
-  {
-    "word": "Metadata",
-    "word_count": 101
-  },
-  {
-    "word": "Describing",
-    "word_count": 101
-  },
-  {
-    "word": "Summary",
-    "word_count": 100
-  },
-  {
-    "word": "County",
-    "word_count": 97
-  },
-  {
-    "word": "Locations",
-    "word_count": 90
-  },
-  {
-    "word": "Gravesite",
-    "word_count": 86
-  },
-  {
-    "word": "Beneficiaries",
-    "word_count": 86
-  },
-  {
-    "word": "January",
-    "word_count": 86
-  },
-  {
-    "word": "Veteran",
-    "word_count": 75
-  },
-  {
-    "word": "Compensation",
-    "word_count": 74
-  },
-  {
-    "word": "Pension",
-    "word_count": 74
-  },
-  {
-    "word": "Information",
-    "word_count": 69
-  },
-  {
-    "word": "Adapters",
-    "word_count": 63
-  },
-  {
-    "word": "Management",
-    "word_count": 60
-  },
-  {
-    "word": "Age",
-    "word_count": 60
-  },
-  {
-    "word": "Disease",
-    "word_count": 57
-  },
-  {
-    "word": "Disparity",
-    "word_count": 57
-  },
-  {
-    "word": "Hepatitis",
-    "word_count": 57
-  },
-  {
-    "word": "–",
-    "word_count": 57
-  },
-  {
-    "word": "Advanced",
-    "word_count": 57
-  },
-  {
-    "word": "Liver",
-    "word_count": 57
-  },
-  {
-    "word": "Suicide",
-    "word_count": 54
-  },
-  {
-    "word": "Prevention",
-    "word_count": 54
-  },
-  {
-    "word": "Nation",
-    "word_count": 50
-  },
-  {
-    "word": "PTSD",
-    "word_count": 48
-  },
-  {
-    "word": "Programs",
-    "word_count": 48
-  },
-  {
-    "word": "Post",
-    "word_count": 48
-  },
-  {
-    "word": "Trauamatic",
-    "word_count": 48
-  },
-  {
-    "word": "Stress",
-    "word_count": 48
-  },
-  {
-    "word": "Disorder",
-    "word_count": 48
-  },
-  {
-    "word": "Geographic",
-    "word_count": 44
-  },
-  {
-    "word": "Distribution",
-    "word_count": 44
-  },
-  {
-    "word": "Expenditures",
-    "word_count": 44
-  },
-  {
-    "word": "Utilization",
-    "word_count": 44
-  },
-  {
-    "word": "List",
-    "word_count": 44
-  },
-  {
-    "word": "Military",
-    "word_count": 44
-  },
-  {
-    "word": "Status",
-    "word_count": 43
-  },
-  {
-    "word": "Rural",
-    "word_count": 43
-  },
-  {
-    "word": "Claim",
-    "word_count": 39
-  },
-  {
-    "word": "Benefits",
-    "word_count": 39
-  },
-  {
-    "word": "Accredited",
-    "word_count": 37
-  },
-  {
-    "word": "Cars",
-    "word_count": 37
-  },
-  {
     "word": "Health",
-    "word_count": 36
+    "word_count": "11459"
   },
   {
-    "word": "Monthly",
-    "word_count": 36
-  },
-  {
-    "word": "Totals",
-    "word_count": 36
-  },
-  {
-    "word": "Disability",
-    "word_count": 36
-  },
-  {
-    "word": "Number",
-    "word_count": 36
-  },
-  {
-    "word": "Contact",
-    "word_count": 34
-  },
-  {
-    "word": "During",
-    "word_count": 30
-  },
-  {
-    "word": "Minority",
-    "word_count": 30
-  },
-  {
-    "word": "Estimates",
-    "word_count": 30
-  },
-  {
-    "word": "Received",
-    "word_count": 30
-  },
-  {
-    "word": "Gender",
-    "word_count": 28
-  },
-  {
-    "word": "Provider",
-    "word_count": 26
-  },
-  {
-    "word": "Administration",
-    "word_count": 26
-  },
-  {
-    "word": "Recipients",
-    "word_count": 26
-  },
-  {
-    "word": "Single",
-    "word_count": 26
-  },
-  {
-    "word": "Sign",
-    "word_count": 26
-  },
-  {
-    "word": "Appeals",
-    "word_count": 26
-  },
-  {
-    "word": "Electronic",
-    "word_count": 26
-  },
-  {
-    "word": "Enterprise",
-    "word_count": 26
-  },
-  {
-    "word": "Digits",
-    "word_count": 26
-  },
-  {
-    "word": "Group",
-    "word_count": 25
-  },
-  {
-    "word": "Submission",
-    "word_count": 25
-  },
-  {
-    "word": "Living",
-    "word_count": 25
-  },
-  {
-    "word": "Attorneys",
-    "word_count": 24
-  },
-  {
-    "word": "Period",
-    "word_count": 23
-  },
-  {
-    "word": "Characteristics",
-    "word_count": 23
-  },
-  {
-    "word": "Profile",
-    "word_count": 23
-  },
-  {
-    "word": "Counties",
-    "word_count": 22
-  },
-  {
-    "word": "National",
-    "word_count": 21
-  },
-  {
-    "word": "Minorities",
-    "word_count": 21
-  },
-  {
-    "word": "Served",
-    "word_count": 21
-  },
-  {
-    "word": "Employees",
-    "word_count": 21
-  },
-  {
-    "word": "April",
-    "word_count": 20
-  },
-  {
-    "word": "Hospital",
-    "word_count": 19
-  },
-  {
-    "word": "Settings",
-    "word_count": 19
-  },
-  {
-    "word": "Infrastructure",
-    "word_count": 19
-  },
-  {
-    "word": "Medical",
-    "word_count": 19
-  },
-  {
-    "word": "Access",
-    "word_count": 18
-  },
-  {
-    "word": "Facility",
-    "word_count": 18
-  },
-  {
-    "word": "Visits",
-    "word_count": 17
-  },
-  {
-    "word": "Inpatient",
-    "word_count": 17
-  },
-  {
-    "word": "Beds",
-    "word_count": 17
-  },
-  {
-    "word": "Vet",
-    "word_count": 17
-  },
-  {
-    "word": "Record",
-    "word_count": 17
-  },
-  {
-    "word": "Outpatient",
-    "word_count": 17
-  },
-  {
-    "word": "March",
-    "word_count": 16
-  },
-  {
-    "word": "June",
-    "word_count": 16
-  },
-  {
-    "word": "Integration",
-    "word_count": 16
-  },
-  {
-    "word": "Order",
-    "word_count": 16
-  },
-  {
-    "word": "Notes",
-    "word_count": 16
-  },
-  {
-    "word": "Household",
-    "word_count": 16
-  },
-  {
-    "word": "Find",
-    "word_count": 16
-  },
-  {
-    "word": "States",
-    "word_count": 16
-  },
-  {
-    "word": "Scheduling",
-    "word_count": 16
-  },
-  {
-    "word": "\"electronic",
-    "word_count": 16
-  },
-  {
-    "word": "Traumatic",
-    "word_count": 16
-  },
-  {
-    "word": "Call",
-    "word_count": 16
-  },
-  {
-    "word": "Brain",
-    "word_count": 16
-  },
-  {
-    "word": "Service\"",
-    "word_count": 16
-  },
-  {
-    "word": "Injury",
-    "word_count": 16
-  },
-  {
-    "word": "Projected",
-    "word_count": 15
-  },
-  {
-    "word": "Population",
-    "word_count": 15
-  },
-  {
-    "word": "Facilities",
-    "word_count": 15
-  },
-  {
-    "word": "Leadership",
-    "word_count": 15
-  },
-  {
-    "word": "Station",
-    "word_count": 15
-  },
-  {
-    "word": "User",
-    "word_count": 15
-  },
-  {
-    "word": "Form",
-    "word_count": 14
-  },
-  {
-    "word": "Enrollment",
-    "word_count": 14
-  },
-  {
-    "word": "Eligibility",
-    "word_count": 14
-  },
-  {
-    "word": "Authorization",
-    "word_count": 14
-  },
-  {
-    "word": "Clinical",
-    "word_count": 13
-  },
-  {
-    "word": "Account",
-    "word_count": 13
-  },
-  {
-    "word": "Preference",
-    "word_count": 13
-  },
-  {
-    "word": "History",
-    "word_count": 13
-  },
-  {
-    "word": "Credential",
-    "word_count": 13
-  },
-  {
-    "word": "Exposure",
-    "word_count": 13
-  },
-  {
-    "word": "Female",
-    "word_count": 13
-  },
-  {
-    "word": "Provisioning",
-    "word_count": 13
-  },
-  {
-    "word": "Master",
-    "word_count": 13
-  },
-  {
-    "word": "Identification",
-    "word_count": 13
-  },
-  {
-    "word": "Selected",
-    "word_count": 13
-  },
-  {
-    "word": "Specialized",
-    "word_count": 13
-  },
-  {
-    "word": "Index",
-    "word_count": 13
-  },
-  {
-    "word": "Registration",
-    "word_count": 13
-  },
-  {
-    "word": "Card",
-    "word_count": 13
-  },
-  {
-    "word": "Control",
-    "word_count": 13
-  },
-  {
-    "word": "Pharmacy",
-    "word_count": 13
-  },
-  {
-    "word": "Aca",
-    "word_count": 13
-  },
-  {
-    "word": "Business",
-    "word_count": 13
-  },
-  {
-    "word": "Pathways",
-    "word_count": 13
-  },
-  {
-    "word": "Event",
-    "word_count": 13
-  },
-  {
-    "word": "Monitoring",
-    "word_count": 13
-  },
-  {
-    "word": "Notification",
-    "word_count": 13
-  },
-  {
-    "word": "External",
-    "word_count": 13
-  },
-  {
-    "word": "Aggregate",
-    "word_count": 13
-  },
-  {
-    "word": "Administrative",
-    "word_count": 13
-  },
-  {
-    "word": "Transport",
-    "word_count": 13
-  },
-  {
-    "word": "Compliance",
-    "word_count": 13
-  },
-  {
-    "word": "Metrics",
-    "word_count": 13
-  },
-  {
-    "word": "Repository",
-    "word_count": 13
-  },
-  {
-    "word": "Federated",
-    "word_count": 13
-  },
-  {
-    "word": "Transformation",
-    "word_count": 13
-  },
-  {
-    "word": "Audit",
-    "word_count": 13
-  },
-  {
-    "word": "Identity",
-    "word_count": 13
-  },
-  {
-    "word": "Reporting",
-    "word_count": 13
-  },
-  {
-    "word": "Aggregation",
-    "word_count": 13
-  },
-  {
-    "word": "car",
-    "word_count": 13
-  },
-  {
-    "word": "Kit",
-    "word_count": 13
-  },
-  {
-    "word": "Signature",
-    "word_count": 13
-  },
-  {
-    "word": "Women",
-    "word_count": 12
-  },
-  {
-    "word": "Members",
-    "word_count": 12
-  },
-  {
-    "word": "Officer",
-    "word_count": 12
-  },
-  {
-    "word": "Enlisted",
-    "word_count": 12
-  },
-  {
-    "word": "Budget",
-    "word_count": 12
-  },
-  {
-    "word": "Median",
-    "word_count": 11
-  },
-  {
-    "word": "Income",
-    "word_count": 11
-  },
-  {
-    "word": "Address",
-    "word_count": 11
-  },
-  {
-    "word": "Beneficiary",
-    "word_count": 11
-  },
-  {
-    "word": "Storage",
-    "word_count": 11
-  },
-  {
-    "word": "Educational",
-    "word_count": 10
-  },
-  {
-    "word": "Attainment",
-    "word_count": 10
-  },
-  {
-    "word": "Occupation",
-    "word_count": 10
-  },
-  {
-    "word": "Religion",
-    "word_count": 10
-  },
-  {
-    "word": "Burial",
-    "word_count": 9
-  },
-  {
-    "word": "Virginia",
-    "word_count": 8
-  },
-  {
-    "word": "Branch",
-    "word_count": 8
-  },
-  {
-    "word": "July",
-    "word_count": 8
-  },
-  {
-    "word": "Program",
-    "word_count": 8
-  },
-  {
-    "word": "Integrated",
-    "word_count": 8
-  },
-  {
-    "word": "Cemeteries",
-    "word_count": 8
-  },
-  {
-    "word": "Networks",
-    "word_count": 8
-  },
-  {
-    "word": "Location",
-    "word_count": 8
-  },
-  {
-    "word": "Space",
-    "word_count": 8
-  },
-  {
-    "word": "Dakota",
-    "word_count": 7
-  },
-  {
-    "word": "Representatives",
-    "word_count": 7
-  },
-  {
-    "word": "Claims",
-    "word_count": 7
-  },
-  {
-    "word": "Rating",
-    "word_count": 7
-  },
-  {
-    "word": "North",
-    "word_count": 7
-  },
-  {
-    "word": "Employment",
-    "word_count": 7
-  },
-  {
-    "word": "Cemetery",
-    "word_count": 7
-  },
-  {
-    "word": "Utility",
-    "word_count": 7
-  },
-  {
-    "word": "February",
-    "word_count": 7
-  },
-  {
-    "word": "Award",
-    "word_count": 7
-  },
-  {
-    "word": "Fact",
-    "word_count": 7
-  },
-  {
-    "word": "Sheets",
-    "word_count": 7
-  },
-  {
-    "word": "Agents",
-    "word_count": 6
-  },
-  {
-    "word": "Legal",
-    "word_count": 6
-  },
-  {
-    "word": "Insured",
-    "word_count": 6
-  },
-  {
-    "word": "Precedent",
-    "word_count": 6
-  },
-  {
-    "word": "Help",
-    "word_count": 6
-  },
-  {
-    "word": "Opinion",
-    "word_count": 6
-  },
-  {
-    "word": "Minnesota",
-    "word_count": 6
-  },
-  {
-    "word": "Alaska",
-    "word_count": 5
-  },
-  {
-    "word": "Email",
-    "word_count": 5
-  },
-  {
-    "word": "Pennsylvania",
-    "word_count": 5
-  },
-  {
-    "word": "Person",
-    "word_count": 5
-  },
-  {
-    "word": "Utilities",
-    "word_count": 5
+    "word": "Center",
+    "word_count": "10149"
   },
   {
     "word": "Care",
-    "word_count": 5
+    "word_count": "8977"
   },
   {
-    "word": "Submarkets",
-    "word_count": 5
+    "word": "System",
+    "word_count": "8607"
   },
   {
-    "word": "Florida",
-    "word_count": 5
+    "word": "Veterans",
+    "word_count": "7405"
   },
   {
-    "word": "Dictionaries",
-    "word_count": 5
+    "word": "Medical",
+    "word_count": "7024"
   },
   {
-    "word": "Connected",
-    "word_count": 5
+    "word": "Office",
+    "word_count": "5090"
   },
   {
-    "word": "Alabama",
-    "word_count": 5
+    "word": "Locations",
+    "word_count": "4773"
   },
   {
-    "word": "Children",
-    "word_count": 5
+    "word": "National",
+    "word_count": "3751"
+  },
+  {
+    "word": "PTSD",
+    "word_count": "3412"
+  },
+  {
+    "word": "Point",
+    "word_count": "3305"
+  },
+  {
+    "word": "VAntage",
+    "word_count": "3257"
   },
   {
     "word": "Healthcare",
-    "word_count": 5
+    "word_count": "2676"
   },
   {
-    "word": "Jersey",
-    "word_count": 4
+    "word": "Home",
+    "word_count": "2363"
   },
   {
-    "word": "South",
-    "word_count": 4
+    "word": "Administration",
+    "word_count": "1852"
   },
   {
-    "word": "Hawaii",
-    "word_count": 4
+    "word": "Form",
+    "word_count": "1760"
   },
   {
-    "word": "Michigan",
-    "word_count": 4
+    "word": "Project",
+    "word_count": "1734"
   },
   {
-    "word": "Farmers",
-    "word_count": 4
+    "word": "Hospital",
+    "word_count": "1732"
   },
   {
-    "word": "Arkansas",
-    "word_count": 4
+    "word": "Funded",
+    "word_count": "1671"
   },
   {
-    "word": "Georgia",
-    "word_count": 4
+    "word": "Details",
+    "word_count": "1652"
   },
   {
-    "word": "Nebraska",
-    "word_count": 4
+    "word": "Archives",
+    "word_count": "1532"
   },
   {
-    "word": "Farmer",
-    "word_count": 4
+    "word": "Community",
+    "word_count": "1435"
   },
   {
-    "word": "Sites",
-    "word_count": 4
+    "word": "Clinic",
+    "word_count": "1423"
   },
   {
-    "word": "Oklahoma",
-    "word_count": 4
+    "word": "Service",
+    "word_count": "1360"
   },
   {
-    "word": "Idaho",
-    "word_count": 4
+    "word": "Benefits",
+    "word_count": "1330"
   },
   {
-    "word": "Texas",
-    "word_count": 4
+    "word": "Cemetery",
+    "word_count": "1283"
   },
   {
-    "word": "Standard",
-    "word_count": 4
+    "word": "Events",
+    "word_count": "1261"
   },
   {
-    "word": "Carolina",
-    "word_count": 4
+    "word": "Outpatient",
+    "word_count": "1212"
   },
   {
-    "word": "Maryland",
-    "word_count": 4
+    "word": "Services",
+    "word_count": "1197"
   },
   {
-    "word": "Ohio",
-    "word_count": 4
+    "word": "Program",
+    "word_count": "1138"
   },
   {
-    "word": "Connecticut",
-    "word_count": 4
+    "word": "Patient",
+    "word_count": "1092"
   },
   {
-    "word": "Island",
-    "word_count": 4
-  },
-  {
-    "word": "Colorado",
-    "word_count": 4
-  },
-  {
-    "word": "West",
-    "word_count": 4
-  },
-  {
-    "word": "Pay",
-    "word_count": 4
-  },
-  {
-    "word": "Oregon",
-    "word_count": 4
-  },
-  {
-    "word": "Washington",
-    "word_count": 4
-  },
-  {
-    "word": "Using",
-    "word_count": 4
-  },
-  {
-    "word": "Wyoming",
-    "word_count": 4
-  },
-  {
-    "word": "Massachusetts",
-    "word_count": 4
-  },
-  {
-    "word": "California",
-    "word_count": 4
-  },
-  {
-    "word": "Utah",
-    "word_count": 4
-  },
-  {
-    "word": "Korean",
-    "word_count": 3
-  },
-  {
-    "word": "War",
-    "word_count": 3
-  },
-  {
-    "word": "Nevada",
-    "word_count": 3
-  },
-  {
-    "word": "Queue",
-    "word_count": 3
-  },
-  {
-    "word": "Update",
-    "word_count": 3
-  },
-  {
-    "word": "Wisconsin",
-    "word_count": 3
-  },
-  {
-    "word": "Kentucky",
-    "word_count": 3
-  },
-  {
-    "word": "Contention",
-    "word_count": 3
-  },
-  {
-    "word": "Dependency",
-    "word_count": 3
-  },
-  {
-    "word": "Search",
-    "word_count": 3
-  },
-  {
-    "word": "Montana",
-    "word_count": 3
-  },
-  {
-    "word": "Iowa",
-    "word_count": 3
-  },
-  {
-    "word": "Percentages",
-    "word_count": 3
-  },
-  {
-    "word": "Congressional",
-    "word_count": 3
-  },
-  {
-    "word": "Relative",
-    "word_count": 3
-  },
-  {
-    "word": "Monday",
-    "word_count": 3
-  },
-  {
-    "word": "Vermont",
-    "word_count": 3
-  },
-  {
-    "word": "Districts",
-    "word_count": 3
-  },
-  {
-    "word": "Morning",
-    "word_count": 3
-  },
-  {
-    "word": "Louisiana",
-    "word_count": 3
-  },
-  {
-    "word": "Interments",
-    "word_count": 3
-  },
-  {
-    "word": "Workload",
-    "word_count": 3
-  },
-  {
-    "word": "Reports",
-    "word_count": 3
-  },
-  {
-    "word": "Hampshire",
-    "word_count": 3
-  },
-  {
-    "word": "Delaware",
-    "word_count": 3
-  },
-  {
-    "word": "Kansas",
-    "word_count": 3
-  },
-  {
-    "word": "Treatment",
-    "word_count": 3
-  },
-  {
-    "word": "Tennessee",
-    "word_count": 3
-  },
-  {
-    "word": "Representative",
-    "word_count": 2
-  },
-  {
-    "word": "Maine",
-    "word_count": 2
-  },
-  {
-    "word": "Work",
-    "word_count": 2
-  },
-  {
-    "word": "Growth",
-    "word_count": 2
-  },
-  {
-    "word": "Missouri",
-    "word_count": 2
-  },
-  {
-    "word": "Usva",
-    "word_count": 2
-  },
-  {
-    "word": "Foreign",
-    "word_count": 2
-  },
-  {
-    "word": "Document",
-    "word_count": 2
-  },
-  {
-    "word": "Addresses",
-    "word_count": 2
-  },
-  {
-    "word": "Decision",
-    "word_count": 2
-  },
-  {
-    "word": "Salaries",
-    "word_count": 2
-  },
-  {
-    "word": "Arizona",
-    "word_count": 2
-  },
-  {
-    "word": "Mexico",
-    "word_count": 2
-  },
-  {
-    "word": "Sectors",
-    "word_count": 2
-  },
-  {
-    "word": "Illinois",
-    "word_count": 2
-  },
-  {
-    "word": "Indiana",
-    "word_count": 2
-  },
-  {
-    "word": "Pow",
-    "word_count": 2
-  },
-  {
-    "word": "Benefit",
-    "word_count": 2
-  },
-  {
-    "word": "Child",
-    "word_count": 2
-  },
-  {
-    "word": "District",
-    "word_count": 2
-  },
-  {
-    "word": "Dependent",
-    "word_count": 2
-  },
-  {
-    "word": "Columbia",
-    "word_count": 2
-  },
-  {
-    "word": "Phone",
-    "word_count": 2
-  },
-  {
-    "word": "Type",
-    "word_count": 2
-  },
-  {
-    "word": "Mississippi",
-    "word_count": 2
-  },
-  {
-    "word": "Diaries",
-    "word_count": 1
-  },
-  {
-    "word": "Awards",
-    "word_count": 1
-  },
-  {
-    "word": "Corporate",
-    "word_count": 1
-  },
-  {
-    "word": "Covers",
-    "word_count": 1
-  },
-  {
-    "word": "Adjustment",
-    "word_count": 1
-  },
-  {
-    "word": "Manage",
-    "word_count": 1
-  },
-  {
-    "word": "Uploaded",
-    "word_count": 1
-  },
-  {
-    "word": "Development",
-    "word_count": 1
-  },
-  {
-    "word": "Guam",
-    "word_count": 1
-  },
-  {
-    "word": "Participant",
-    "word_count": 1
-  },
-  {
-    "word": "Tracked",
-    "word_count": 1
-  },
-  {
-    "word": "Amend",
-    "word_count": 1
-  },
-  {
-    "word": "Education",
-    "word_count": 1
-  },
-  {
-    "word": "Allotment",
-    "word_count": 1
-  },
-  {
-    "word": "Profle",
-    "word_count": 1
-  },
-  {
-    "word": "Item",
-    "word_count": 1
-  },
-  {
-    "word": "Association",
-    "word_count": 1
-  },
-  {
-    "word": "Markets",
-    "word_count": 1
-  },
-  {
-    "word": "Case",
-    "word_count": 1
-  },
-  {
-    "word": "Share",
-    "word_count": 1
-  },
-  {
-    "word": "Prior",
-    "word_count": 1
-  },
-  {
-    "word": "Core",
-    "word_count": 1
-  },
-  {
-    "word": "Payments",
-    "word_count": 1
-  },
-  {
-    "word": "Comparison",
-    "word_count": 1
-  },
-  {
-    "word": "Direct",
-    "word_count": 1
-  },
-  {
-    "word": "Territories",
-    "word_count": 1
-  },
-  {
-    "word": "Rate",
-    "word_count": 1
-  },
-  {
-    "word": "Correspondence",
-    "word_count": 1
-  },
-  {
-    "word": "Deposit",
-    "word_count": 1
-  },
-  {
-    "word": "Request",
-    "word_count": 1
-  },
-  {
-    "word": "Suspend",
-    "word_count": 1
-  },
-  {
-    "word": "Student",
-    "word_count": 1
-  },
-  {
-    "word": "Resume",
-    "word_count": 1
-  },
-  {
-    "word": "Financial",
-    "word_count": 1
-  },
-  {
-    "word": "Claimant",
-    "word_count": 1
-  },
-  {
-    "word": "Adaptive",
-    "word_count": 1
-  },
-  {
-    "word": "Federal",
-    "word_count": 1
-  },
-  {
-    "word": "Combinator",
-    "word_count": 1
-  },
-  {
-    "word": "Fiduciary",
-    "word_count": 1
-  },
-  {
-    "word": "Accrued",
-    "word_count": 1
-  },
-  {
-    "word": "Payment",
-    "word_count": 1
-  },
-  {
-    "word": "Security",
-    "word_count": 1
-  },
-  {
-    "word": "Performance",
-    "word_count": 1
-  },
-  {
-    "word": "Clothing",
-    "word_count": 1
-  },
-  {
-    "word": "School",
-    "word_count": 1
-  },
-  {
-    "word": "Intent",
-    "word_count": 1
-  },
-  {
-    "word": "Lookup",
-    "word_count": 1
-  },
-  {
-    "word": "Usage",
-    "word_count": 1
-  },
-  {
-    "word": "Allowance",
-    "word_count": 1
-  },
-  {
-    "word": "Election",
-    "word_count": 1
+    "word": "Acquisition",
+    "word_count": "1053"
   },
   {
     "word": "File",
-    "word_count": 1
+    "word_count": "1029"
+  },
+  {
+    "word": "Directory",
+    "word_count": "1019"
+  },
+  {
+    "word": "Performance",
+    "word_count": "1010"
+  },
+  {
+    "word": "Intergovernmental",
+    "word_count": "986"
+  },
+  {
+    "word": "Regional",
+    "word_count": "965"
+  },
+  {
+    "word": "Research",
+    "word_count": "940"
+  },
+  {
+    "word": "Careers",
+    "word_count": "915"
+  },
+  {
+    "word": "Management",
+    "word_count": "906"
+  },
+  {
+    "word": "Benefit",
+    "word_count": "895"
+  },
+  {
+    "word": "Women",
+    "word_count": "880"
+  },
+  {
+    "word": "Find",
+    "word_count": "852"
+  },
+  {
+    "word": "Veteran",
+    "word_count": "842"
+  },
+  {
+    "word": "Access",
+    "word_count": "839"
+  },
+  {
+    "word": "Texas",
+    "word_count": "838"
+  },
+  {
+    "word": "News",
+    "word_count": "802"
+  },
+  {
+    "word": "Insurance",
+    "word_count": "794"
+  },
+  {
+    "word": "Education",
+    "word_count": "777"
+  },
+  {
+    "word": "Calendar",
+    "word_count": "757"
+  },
+  {
+    "word": "Logistics",
+    "word_count": "720"
+  },
+  {
+    "word": "Based",
+    "word_count": "715"
+  },
+  {
+    "word": "Training",
+    "word_count": "682"
+  },
+  {
+    "word": "Status",
+    "word_count": "678"
+  },
+  {
+    "word": "Life",
+    "word_count": "665"
+  },
+  {
+    "word": "Homeless",
+    "word_count": "658"
+  },
+  {
+    "word": "List",
+    "word_count": "635"
+  },
+  {
+    "word": "Center",
+    "word_count": "634"
+  },
+  {
+    "word": "HealtheVet",
+    "word_count": "609"
+  },
+  {
+    "word": "Central",
+    "word_count": "601"
+  },
+  {
+    "word": "Memorial",
+    "word_count": "583"
+  },
+  {
+    "word": "VAMC",
+    "word_count": "553"
+  },
+  {
+    "word": "Mobile",
+    "word_count": "551"
+  },
+  {
+    "word": "Contact",
+    "word_count": "546"
+  },
+  {
+    "word": "Business",
+    "word_count": "542"
+  },
+  {
+    "word": "MIRECC",
+    "word_count": "529"
+  },
+  {
+    "word": "Secretary",
+    "word_count": "525"
+  },
+  {
+    "word": "From",
+    "word_count": "523"
+  },
+  {
+    "word": "Support",
+    "word_count": "511"
+  },
+  {
+    "word": "Louis",
+    "word_count": "510"
+  },
+  {
+    "word": "Facilities",
+    "word_count": "505"
+  },
+  {
+    "word": "Remarks",
+    "word_count": "499"
+  },
+  {
+    "word": "Volunteer",
+    "word_count": "497"
+  },
+  {
+    "word": "Small",
+    "word_count": "472"
+  },
+  {
+    "word": "Hepatitis",
+    "word_count": "467"
+  },
+  {
+    "word": "City",
+    "word_count": "464"
+  },
+  {
+    "word": "Utilization",
+    "word_count": "461"
+  },
+  {
+    "word": "Cemeteries",
+    "word_count": "460"
+  },
+  {
+    "word": "Compensation",
+    "word_count": "456"
+  },
+  {
+    "word": "Media",
+    "word_count": "453"
+  },
+  {
+    "word": "Clinics",
+    "word_count": "447"
+  },
+  {
+    "word": "Resources",
+    "word_count": "446"
+  },
+  {
+    "word": "Current",
+    "word_count": "441"
+  },
+  {
+    "word": "James",
+    "word_count": "436"
+  },
+  {
+    "word": "Disadvantaged",
+    "word_count": "433"
+  },
+  {
+    "word": "Donate",
+    "word_count": "430"
+  },
+  {
+    "word": "Valley",
+    "word_count": "422"
+  },
+  {
+    "word": "Operating",
+    "word_count": "422"
+  },
+  {
+    "word": "Rehabilitation",
+    "word_count": "414"
+  },
+  {
+    "word": "Phone",
+    "word_count": "404"
+  },
+  {
+    "word": "Work",
+    "word_count": "401"
+  },
+  {
+    "word": "Johnson",
+    "word_count": "399"
+  },
+  {
+    "word": "Eastern",
+    "word_count": "398"
+  },
+  {
+    "word": "Safety",
+    "word_count": "384"
+  },
+  {
+    "word": "Mental",
+    "word_count": "381"
+  },
+  {
+    "word": "OPAL",
+    "word_count": "380"
+  },
+  {
+    "word": "Visitor",
+    "word_count": "377"
+  },
+  {
+    "word": "News",
+    "word_count": "377"
+  },
+  {
+    "word": "Releases",
+    "word_count": "371"
+  },
+  {
+    "word": "Jobs",
+    "word_count": "368"
+  },
+  {
+    "word": "Caregiver",
+    "word_count": "368"
+  },
+  {
+    "word": "Procurement",
+    "word_count": "366"
+  },
+  {
+    "word": "Request",
+    "word_count": "360"
+  },
+  {
+    "word": "Prevention",
+    "word_count": "353"
+  },
+  {
+    "word": "Pharmacy",
+    "word_count": "351"
+  },
+  {
+    "word": "Gulf",
+    "word_count": "350"
+  },
+  {
+    "word": "CBOC",
+    "word_count": "349"
+  },
+  {
+    "word": "Academy",
+    "word_count": "346"
+  },
+  {
+    "word": "Northern",
+    "word_count": "345"
+  },
+  {
+    "word": "Members",
+    "word_count": "342"
+  },
+  {
+    "word": "Alabama",
+    "word_count": "341"
+  },
+  {
+    "word": "History",
+    "word_count": "334"
+  },
+  {
+    "word": "Team",
+    "word_count": "333"
+  },
+  {
+    "word": "Pittsburgh",
+    "word_count": "332"
+  },
+  {
+    "word": "Redirect",
+    "word_count": "328"
+  },
+  {
+    "word": "Quality",
+    "word_count": "327"
+  },
+  {
+    "word": "Pension",
+    "word_count": "327"
+  },
+  {
+    "word": "Robert",
+    "word_count": "324"
+  },
+  {
+    "word": "Viral",
+    "word_count": "322"
+  },
+  {
+    "word": "Policy",
+    "word_count": "322"
+  },
+  {
+    "word": "Kansas",
+    "word_count": "322"
+  },
+  {
+    "word": "Study",
+    "word_count": "318"
+  },
+  {
+    "word": "Explore",
+    "word_count": "310"
+  },
+  {
+    "word": "Returning",
+    "word_count": "307"
+  },
+  {
+    "word": "Employees",
+    "word_count": "307"
+  },
+  {
+    "word": "Atlanta",
+    "word_count": "305"
+  },
+  {
+    "word": "Network",
+    "word_count": "305"
+  },
+  {
+    "word": "Georgia",
+    "word_count": "301"
+  },
+  {
+    "word": "Federal",
+    "word_count": "293"
+  },
+  {
+    "word": "Iowa",
+    "word_count": "291"
+  },
+  {
+    "word": "Bill",
+    "word_count": "289"
+  },
+  {
+    "word": "Records",
+    "word_count": "286"
+  },
+  {
+    "word": "West",
+    "word_count": "286"
+  },
+  {
+    "word": "Leadership",
+    "word_count": "286"
+  },
+  {
+    "word": "Site",
+    "word_count": "285"
+  },
+  {
+    "word": "VAAA",
+    "word_count": "275"
+  },
+  {
+    "word": "Local",
+    "word_count": "270"
+  },
+  {
+    "word": "Indiana",
+    "word_count": "269"
+  },
+  {
+    "word": "General",
+    "word_count": "269"
+  },
+  {
+    "word": "VADoD",
+    "word_count": "265"
+  },
+  {
+    "word": "Employment",
+    "word_count": "262"
+  },
+  {
+    "word": "John",
+    "word_count": "260"
+  },
+  {
+    "word": "McDonald",
+    "word_count": "260"
+  },
+  {
+    "word": "Publications",
+    "word_count": "259"
+  },
+  {
+    "word": "Vets",
+    "word_count": "252"
+  },
+  {
+    "word": "STVHCS",
+    "word_count": "252"
+  },
+  {
+    "word": "Injury",
+    "word_count": "250"
+  },
+  {
+    "word": "Coast",
+    "word_count": "246"
+  },
+  {
+    "word": "California",
+    "word_count": "238"
+  },
+  {
+    "word": "Western",
+    "word_count": "237"
+  },
+  {
+    "word": "Michigan",
+    "word_count": "237"
+  },
+  {
+    "word": "Southern",
+    "word_count": "231"
+  },
+  {
+    "word": "HIVAIDS",
+    "word_count": "230"
+  },
+  {
+    "word": "Features",
+    "word_count": "229"
+  },
+  {
+    "word": "Website",
+    "word_count": "229"
+  },
+  {
+    "word": "Regulation",
+    "word_count": "228"
+  },
+  {
+    "word": "Treatment",
+    "word_count": "225"
+  },
+  {
+    "word": "Rural",
+    "word_count": "224"
+  },
+  {
+    "word": "Clinical",
+    "word_count": "224"
+  },
+  {
+    "word": "Store",
+    "word_count": "222"
+  },
+  {
+    "word": "Report",
+    "word_count": "222"
+  },
+  {
+    "word": "Appointments",
+    "word_count": "221"
+  },
+  {
+    "word": "Hours",
+    "word_count": "221"
+  },
+  {
+    "word": "Effective",
+    "word_count": "221"
+  },
+  {
+    "word": "Disease",
+    "word_count": "220"
+  },
+  {
+    "word": "Lovell",
+    "word_count": "220"
+  },
+  {
+    "word": "Beach",
+    "word_count": "219"
+  },
+  {
+    "word": "Junction",
+    "word_count": "219"
+  },
+  {
+    "word": "Portland",
+    "word_count": "219"
+  },
+  {
+    "word": "Mountain",
+    "word_count": "218"
+  },
+  {
+    "word": "Visiting",
+    "word_count": "217"
+  },
+  {
+    "word": "Canandaigua",
+    "word_count": "216"
+  },
+  {
+    "word": "Nevada",
+    "word_count": "216"
+  },
+  {
+    "word": "Numbers",
+    "word_count": "216"
+  },
+  {
+    "word": "Arizona",
+    "word_count": "215"
+  },
+  {
+    "word": "Addresses",
+    "word_count": "215"
+  },
+  {
+    "word": "Extended",
+    "word_count": "212"
+  },
+  {
+    "word": "Staff",
+    "word_count": "212"
+  },
+  {
+    "word": "Loans",
+    "word_count": "211"
+  },
+  {
+    "word": "Cincinnati",
+    "word_count": "211"
+  },
+  {
+    "word": "Harbor",
+    "word_count": "209"
+  },
+  {
+    "word": "Issues",
+    "word_count": "208"
+  },
+  {
+    "word": "Programs",
+    "word_count": "208"
+  },
+  {
+    "word": "Francisco",
+    "word_count": "208"
+  },
+  {
+    "word": "Military",
+    "word_count": "206"
+  },
+  {
+    "word": "Providence",
+    "word_count": "205"
+  },
+  {
+    "word": "Sound",
+    "word_count": "204"
+  },
+  {
+    "word": "Geriatrics",
+    "word_count": "203"
+  },
+  {
+    "word": "Advance",
+    "word_count": "202"
+  },
+  {
+    "word": "Related",
+    "word_count": "202"
+  },
+  {
+    "word": "Overton",
+    "word_count": "202"
+  },
+  {
+    "word": "Boston",
+    "word_count": "202"
+  },
+  {
+    "word": "Puget",
+    "word_count": "201"
+  },
+  {
+    "word": "Billing",
+    "word_count": "201"
+  },
+  {
+    "word": "Hudson",
+    "word_count": "200"
+  },
+  {
+    "word": "Memphis",
+    "word_count": "200"
+  },
+  {
+    "word": "Cleveland",
+    "word_count": "200"
+  },
+  {
+    "word": "Pacific",
+    "word_count": "200"
+  },
+  {
+    "word": "Reporting",
+    "word_count": "199"
+  },
+  {
+    "word": "Customer",
+    "word_count": "199"
+  },
+  {
+    "word": "Dayton",
+    "word_count": "198"
+  },
+  {
+    "word": "Hefner",
+    "word_count": "198"
+  },
+  {
+    "word": "Rate",
+    "word_count": "197"
+  },
+  {
+    "word": "Directives",
+    "word_count": "195"
+  },
+  {
+    "word": "Salisbury",
+    "word_count": "194"
+  },
+  {
+    "word": "Whole",
+    "word_count": "194"
+  },
+  {
+    "word": "Arbor",
+    "word_count": "193"
+  },
+  {
+    "word": "Pines",
+    "word_count": "193"
+  },
+  {
+    "word": "Captain",
+    "word_count": "190"
+  },
+  {
+    "word": "Island",
+    "word_count": "189"
+  },
+  {
+    "word": "Jersey",
+    "word_count": "189"
+  },
+  {
+    "word": "Black",
+    "word_count": "189"
+  },
+  {
+    "word": "McGuire",
+    "word_count": "188"
+  },
+  {
+    "word": "Oklahoma",
+    "word_count": "186"
+  },
+  {
+    "word": "Resource",
+    "word_count": "186"
+  },
+  {
+    "word": "Amarillo",
+    "word_count": "186"
+  },
+  {
+    "word": "Toolkit",
+    "word_count": "186"
+  },
+  {
+    "word": "Hills",
+    "word_count": "185"
+  },
+  {
+    "word": "Hunter",
+    "word_count": "184"
+  },
+  {
+    "word": "Battle",
+    "word_count": "184"
+  },
+  {
+    "word": "Angeles",
+    "word_count": "183"
+  },
+  {
+    "word": "Holmes",
+    "word_count": "182"
+  },
+  {
+    "word": "HSR&D",
+    "word_count": "182"
+  },
+  {
+    "word": "Illness",
+    "word_count": "182"
+  },
+  {
+    "word": "Process",
+    "word_count": "182"
+  },
+  {
+    "word": "Edith",
+    "word_count": "181"
+  },
+  {
+    "word": "Nourse",
+    "word_count": "181"
+  },
+  {
+    "word": "Rogers",
+    "word_count": "181"
+  },
+  {
+    "word": "Retail",
+    "word_count": "179"
+  },
+  {
+    "word": "Mexico",
+    "word_count": "179"
+  },
+  {
+    "word": "Academic",
+    "word_count": "178"
+  },
+  {
+    "word": "Richmond",
+    "word_count": "178"
+  },
+  {
+    "word": "Construction",
+    "word_count": "178"
+  },
+  {
+    "word": "Cafeteria",
+    "word_count": "175"
+  },
+  {
+    "word": "Counsel",
+    "word_count": "175"
+  },
+  {
+    "word": "Help",
+    "word_count": "173"
+  },
+  {
+    "word": "Birmingham",
+    "word_count": "173"
+  },
+  {
+    "word": "Louisiana",
+    "word_count": "172"
+  },
+  {
+    "word": "Questions",
+    "word_count": "171"
+  },
+  {
+    "word": "Creek",
+    "word_count": "170"
+  },
+  {
+    "word": "Trauma",
+    "word_count": "168"
+  },
+  {
+    "word": "External",
+    "word_count": "168"
+  },
+  {
+    "word": "Martinsburg",
+    "word_count": "168"
+  },
+  {
+    "word": "Minority",
+    "word_count": "167"
+  },
+  {
+    "word": "Bath",
+    "word_count": "167"
+  },
+  {
+    "word": "Ohio",
+    "word_count": "166"
+  },
+  {
+    "word": "Press",
+    "word_count": "166"
+  },
+  {
+    "word": "Veterans&#",
+    "word_count": "166"
+  },
+  {
+    "word": "Development",
+    "word_count": "166"
+  },
+  {
+    "word": "Affiliations",
+    "word_count": "164"
+  },
+  {
+    "word": "Connecticut",
+    "word_count": "164"
+  },
+  {
+    "word": "Suicide",
+    "word_count": "163"
+  },
+  {
+    "word": "Meeting",
+    "word_count": "161"
+  },
+  {
+    "word": "Diego",
+    "word_count": "160"
+  },
+  {
+    "word": "Palo",
+    "word_count": "160"
+  },
+  {
+    "word": "Prosthetic",
+    "word_count": "160"
+  },
+  {
+    "word": "Application",
+    "word_count": "160"
+  },
+  {
+    "word": "Phoenix",
+    "word_count": "160"
+  },
+  {
+    "word": "Stokes",
+    "word_count": "160"
+  },
+  {
+    "word": "Library",
+    "word_count": "159"
+  },
+  {
+    "word": "Asked",
+    "word_count": "159"
+  },
+  {
+    "word": "Miami",
+    "word_count": "158"
+  },
+  {
+    "word": "Islands",
+    "word_count": "157"
+  },
+  {
+    "word": "Orange",
+    "word_count": "157"
+  },
+  {
+    "word": "William",
+    "word_count": "157"
+  },
+  {
+    "word": "Fayetteville",
+    "word_count": "156"
+  },
+  {
+    "word": "Alto",
+    "word_count": "156"
+  },
+  {
+    "word": "VA’s",
+    "word_count": "155"
+  },
+  {
+    "word": "Experience",
+    "word_count": "155"
+  },
+  {
+    "word": "Exposure",
+    "word_count": "154"
+  },
+  {
+    "word": "User",
+    "word_count": "152"
+  },
+  {
+    "word": "Frequently",
+    "word_count": "151"
+  },
+  {
+    "word": "#VeteranOfTheDay",
+    "word_count": "151"
+  },
+  {
+    "word": "Washington",
+    "word_count": "151"
+  },
+  {
+    "word": "Provider",
+    "word_count": "150"
+  },
+  {
+    "word": "Intake",
+    "word_count": "149"
+  },
+  {
+    "word": "Milwaukee",
+    "word_count": "148"
+  },
+  {
+    "word": "Agent",
+    "word_count": "148"
+  },
+  {
+    "word": "Orlando",
+    "word_count": "147"
+  },
+  {
+    "word": "White",
+    "word_count": "147"
+  },
+  {
+    "word": "Memorialization",
+    "word_count": "146"
+  },
+  {
+    "word": "Middleton",
+    "word_count": "145"
+  },
+  {
+    "word": "County",
+    "word_count": "144"
+  },
+  {
+    "word": "Falls",
+    "word_count": "144"
+  },
+  {
+    "word": "Dingell",
+    "word_count": "144"
+  },
+  {
+    "word": "Syracuse",
+    "word_count": "143"
+  },
+  {
+    "word": "Ralph",
+    "word_count": "143"
+  },
+  {
+    "word": "Results",
+    "word_count": "143"
+  },
+  {
+    "word": "Sierra",
+    "word_count": "142"
+  },
+  {
+    "word": "Tables",
+    "word_count": "142"
+  },
+  {
+    "word": "Promotion",
+    "word_count": "141"
+  },
+  {
+    "word": "Cheyenne",
+    "word_count": "141"
+  },
+  {
+    "word": "Lake",
+    "word_count": "140"
+  },
+  {
+    "word": "Sioux",
+    "word_count": "140"
+  },
+  {
+    "word": "Detroit",
+    "word_count": "140"
+  },
+  {
+    "word": "Therapy",
+    "word_count": "140"
+  },
+  {
+    "word": "Assistance",
+    "word_count": "140"
+  },
+  {
+    "word": "Residency",
+    "word_count": "139"
+  },
+  {
+    "word": "Enterprise",
+    "word_count": "139"
+  },
+  {
+    "word": "Index",
+    "word_count": "137"
+  },
+  {
+    "word": "Colorado",
+    "word_count": "136"
+  },
+  {
+    "word": "Veterans'",
+    "word_count": "135"
+  },
+  {
+    "word": "Montana",
+    "word_count": "134"
+  },
+  {
+    "word": "American",
+    "word_count": "134"
+  },
+  {
+    "word": "Deputy",
+    "word_count": "133"
+  },
+  {
+    "word": "Assessing",
+    "word_count": "133"
+  },
+  {
+    "word": "Their",
+    "word_count": "132"
+  },
+  {
+    "word": "Louisville",
+    "word_count": "132"
+  },
+  {
+    "word": "Fort",
+    "word_count": "132"
+  },
+  {
+    "word": "Organizations",
+    "word_count": "130"
+  },
+  {
+    "word": "Outreach",
+    "word_count": "130"
+  },
+  {
+    "word": "Summary",
+    "word_count": "130"
+  },
+  {
+    "word": "River",
+    "word_count": "130"
+  },
+  {
+    "word": "NebraskaWestern",
+    "word_count": "129"
+  },
+  {
+    "word": "Linda",
+    "word_count": "129"
+  },
+  {
+    "word": "Families",
+    "word_count": "128"
+  },
+  {
+    "word": "Loma",
+    "word_count": "128"
+  },
+  {
+    "word": "MannGrandstaff",
+    "word_count": "128"
+  },
+  {
+    "word": "Greater",
+    "word_count": "127"
+  },
+  {
+    "word": "Reference",
+    "word_count": "126"
+  },
+  {
+    "word": "Reviews",
+    "word_count": "126"
+  },
+  {
+    "word": "Albany",
+    "word_count": "126"
+  },
+  {
+    "word": "CommunityBased",
+    "word_count": "126"
+  },
+  {
+    "word": "Learning",
+    "word_count": "124"
+  },
+  {
+    "word": "Human",
+    "word_count": "124"
+  },
+  {
+    "word": "Coatesville",
+    "word_count": "124"
+  },
+  {
+    "word": "Survivors",
+    "word_count": "124"
+  },
+  {
+    "word": "Centers",
+    "word_count": "124"
+  },
+  {
+    "word": "Finance",
+    "word_count": "123"
+  },
+  {
+    "word": "Long",
+    "word_count": "123"
+  },
+  {
+    "word": "Year",
+    "word_count": "122"
+  },
+  {
+    "word": "Latest",
+    "word_count": "122"
+  },
+  {
+    "word": "Hampshire",
+    "word_count": "121"
+  },
+  {
+    "word": "Primary",
+    "word_count": "121"
+  },
+  {
+    "word": "Ozarks",
+    "word_count": "121"
+  },
+  {
+    "word": "Abstract",
+    "word_count": "120"
+  },
+  {
+    "word": "Glassdoor",
+    "word_count": "120"
+  },
+  {
+    "word": "DeBakey",
+    "word_count": "120"
+  },
+  {
+    "word": "Army",
+    "word_count": "119"
+  },
+  {
+    "word": "Bryan",
+    "word_count": "118"
+  },
+  {
+    "word": "Houston",
+    "word_count": "117"
+  },
+  {
+    "word": "Gibson",
+    "word_count": "117"
+  },
+  {
+    "word": "Bend",
+    "word_count": "116"
+  },
+  {
+    "word": "Harry",
+    "word_count": "116"
+  },
+  {
+    "word": "Salt",
+    "word_count": "115"
+  },
+  {
+    "word": "Dorn",
+    "word_count": "115"
+  },
+  {
+    "word": "Excellence",
+    "word_count": "115"
+  },
+  {
+    "word": "Sloan",
+    "word_count": "115"
+  },
+  {
+    "word": "Arkansas",
+    "word_count": "115"
+  },
+  {
+    "word": "Minneapolis",
+    "word_count": "115"
+  },
+  {
+    "word": "Forms",
+    "word_count": "114"
+  },
+  {
+    "word": "Stratton",
+    "word_count": "114"
+  },
+  {
+    "word": "Guide",
+    "word_count": "114"
+  },
+  {
+    "word": "Grand",
+    "word_count": "114"
+  },
+  {
+    "word": "Practice",
+    "word_count": "114"
+  },
+  {
+    "word": "University",
+    "word_count": "114"
+  },
+  {
+    "word": "Denied",
+    "word_count": "113"
+  },
+  {
+    "word": "Manchester",
+    "word_count": "113"
+  },
+  {
+    "word": "Jennings",
+    "word_count": "112"
+  },
+  {
+    "word": "Career",
+    "word_count": "112"
+  },
+  {
+    "word": "Committee",
+    "word_count": "112"
+  },
+  {
+    "word": "Coastal",
+    "word_count": "111"
+  },
+  {
+    "word": "Charles",
+    "word_count": "111"
+  },
+  {
+    "word": "Durham",
+    "word_count": "111"
+  },
+  {
+    "word": "Privacy",
+    "word_count": "110"
+  },
+  {
+    "word": "Illinois",
+    "word_count": "110"
+  },
+  {
+    "word": "George",
+    "word_count": "110"
+  },
+  {
+    "word": "Erie",
+    "word_count": "110"
+  },
+  {
+    "word": "Traumatic",
+    "word_count": "110"
+  },
+  {
+    "word": "Illiana",
+    "word_count": "109"
+  },
+  {
+    "word": "Tennessee",
+    "word_count": "109"
+  },
+  {
+    "word": "Paso",
+    "word_count": "109"
+  },
+  {
+    "word": "Vetsgov",
+    "word_count": "108"
+  },
+  {
+    "word": "Opinions",
+    "word_count": "108"
+  },
+  {
+    "word": "Montgomery",
+    "word_count": "108"
+  },
+  {
+    "word": "Eric",
+    "word_count": "107"
+  },
+  {
+    "word": "Palm",
+    "word_count": "107"
+  },
+  {
+    "word": "Beckley",
+    "word_count": "107"
+  },
+  {
+    "word": "Family",
+    "word_count": "107"
+  },
+  {
+    "word": "System",
+    "word_count": "106"
+  },
+  {
+    "word": "Truman",
+    "word_count": "106"
+  },
+  {
+    "word": "Author",
+    "word_count": "106"
+  },
+  {
+    "word": "Overview",
+    "word_count": "106"
+  },
+  {
+    "word": "FAQs",
+    "word_count": "106"
+  },
+  {
+    "word": "Brown",
+    "word_count": "106"
+  },
+  {
+    "word": "Claims",
+    "word_count": "105"
+  },
+  {
+    "word": "Jesse",
+    "word_count": "105"
+  },
+  {
+    "word": "Dental",
+    "word_count": "104"
+  },
+  {
+    "word": "CAVHCS",
+    "word_count": "104"
+  },
+  {
+    "word": "Automated",
+    "word_count": "103"
+  },
+  {
+    "word": "Schedule",
+    "word_count": "103"
+  },
+  {
+    "word": "Indemnity",
+    "word_count": "102"
+  },
+  {
+    "word": "Analysis",
+    "word_count": "102"
+  },
+  {
+    "word": "Maryland",
+    "word_count": "102"
+  },
+  {
+    "word": "Review",
+    "word_count": "101"
+  },
+  {
+    "word": "Edward",
+    "word_count": "101"
+  },
+  {
+    "word": "Month",
+    "word_count": "101"
+  },
+  {
+    "word": "Revisions",
+    "word_count": "101"
+  },
+  {
+    "word": "Disability",
+    "word_count": "101"
+  },
+  {
+    "word": "Danville",
+    "word_count": "100"
+  },
+  {
+    "word": "Vermont",
+    "word_count": "100"
+  },
+  {
+    "word": "Shinseki",
+    "word_count": "100"
+  },
+  {
+    "word": "Preparedness",
+    "word_count": "100"
+  },
+  {
+    "word": "Stress",
+    "word_count": "99"
+  },
+  {
+    "word": "Asheville",
+    "word_count": "99"
+  },
+  {
+    "word": "Links",
+    "word_count": "99"
+  },
+  {
+    "word": "Online",
+    "word_count": "99"
+  },
+  {
+    "word": "Providers",
+    "word_count": "98"
+  },
+  {
+    "word": "Professional",
+    "word_count": "98"
+  },
+  {
+    "word": "Advisory",
+    "word_count": "98"
+  },
+  {
+    "word": "Gateway",
+    "word_count": "98"
+  },
+  {
+    "word": "Facility",
+    "word_count": "97"
+  },
+  {
+    "word": "WilkesBarre",
+    "word_count": "97"
+  },
+  {
+    "word": "Multiple",
+    "word_count": "97"
+  },
+  {
+    "word": "Hines",
+    "word_count": "97"
+  },
+  {
+    "word": "Material",
+    "word_count": "97"
+  },
+  {
+    "word": "Videos",
+    "word_count": "97"
+  },
+  {
+    "word": "School",
+    "word_count": "96"
+  },
+  {
+    "word": "Sexual",
+    "word_count": "95"
+  },
+  {
+    "word": "Virginia",
+    "word_count": "95"
+  },
+  {
+    "word": "Apply",
+    "word_count": "94"
+  },
+  {
+    "word": "Social",
+    "word_count": "94"
+  },
+  {
+    "word": "Opportunities",
+    "word_count": "93"
+  },
+  {
+    "word": "Roseburg",
+    "word_count": "93"
+  },
+  {
+    "word": "Vocational",
+    "word_count": "93"
+  },
+  {
+    "word": "Innovation",
+    "word_count": "93"
+  },
+  {
+    "word": "Marion",
+    "word_count": "91"
+  },
+  {
+    "word": "Dependency",
+    "word_count": "91"
+  },
+  {
+    "word": "Living",
+    "word_count": "91"
+  },
+  {
+    "word": "Psychology",
+    "word_count": "91"
+  },
+  {
+    "word": "Huntington",
+    "word_count": "90"
+  },
+  {
+    "word": "More",
+    "word_count": "90"
+  },
+  {
+    "word": "Peters",
+    "word_count": "90"
+  },
+  {
+    "word": "Sclerosis",
+    "word_count": "89"
+  },
+  {
+    "word": "Rocky",
+    "word_count": "89"
+  },
+  {
+    "word": "Eligibility",
+    "word_count": "89"
+  },
+  {
+    "word": "Boise",
+    "word_count": "89"
+  },
+  {
+    "word": "Regulations",
+    "word_count": "89"
+  },
+  {
+    "word": "Campus",
+    "word_count": "88"
+  },
+  {
+    "word": "Burial",
+    "word_count": "88"
+  },
+  {
+    "word": "Annual",
+    "word_count": "88"
+  },
+  {
+    "word": "Loan",
+    "word_count": "87"
+  },
+  {
+    "word": "Vietnam",
+    "word_count": "86"
+  },
+  {
+    "word": "Pershing",
+    "word_count": "85"
+  },
+  {
+    "word": "District",
+    "word_count": "85"
+  },
+  {
+    "word": "Summer",
+    "word_count": "85"
+  },
+  {
+    "word": "Operations",
+    "word_count": "85"
+  },
+  {
+    "word": "Carl",
+    "word_count": "85"
+  },
+  {
+    "word": "Lexington",
+    "word_count": "85"
+  },
+  {
+    "word": "Chillicothe",
+    "word_count": "85"
+  },
+  {
+    "word": "Security",
+    "word_count": "85"
+  },
+  {
+    "word": "Vinson",
+    "word_count": "85"
+  },
+  {
+    "word": "Guidelines",
+    "word_count": "84"
+  },
+  {
+    "word": "Relations",
+    "word_count": "83"
+  },
+  {
+    "word": "Diversity",
+    "word_count": "83"
+  },
+  {
+    "word": "Wilmington",
+    "word_count": "83"
+  },
+  {
+    "word": "Pain",
+    "word_count": "82"
+  },
+  {
+    "word": "Butler",
+    "word_count": "82"
+  },
+  {
+    "word": "Tomah",
+    "word_count": "82"
+  },
+  {
+    "word": "Fargo",
+    "word_count": "82"
+  },
+  {
+    "word": "Sports",
+    "word_count": "81"
+  },
+  {
+    "word": "Force",
+    "word_count": "81"
+  },
+  {
+    "word": "Florida",
+    "word_count": "81"
+  },
+  {
+    "word": "Topics",
+    "word_count": "81"
+  },
+  {
+    "word": "COIN",
+    "word_count": "80"
+  },
+  {
+    "word": "Statistics",
+    "word_count": "80"
+  },
+  {
+    "word": "Telehealth",
+    "word_count": "79"
+  },
+  {
+    "word": "Researchers",
+    "word_count": "79"
+  },
+  {
+    "word": "Brain",
+    "word_count": "79"
+  },
+  {
+    "word": "Albany",
+    "word_count": "79"
+  },
+  {
+    "word": "Dublin",
+    "word_count": "79"
+  },
+  {
+    "word": "Executive",
+    "word_count": "78"
+  },
+  {
+    "word": "Charlie",
+    "word_count": "78"
+  },
+  {
+    "word": "Norwood",
+    "word_count": "78"
+  },
+  {
+    "word": "Division",
+    "word_count": "78"
+  },
+  {
+    "word": "Studies",
+    "word_count": "77"
+  },
+  {
+    "word": "Send",
+    "word_count": "77"
+  },
+  {
+    "word": "Resolution",
+    "word_count": "77"
+  },
+  {
+    "word": "Crescenz",
+    "word_count": "76"
+  },
+  {
+    "word": "Massachusetts",
+    "word_count": "76"
+  },
+  {
+    "word": "Tips",
+    "word_count": "76"
+  },
+  {
+    "word": "Initiative",
+    "word_count": "76"
+  },
+  {
+    "word": "Procurement",
+    "word_count": "76"
+  },
+  {
+    "word": "Corporal",
+    "word_count": "76"
+  },
+  {
+    "word": "Salem",
+    "word_count": "75"
+  },
+  {
+    "word": "Cannot",
+    "word_count": "75"
+  },
+  {
+    "word": "Directions",
+    "word_count": "75"
+  },
+  {
+    "word": "Tuscaloosa",
+    "word_count": "75"
+  },
+  {
+    "word": "Patients",
+    "word_count": "75"
+  },
+  {
+    "word": "Email",
+    "word_count": "75"
+  },
+  {
+    "word": "Recovery",
+    "word_count": "74"
+  },
+  {
+    "word": "OEFOIFOND",
+    "word_count": "74"
+  },
+  {
+    "word": "Dentistry",
+    "word_count": "74"
+  },
+  {
+    "word": "Tribal",
+    "word_count": "74"
+  },
+  {
+    "word": "Meet",
+    "word_count": "74"
+  },
+  {
+    "word": "Nursing",
+    "word_count": "73"
+  },
+  {
+    "word": "Chaplain",
+    "word_count": "73"
+  },
+  {
+    "word": "Alaska",
+    "word_count": "73"
+  },
+  {
+    "word": "Government",
+    "word_count": "73"
+  },
+  {
+    "word": "Feature",
+    "word_count": "73"
+  },
+  {
+    "word": "Rates",
+    "word_count": "73"
+  },
+  {
+    "word": "Story",
+    "word_count": "73"
+  },
+  {
+    "word": "Maintenance",
+    "word_count": "72"
+  },
+  {
+    "word": "Awareness",
+    "word_count": "72"
+  },
+  {
+    "word": "Oregon",
+    "word_count": "72"
+  },
+  {
+    "word": "Published",
+    "word_count": "72"
+  },
+  {
+    "word": "Disorder",
+    "word_count": "72"
+  },
+  {
+    "word": "Award",
+    "word_count": "72"
+  },
+  {
+    "word": "Risk",
+    "word_count": "71"
+  },
+  {
+    "word": "Advanced",
+    "word_count": "71"
+  },
+  {
+    "word": "Appeals",
+    "word_count": "71"
+  },
+  {
+    "word": "Protection",
+    "word_count": "71"
+  },
+  {
+    "word": "Quarterly",
+    "word_count": "70"
+  },
+  {
+    "word": "Cancer",
+    "word_count": "70"
+  },
+  {
+    "word": "Archive",
+    "word_count": "70"
+  },
+  {
+    "word": "Governance",
+    "word_count": "69"
+  },
+  {
+    "word": "Maine",
+    "word_count": "69"
+  },
+  {
+    "word": "Haley",
+    "word_count": "69"
+  },
+  {
+    "word": "Desktop",
+    "word_count": "69"
+  },
+  {
+    "word": "Group",
+    "word_count": "69"
+  },
+  {
+    "word": "Partners",
+    "word_count": "69"
+  },
+  {
+    "word": "Alexandria",
+    "word_count": "69"
+  },
+  {
+    "word": "Week",
+    "word_count": "69"
+  },
+  {
+    "word": "Electronic",
+    "word_count": "68"
+  },
+  {
+    "word": "Arts",
+    "word_count": "68"
+  },
+  {
+    "word": "Clarksburg",
+    "word_count": "68"
+  },
+  {
+    "word": "England",
+    "word_count": "67"
+  },
+  {
+    "word": "Contract",
+    "word_count": "66"
+  },
+  {
+    "word": "Technology",
+    "word_count": "66"
+  },
+  {
+    "word": "Tobacco",
+    "word_count": "66"
+  },
+  {
+    "word": "Special",
+    "word_count": "66"
+  },
+  {
+    "word": "Sheridan",
+    "word_count": "66"
+  },
+  {
+    "word": "Effects",
+    "word_count": "65"
+  },
+  {
+    "word": "Director",
+    "word_count": "65"
+  },
+  {
+    "word": "Assessment",
+    "word_count": "65"
+  },
+  {
+    "word": "VR&E",
+    "word_count": "65"
+  },
+  {
+    "word": "Cloud",
+    "word_count": "65"
+  },
+  {
+    "word": "Chief",
+    "word_count": "65"
+  },
+  {
+    "word": "Core",
+    "word_count": "64"
+  },
+  {
+    "word": "Tampa",
+    "word_count": "64"
+  },
+  {
+    "word": "SGLI",
+    "word_count": "64"
+  },
+  {
+    "word": "Maps",
+    "word_count": "64"
+  },
+  {
+    "word": "Lebanon",
+    "word_count": "64"
+  },
+  {
+    "word": "Creative",
+    "word_count": "63"
+  },
+  {
+    "word": "Stories",
+    "word_count": "63"
+  },
+  {
+    "word": "Housing",
+    "word_count": "63"
+  },
+  {
+    "word": "Employee",
+    "word_count": "63"
+  },
+  {
+    "word": "Ambulatory",
+    "word_count": "62"
+  },
+  {
+    "word": "Medicine",
+    "word_count": "62"
+  },
+  {
+    "word": "Asset",
+    "word_count": "62"
+  },
+  {
+    "word": "Precedent",
+    "word_count": "62"
+  },
+  {
+    "word": "Aleda",
+    "word_count": "62"
+  },
+  {
+    "word": "Fact",
+    "word_count": "62"
+  },
+  {
+    "word": "Lutz",
+    "word_count": "62"
+  },
+  {
+    "word": "Saginaw",
+    "word_count": "62"
+  },
+  {
+    "word": "Chronic",
+    "word_count": "61"
+  },
+  {
+    "word": "Materials",
+    "word_count": "61"
+  },
+  {
+    "word": "FOIA",
+    "word_count": "61"
+  },
+  {
+    "word": "Northport",
+    "word_count": "61"
+  },
+  {
+    "word": "Homelessness",
+    "word_count": "61"
+  },
+  {
+    "word": "Zandt",
+    "word_count": "61"
+  },
+  {
+    "word": "Dole",
+    "word_count": "61"
+  },
+  {
+    "word": "Birmingham",
+    "word_count": "60"
+  },
+  {
+    "word": "Virtual",
+    "word_count": "60"
+  },
+  {
+    "word": "Card",
+    "word_count": "60"
+  },
+  {
+    "word": "Does",
+    "word_count": "60"
+  },
+  {
+    "word": "Canteen",
+    "word_count": "60"
+  },
+  {
+    "word": "Will",
+    "word_count": "60"
+  },
+  {
+    "word": "Radiation",
+    "word_count": "60"
+  },
+  {
+    "word": "First",
+    "word_count": "60"
+  },
+  {
+    "word": "Base",
+    "word_count": "60"
+  },
+  {
+    "word": "Currents",
+    "word_count": "60"
+  },
+  {
+    "word": "Dependents",
+    "word_count": "60"
+  },
+  {
+    "word": "Women’s",
+    "word_count": "59"
+  },
+  {
+    "word": "Scale",
+    "word_count": "59"
+  },
+  {
+    "word": "Wainwright",
+    "word_count": "59"
+  },
+  {
+    "word": "Contracting",
+    "word_count": "59"
+  },
+  {
+    "word": "During",
+    "word_count": "59"
+  },
+  {
+    "word": "Update",
+    "word_count": "58"
+  },
+  {
+    "word": "Accuracy",
+    "word_count": "58"
+  },
+  {
+    "word": "Jonathan",
+    "word_count": "58"
+  },
+  {
+    "word": "Altoona",
+    "word_count": "58"
+  },
+  {
+    "word": "Illnesses",
+    "word_count": "58"
+  },
+  {
+    "word": "Children",
+    "word_count": "58"
+  },
+  {
+    "word": "Locator",
+    "word_count": "57"
+  },
+  {
+    "word": "Food",
+    "word_count": "57"
+  },
+  {
+    "word": "Festival",
+    "word_count": "57"
+  },
+  {
+    "word": "Offered",
+    "word_count": "57"
+  },
+  {
+    "word": "Financial",
+    "word_count": "57"
+  },
+  {
+    "word": "Board",
+    "word_count": "56"
+  },
+  {
+    "word": "Values",
+    "word_count": "56"
+  },
+  {
+    "word": "SORCC",
+    "word_count": "56"
+  },
+  {
+    "word": "Improving",
+    "word_count": "56"
+  },
+  {
+    "word": "Oscar",
+    "word_count": "56"
+  },
+  {
+    "word": "Exposures",
+    "word_count": "56"
+  },
+  {
+    "word": "Inscription",
+    "word_count": "56"
+  },
+  {
+    "word": "Happenings",
+    "word_count": "56"
+  },
+  {
+    "word": "Hampton",
+    "word_count": "55"
+  },
+  {
+    "word": "Serving",
+    "word_count": "55"
+  },
+  {
+    "word": "Substance",
+    "word_count": "55"
+  },
+  {
+    "word": "Sonny",
+    "word_count": "54"
+  },
+  {
+    "word": "Columbia",
+    "word_count": "54"
+  },
+  {
+    "word": "Violence",
+    "word_count": "54"
+  },
+  {
+    "word": "Internet",
+    "word_count": "54"
+  },
+  {
+    "word": "Tools",
+    "word_count": "53"
+  },
+  {
+    "word": "Juan",
+    "word_count": "53"
+  },
+  {
+    "word": "Navy",
+    "word_count": "53"
+  },
+  {
+    "word": "Voluntary",
+    "word_count": "53"
+  },
+  {
+    "word": "Games",
+    "word_count": "53"
+  },
+  {
+    "word": "Through",
+    "word_count": "53"
+  },
+  {
+    "word": "VLER",
+    "word_count": "53"
+  },
+  {
+    "word": "Awards",
+    "word_count": "53"
+  },
+  {
+    "word": "Event",
+    "word_count": "53"
+  },
+  {
+    "word": "Internship",
+    "word_count": "52"
+  },
+  {
+    "word": "Nurse",
+    "word_count": "52"
+  },
+  {
+    "word": "Transportation",
+    "word_count": "52"
+  },
+  {
+    "word": "Policies",
+    "word_count": "52"
+  },
+  {
+    "word": "Ethics",
+    "word_count": "52"
+  },
+  {
+    "word": "Video",
+    "word_count": "51"
+  },
+  {
+    "word": "Northwest",
+    "word_count": "51"
+  },
+  {
+    "word": "PolytraumaTBI",
+    "word_count": "51"
+  },
+  {
+    "word": "Disabled",
+    "word_count": "51"
+  },
+  {
+    "word": "Shreveport",
+    "word_count": "51"
+  },
+  {
+    "word": "Section",
+    "word_count": "50"
+  },
+  {
+    "word": "Requirements",
+    "word_count": "50"
+  },
+  {
+    "word": "Lease",
+    "word_count": "50"
+  },
+  {
+    "word": "PAGE",
+    "word_count": "50"
+  },
+  {
+    "word": "Heart",
+    "word_count": "50"
+  },
+  {
+    "word": "House",
+    "word_count": "50"
+  },
+  {
+    "word": "Screen",
+    "word_count": "50"
+  },
+  {
+    "word": "Healthy",
+    "word_count": "50"
+  },
+  {
+    "word": "Equipment",
+    "word_count": "50"
+  },
+  {
+    "word": "Strategic",
+    "word_count": "50"
+  },
+  {
+    "word": "Legacy",
+    "word_count": "49"
+  },
+  {
+    "word": "Screening",
+    "word_count": "49"
+  },
+  {
+    "word": "Identity",
+    "word_count": "49"
+  },
+  {
+    "word": "Student",
+    "word_count": "49"
+  },
+  {
+    "word": "Planning",
+    "word_count": "48"
+  },
+  {
+    "word": "Opportunity",
+    "word_count": "48"
+  },
+  {
+    "word": "Energy",
+    "word_count": "48"
+  },
+  {
+    "word": "Guidance",
+    "word_count": "48"
+  },
+  {
+    "word": "Table",
+    "word_count": "48"
+  },
+  {
+    "word": "Spring",
+    "word_count": "48"
+  },
+  {
+    "word": "Affordable",
+    "word_count": "48"
+  },
+  {
+    "word": "Supply",
+    "word_count": "48"
+  },
+  {
+    "word": "MidSouth",
+    "word_count": "48"
+  },
+  {
+    "word": "Referral",
+    "word_count": "48"
+  },
+  {
+    "word": "Nutrition",
+    "word_count": "47"
+  },
+  {
+    "word": "Fellowship",
+    "word_count": "47"
+  },
+  {
+    "word": "LGBT",
+    "word_count": "47"
+  },
+  {
+    "word": "Accountability",
+    "word_count": "47"
+  },
+  {
+    "word": "Modernization",
+    "word_count": "47"
+  },
+  {
+    "word": "Emergency",
+    "word_count": "47"
+  },
+  {
+    "word": "Chalmers",
+    "word_count": "47"
+  },
+  {
+    "word": "Wylie",
+    "word_count": "47"
+  },
+  {
+    "word": "Value",
+    "word_count": "46"
+  },
+  {
+    "word": "Corps",
+    "word_count": "46"
+  },
+  {
+    "word": "Projects",
+    "word_count": "46"
+  },
+  {
+    "word": "Professionals",
+    "word_count": "46"
+  },
+  {
+    "word": "Choice",
+    "word_count": "46"
+  },
+  {
+    "word": "Document",
+    "word_count": "45"
+  },
+  {
+    "word": "Marine",
+    "word_count": "45"
+  },
+  {
+    "word": "Abuse",
+    "word_count": "45"
+  },
+  {
+    "word": "Direct",
+    "word_count": "45"
+  },
+  {
+    "word": "Disorders",
+    "word_count": "45"
+  },
+  {
+    "word": "Officer",
+    "word_count": "44"
+  },
+  {
+    "word": "Women's",
+    "word_count": "44"
+  },
+  {
+    "word": "Iraq",
+    "word_count": "44"
+  },
+  {
+    "word": "Diabetes",
+    "word_count": "44"
+  },
+  {
+    "word": "Helps",
+    "word_count": "44"
+  },
+  {
+    "word": "Inspector",
+    "word_count": "44"
+  },
+  {
+    "word": "Chicago",
+    "word_count": "44"
+  },
+  {
+    "word": "Account",
+    "word_count": "44"
+  },
+  {
+    "word": "Houston",
+    "word_count": "44"
+  },
+  {
+    "word": "Cord",
+    "word_count": "44"
+  },
+  {
+    "word": "Than",
+    "word_count": "44"
+  },
+  {
+    "word": "When",
+    "word_count": "44"
+  },
+  {
+    "word": "Marking",
+    "word_count": "43"
+  },
+  {
+    "word": "Speed",
+    "word_count": "43"
+  },
+  {
+    "word": "Plan",
+    "word_count": "43"
+  },
+  {
+    "word": "Physical",
+    "word_count": "43"
+  },
+  {
+    "word": "Active",
+    "word_count": "43"
+  },
+  {
+    "word": "HSRD",
+    "word_count": "43"
+  },
+  {
+    "word": "Spinal",
+    "word_count": "43"
+  },
+  {
+    "word": "Winter",
+    "word_count": "42"
+  },
+  {
+    "word": "EnhancedUse",
+    "word_count": "42"
+  },
+  {
+    "word": "Among",
+    "word_count": "42"
+  },
+  {
+    "word": "Caregivers",
+    "word_count": "42"
+  },
+  {
+    "word": "Pathways",
+    "word_count": "42"
+  },
+  {
+    "word": "That",
+    "word_count": "42"
+  },
+  {
+    "word": "Podcast",
+    "word_count": "42"
+  },
+  {
+    "word": "Philadelphia",
+    "word_count": "42"
+  },
+  {
+    "word": "Welcome",
+    "word_count": "42"
+  },
+  {
+    "word": "Course",
+    "word_count": "42"
+  },
+  {
+    "word": "VAMC",
+    "word_count": "42"
+  },
+  {
+    "word": "Decision",
+    "word_count": "42"
+  },
+  {
+    "word": "Need",
+    "word_count": "41"
+  },
+  {
+    "word": "TSGLI",
+    "word_count": "41"
+  },
+  {
+    "word": "Soldiers'",
+    "word_count": "41"
+  },
+  {
+    "word": "Tests",
+    "word_count": "41"
+  },
+  {
+    "word": "LaborManagement",
+    "word_count": "41"
+  },
+  {
+    "word": "Denver",
+    "word_count": "41"
+  },
+  {
+    "word": "Organization",
+    "word_count": "41"
+  },
+  {
+    "word": "Featured",
+    "word_count": "41"
+  },
+  {
+    "word": "Initiatives",
+    "word_count": "41"
+  },
+  {
+    "word": "Record",
+    "word_count": "41"
+  },
+  {
+    "word": "Occupational",
+    "word_count": "41"
+  },
+  {
+    "word": "Veteran",
+    "word_count": "40"
+  },
+  {
+    "word": "Parking",
+    "word_count": "40"
+  },
+  {
+    "word": "EMPS",
+    "word_count": "40"
+  },
+  {
+    "word": "Petersburg",
+    "word_count": "40"
+  },
+  {
+    "word": "Honor",
+    "word_count": "40"
+  },
+  {
+    "word": "Pensions",
+    "word_count": "40"
+  },
+  {
+    "word": "Live",
+    "word_count": "40"
+  },
+  {
+    "word": "Lakes",
+    "word_count": "40"
+  },
+  {
+    "word": "Grants",
+    "word_count": "40"
+  },
+  {
+    "word": "Podcast",
+    "word_count": "40"
+  },
+  {
+    "word": "Open",
+    "word_count": "39"
+  },
+  {
+    "word": "Under",
+    "word_count": "39"
+  },
+  {
+    "word": "Adaptive",
+    "word_count": "39"
+  },
+  {
+    "word": "Carolina",
+    "word_count": "39"
+  },
+  {
+    "word": "Caribbean",
+    "word_count": "39"
+  },
+  {
+    "word": "Oversight",
+    "word_count": "39"
+  },
+  {
+    "word": "Integration",
+    "word_count": "39"
+  },
+  {
+    "word": "Distribution",
+    "word_count": "39"
+  },
+  {
+    "word": "Outstation",
+    "word_count": "39"
+  },
+  {
+    "word": "VA&#s",
+    "word_count": "39"
+  },
+  {
+    "word": "Town",
+    "word_count": "39"
+  },
+  {
+    "word": "Protected",
+    "word_count": "39"
+  },
+  {
+    "word": "Success",
+    "word_count": "39"
+  },
+  {
+    "word": "Lifetime",
+    "word_count": "39"
+  },
+  {
+    "word": "Registry",
+    "word_count": "38"
+  },
+  {
+    "word": "Counseling",
+    "word_count": "38"
+  },
+  {
+    "word": "Former",
+    "word_count": "38"
+  },
+  {
+    "word": "Mission",
+    "word_count": "38"
+  },
+  {
+    "word": "Types",
+    "word_count": "38"
+  },
+  {
+    "word": "Identification",
+    "word_count": "38"
+  },
+  {
+    "word": "Recent",
+    "word_count": "38"
+  },
+  {
+    "word": "Annex",
+    "word_count": "38"
+  },
+  {
+    "word": "Native",
+    "word_count": "38"
+  },
+  {
+    "word": "Loss",
+    "word_count": "38"
+  },
+  {
+    "word": "Standards",
+    "word_count": "37"
+  },
+  {
+    "word": "Deployment",
+    "word_count": "37"
+  },
+  {
+    "word": "Compensated",
+    "word_count": "37"
+  },
+  {
+    "word": "Disaster",
+    "word_count": "37"
+  },
+  {
+    "word": "Green",
+    "word_count": "37"
+  },
+  {
+    "word": "Free",
+    "word_count": "37"
+  },
+  {
+    "word": "Guard",
+    "word_count": "37"
+  },
+  {
+    "word": "Security",
+    "word_count": "37"
+  },
+  {
+    "word": "Hospice",
+    "word_count": "37"
+  },
+  {
+    "word": "Coach",
+    "word_count": "37"
+  },
+  {
+    "word": "Disasters",
+    "word_count": "37"
+  },
+  {
+    "word": "Diseases",
+    "word_count": "37"
+  },
+  {
+    "word": "Unit",
+    "word_count": "37"
+  },
+  {
+    "word": "Upcoming",
+    "word_count": "37"
+  },
+  {
+    "word": "Hearing",
+    "word_count": "37"
+  },
+  {
+    "word": "NonVA",
+    "word_count": "37"
+  },
+  {
+    "word": "Offices",
+    "word_count": "37"
+  },
+  {
+    "word": "Receive",
+    "word_count": "37"
+  },
+  {
+    "word": "NCRAR",
+    "word_count": "37"
+  },
+  {
+    "word": "Administrative",
+    "word_count": "37"
+  },
+  {
+    "word": "Environmental",
+    "word_count": "37"
+  },
+  {
+    "word": "Change",
+    "word_count": "36"
+  },
+  {
+    "word": "Contacts",
+    "word_count": "36"
+  },
+  {
+    "word": "Manchester",
+    "word_count": "36"
+  },
+  {
+    "word": "Competition",
+    "word_count": "36"
+  },
+  {
+    "word": "Calender",
+    "word_count": "36"
+  },
+  {
+    "word": "Eligible",
+    "word_count": "36"
+  },
+  {
+    "word": "Documents",
+    "word_count": "36"
+  },
+  {
+    "word": "WRIISC",
+    "word_count": "36"
+  },
+  {
+    "word": "Procedures",
+    "word_count": "36"
+  },
+  {
+    "word": "Million",
+    "word_count": "36"
+  },
+  {
+    "word": "Hall",
+    "word_count": "36"
+  },
+  {
+    "word": "Conditions",
+    "word_count": "36"
+  },
+  {
+    "word": "Verification",
+    "word_count": "36"
+  },
+  {
+    "word": "Series",
+    "word_count": "36"
+  },
+  {
+    "word": "Updates",
+    "word_count": "36"
+  },
+  {
+    "word": "Aids",
+    "word_count": "36"
+  },
+  {
+    "word": "Make",
+    "word_count": "36"
+  },
+  {
+    "word": "Nationwide",
+    "word_count": "36"
+  },
+  {
+    "word": "Baltimore",
+    "word_count": "36"
+  },
+  {
+    "word": "Field",
+    "word_count": "36"
+  },
+  {
+    "word": "Buffalo",
+    "word_count": "35"
+  },
+  {
+    "word": "Learn",
+    "word_count": "35"
+  },
+  {
+    "word": "Managing",
+    "word_count": "35"
+  },
+  {
+    "word": "Biographies",
+    "word_count": "35"
+  },
+  {
+    "word": "Whistleblower",
+    "word_count": "35"
+  },
+  {
+    "word": "Paul",
+    "word_count": "35"
+  },
+  {
+    "word": "Feedback",
+    "word_count": "35"
+  },
+  {
+    "word": "Debt",
+    "word_count": "35"
+  },
+  {
+    "word": "Freedom",
+    "word_count": "35"
+  },
+  {
+    "word": "Highlights",
+    "word_count": "35"
+  },
+  {
+    "word": "Accreditation",
+    "word_count": "35"
+  },
+  {
+    "word": "Evidence",
+    "word_count": "35"
+  },
+  {
+    "word": "Travel",
+    "word_count": "35"
+  },
+  {
+    "word": "Indianapolis",
+    "word_count": "34"
+  },
+  {
+    "word": "Courses",
+    "word_count": "34"
+  },
+  {
+    "word": "Consultation",
+    "word_count": "34"
+  },
+  {
+    "word": "Using",
+    "word_count": "34"
+  },
+  {
+    "word": "Camp",
+    "word_count": "34"
+  },
+  {
+    "word": "Albuquerque",
+    "word_count": "34"
+  },
+  {
+    "word": "Served",
+    "word_count": "34"
+  },
+  {
+    "word": "Enrollment",
+    "word_count": "34"
+  },
+  {
+    "word": "Honolulu",
+    "word_count": "34"
+  },
+  {
+    "word": "Capital",
+    "word_count": "34"
+  },
+  {
+    "word": "Integrated",
+    "word_count": "34"
+  },
+  {
+    "word": "After",
+    "word_count": "34"
+  },
+  {
+    "word": "Little",
+    "word_count": "34"
+  },
+  {
+    "word": "Wheelchair",
+    "word_count": "34"
+  },
+  {
+    "word": "Reserve",
+    "word_count": "33"
+  },
+  {
+    "word": "Springs",
+    "word_count": "33"
+  },
+  {
+    "word": "WellBeing",
+    "word_count": "33"
+  },
+  {
+    "word": "Transition",
+    "word_count": "33"
+  },
+  {
+    "word": "Liver",
+    "word_count": "33"
+  },
+  {
+    "word": "SelfHelp",
+    "word_count": "33"
+  },
+  {
+    "word": "Surgery",
+    "word_count": "33"
+  },
+  {
+    "word": "CHAMPVA",
+    "word_count": "33"
+  },
+  {
+    "word": "Understanding",
+    "word_count": "33"
+  },
+  {
+    "word": "Facebook",
+    "word_count": "33"
+  },
+  {
+    "word": "Budget",
+    "word_count": "33"
+  },
+  {
+    "word": "Conference",
+    "word_count": "33"
+  },
+  {
+    "word": "Theft",
+    "word_count": "32"
+  },
+  {
+    "word": "Fisher",
+    "word_count": "32"
+  },
+  {
+    "word": "Grant",
+    "word_count": "32"
+  },
+  {
+    "word": "Educational",
+    "word_count": "32"
+  },
+  {
+    "word": "Drug",
+    "word_count": "32"
+  },
+  {
+    "word": "Volunteers",
+    "word_count": "32"
+  },
+  {
+    "word": "Spotlight",
+    "word_count": "32"
+  },
+  {
+    "word": "Portal",
+    "word_count": "32"
+  },
+  {
+    "word": "Advocate",
+    "word_count": "32"
+  },
+  {
+    "word": "Chapter",
+    "word_count": "32"
+  },
+  {
+    "word": "Deeplink",
+    "word_count": "32"
+  },
+  {
+    "word": "Alcohol",
+    "word_count": "32"
+  },
+  {
+    "word": "Duty",
+    "word_count": "32"
+  },
+  {
+    "word": "Nurses",
+    "word_count": "32"
+  },
+  {
+    "word": "Should",
+    "word_count": "32"
+  },
+  {
+    "word": "Rehabilitative",
+    "word_count": "32"
+  },
+  {
+    "word": "Chat",
+    "word_count": "32"
+  },
+  {
+    "word": "Geriatric",
+    "word_count": "32"
+  },
+  {
+    "word": "Behavioral",
+    "word_count": "32"
+  },
+  {
+    "word": "Sleep",
+    "word_count": "32"
+  },
+  {
+    "word": "Available",
+    "word_count": "32"
+  },
+  {
+    "word": "Message",
+    "word_count": "32"
+  },
+  {
+    "word": "Working",
+    "word_count": "31"
+  },
+  {
+    "word": "Fiscal",
+    "word_count": "31"
+  },
+  {
+    "word": "Safe",
+    "word_count": "31"
+  },
+  {
+    "word": "Evaluation",
+    "word_count": "31"
+  },
+  {
+    "word": "Answers",
+    "word_count": "31"
+  },
+  {
+    "word": "Back",
+    "word_count": "31"
+  },
+  {
+    "word": "Serve",
+    "word_count": "31"
+  },
+  {
+    "word": "Trainees",
+    "word_count": "31"
+  },
+  {
+    "word": "Number",
+    "word_count": "31"
+  },
+  {
+    "word": "Create",
+    "word_count": "31"
+  },
+  {
+    "word": "Improvement",
+    "word_count": "31"
+  },
+  {
+    "word": "Para",
+    "word_count": "31"
+  },
+  {
+    "word": "Golden",
+    "word_count": "31"
+  },
+  {
+    "word": "Post",
+    "word_count": "31"
+  },
+  {
+    "word": "Date",
+    "word_count": "31"
+  },
+  {
+    "word": "Santa",
+    "word_count": "31"
+  },
+  {
+    "word": "Vision",
+    "word_count": "31"
+  },
+  {
+    "word": "Making",
+    "word_count": "31"
+  },
+  {
+    "word": "David",
+    "word_count": "31"
+  },
+  {
+    "word": "Achievements",
+    "word_count": "31"
+  },
+  {
+    "word": "Jackson",
+    "word_count": "31"
+  },
+  {
+    "word": "Newsletter",
+    "word_count": "31"
+  },
+  {
+    "word": "Salisbury",
+    "word_count": "31"
+  },
+  {
+    "word": "Claim",
+    "word_count": "31"
+  },
+  {
+    "word": "Director",
+    "word_count": "30"
+  },
+  {
+    "word": "Know",
+    "word_count": "30"
+  },
+  {
+    "word": "Technical",
+    "word_count": "30"
+  },
+  {
+    "word": "SDVI",
+    "word_count": "30"
+  },
+  {
+    "word": "Design",
+    "word_count": "30"
+  },
+  {
+    "word": "Registration",
+    "word_count": "30"
+  },
+  {
+    "word": "Additional",
+    "word_count": "30"
+  },
+  {
+    "word": "Model",
+    "word_count": "30"
+  },
+  {
+    "word": "Beneficios",
+    "word_count": "30"
+  },
+  {
+    "word": "Between",
+    "word_count": "30"
+  },
+  {
+    "word": "Manila",
+    "word_count": "30"
+  },
+  {
+    "word": "Host",
+    "word_count": "30"
+  },
+  {
+    "word": "Time",
+    "word_count": "30"
+  },
+  {
+    "word": "Take",
+    "word_count": "30"
+  },
+  {
+    "word": "Indian",
+    "word_count": "30"
+  },
+  {
+    "word": "Rock",
+    "word_count": "30"
+  },
+  {
+    "word": "Auditory",
+    "word_count": "30"
+  },
+  {
+    "word": "Payment",
+    "word_count": "30"
+  },
+  {
+    "word": "Muskogee",
+    "word_count": "30"
+  },
+  {
+    "word": "Article",
+    "word_count": "30"
+  },
+  {
+    "word": "Line",
+    "word_count": "29"
+  },
+  {
+    "word": "Specialty",
+    "word_count": "29"
+  },
+  {
+    "word": "Transgender",
+    "word_count": "29"
+  },
+  {
+    "word": "Road",
+    "word_count": "29"
+  },
+  {
+    "word": "Have",
+    "word_count": "29"
+  },
+  {
+    "word": "Madison",
+    "word_count": "29"
+  },
+  {
+    "word": "Digital",
+    "word_count": "29"
+  },
+  {
+    "word": "East",
+    "word_count": "29"
+  },
+  {
+    "word": "Implementation",
+    "word_count": "29"
+  },
+  {
+    "word": "Oral",
+    "word_count": "29"
+  },
+  {
+    "word": "Togus",
+    "word_count": "29"
+  },
+  {
+    "word": "Depression",
+    "word_count": "29"
+  },
+  {
+    "word": "Council",
+    "word_count": "29"
+  },
+  {
+    "word": "Dakota",
+    "word_count": "29"
+  },
+  {
+    "word": "Better",
+    "word_count": "29"
+  },
+  {
+    "word": "High",
+    "word_count": "29"
+  },
+  {
+    "word": "Servicemembers'",
+    "word_count": "29"
+  },
+  {
+    "word": "Richmond",
+    "word_count": "29"
+  },
+  {
+    "word": "Laboratory",
+    "word_count": "29"
+  },
+  {
+    "word": "Cost",
+    "word_count": "29"
+  },
+  {
+    "word": "Certification",
+    "word_count": "28"
+  },
+  {
+    "word": "VeHUVAGov",
+    "word_count": "28"
+  },
+  {
+    "word": "Parents",
+    "word_count": "28"
+  },
+  {
+    "word": "Medication",
+    "word_count": "28"
+  },
+  {
+    "word": "Hurricane",
+    "word_count": "28"
+  },
+  {
+    "word": "Products",
+    "word_count": "28"
+  },
+  {
+    "word": "Students",
+    "word_count": "28"
+  },
+  {
+    "word": "Personal",
+    "word_count": "28"
+  },
+  {
+    "word": "Announcements",
+    "word_count": "28"
+  },
+  {
+    "word": "Manage",
+    "word_count": "28"
+  },
+  {
+    "word": "Blood",
+    "word_count": "28"
+  },
+  {
+    "word": "Receives",
+    "word_count": "28"
+  },
+  {
+    "word": "Hosts",
+    "word_count": "28"
+  },
+  {
+    "word": "Improve",
+    "word_count": "28"
+  },
+  {
+    "word": "Important",
+    "word_count": "28"
+  },
+  {
+    "word": "Beneficiary",
+    "word_count": "27"
+  },
+  {
+    "word": "Physician",
+    "word_count": "27"
+  },
+  {
+    "word": "Newsletters",
+    "word_count": "27"
+  },
+  {
+    "word": "OHRM",
+    "word_count": "27"
+  },
+  {
+    "word": "Anchorage",
+    "word_count": "27"
+  },
+  {
+    "word": "Transplant",
+    "word_count": "27"
+  },
+  {
+    "word": "Wellness",
+    "word_count": "27"
+  },
+  {
+    "word": "Veterans’",
+    "word_count": "27"
+  },
+  {
+    "word": "AIMS",
+    "word_count": "27"
+  },
+  {
+    "word": "Veterans",
+    "word_count": "27"
+  },
+  {
+    "word": "Helping",
+    "word_count": "27"
+  },
+  {
+    "word": "PARTNER",
+    "word_count": "27"
+  },
+  {
+    "word": "Blind",
+    "word_count": "27"
+  },
+  {
+    "word": "Naval",
+    "word_count": "27"
+  },
+  {
+    "word": "Progress",
+    "word_count": "27"
+  },
+  {
+    "word": "Getting",
+    "word_count": "27"
+  },
+  {
+    "word": "Needs",
+    "word_count": "27"
+  },
+  {
+    "word": "Down",
+    "word_count": "27"
+  },
+  {
+    "word": "Infographic",
+    "word_count": "27"
+  },
+  {
+    "word": "Onboarding",
+    "word_count": "27"
+  },
+  {
+    "word": "Detroit",
+    "word_count": "27"
+  },
+  {
+    "word": "Fiduciary",
+    "word_count": "27"
+  },
+  {
+    "word": "Submission",
+    "word_count": "27"
+  },
+  {
+    "word": "Operations",
+    "word_count": "26"
+  },
+  {
+    "word": "Acting",
+    "word_count": "26"
+  },
+  {
+    "word": "Common",
+    "word_count": "26"
+  },
+  {
+    "word": "Dementia",
+    "word_count": "26"
+  },
+  {
+    "word": "Fund",
+    "word_count": "26"
+  },
+  {
+    "word": "Payments",
+    "word_count": "26"
+  },
+  {
+    "word": "SimLEARN",
+    "word_count": "26"
+  },
+  {
+    "word": "Posttraumatic",
+    "word_count": "26"
+  },
+  {
+    "word": "Representatives",
+    "word_count": "26"
+  },
+  {
+    "word": "Mortgage",
+    "word_count": "26"
+  },
+  {
+    "word": "Palliative",
+    "word_count": "26"
+  },
+  {
+    "word": "Oficina",
+    "word_count": "26"
+  },
+  {
+    "word": "Software",
+    "word_count": "26"
+  },
+  {
+    "word": "Complaint",
+    "word_count": "26"
+  },
+  {
+    "word": "World",
+    "word_count": "26"
+  },
+  {
+    "word": "Epidemiology",
+    "word_count": "26"
+  },
+  {
+    "word": "Chain",
+    "word_count": "26"
+  },
+  {
+    "word": "Appointment",
+    "word_count": "26"
+  },
+  {
+    "word": "Introduction",
+    "word_count": "26"
+  },
+  {
+    "word": "Discharge",
+    "word_count": "26"
+  },
+  {
+    "word": "Volume",
+    "word_count": "26"
+  },
+  {
+    "word": "Kidney",
+    "word_count": "26"
+  },
+  {
+    "word": "Tournament",
+    "word_count": "26"
+  },
+  {
+    "word": "Range",
+    "word_count": "26"
+  },
+  {
+    "word": "Lesbian",
+    "word_count": "26"
+  },
+  {
+    "word": "Where",
+    "word_count": "26"
+  },
+  {
+    "word": "Effectiveness",
+    "word_count": "25"
+  },
+  {
+    "word": "Used",
+    "word_count": "25"
+  },
+  {
+    "word": "ServiceDisabled",
+    "word_count": "25"
+  },
+  {
+    "word": "Face",
+    "word_count": "25"
+  },
+  {
+    "word": "Offers",
+    "word_count": "25"
+  },
+  {
+    "word": "Prescription",
+    "word_count": "25"
+  },
+  {
+    "word": "Weight",
+    "word_count": "25"
+  },
+  {
+    "word": "Refill",
+    "word_count": "25"
+  },
+  {
+    "word": "Interview",
+    "word_count": "25"
+  },
+  {
+    "word": "Fair",
+    "word_count": "25"
+  },
+  {
+    "word": "VA's",
+    "word_count": "25"
+  },
+  {
+    "word": "Faith",
+    "word_count": "25"
+  },
+  {
+    "word": "Perry",
+    "word_count": "25"
+  },
+  {
+    "word": "VAMIS",
+    "word_count": "25"
+  },
+  {
+    "word": "Wiki",
+    "word_count": "25"
+  },
+  {
+    "word": "Reactions",
+    "word_count": "25"
+  },
+  {
+    "word": "Visual",
+    "word_count": "25"
+  },
+  {
+    "word": "Websites",
+    "word_count": "25"
+  },
+  {
+    "word": "Needed",
+    "word_count": "25"
+  },
+  {
+    "word": "Post",
+    "word_count": "25"
+  },
+  {
+    "word": "FSGLI",
+    "word_count": "25"
+  },
+  {
+    "word": "Associate",
+    "word_count": "25"
+  },
+  {
+    "word": "Type",
+    "word_count": "25"
+  },
+  {
+    "word": "Lincoln",
+    "word_count": "24"
+  },
+  {
+    "word": "Agreements",
+    "word_count": "24"
+  },
+  {
+    "word": "Afghanistan",
+    "word_count": "24"
+  },
+  {
+    "word": "Finds",
+    "word_count": "24"
+  },
+  {
+    "word": "Orientation",
+    "word_count": "24"
+  },
+  {
+    "word": "Years",
+    "word_count": "24"
+  },
+  {
+    "word": "Recreation",
+    "word_count": "24"
+  },
+  {
+    "word": "Recognition",
+    "word_count": "24"
+  },
+  {
+    "word": "Augusta",
+    "word_count": "24"
+  },
+  {
+    "word": "Cessation",
+    "word_count": "24"
+  },
+  {
+    "word": "Title",
+    "word_count": "24"
+  },
+  {
+    "word": "Rewrite",
+    "word_count": "24"
+  },
+  {
+    "word": "Impact",
+    "word_count": "24"
+  },
+  {
+    "word": "Lighthouse",
+    "word_count": "24"
+  },
+  {
+    "word": "Orleans",
+    "word_count": "23"
+  },
+  {
+    "word": "Symptoms",
+    "word_count": "23"
+  },
+  {
+    "word": "Myrtle",
+    "word_count": "23"
+  },
+  {
+    "word": "Ohio",
+    "word_count": "23"
+  },
+  {
+    "word": "Release",
+    "word_count": "23"
+  },
+  {
+    "word": "Homes",
+    "word_count": "23"
+  },
+  {
+    "word": "Nashville",
+    "word_count": "23"
+  },
+  {
+    "word": "Coordination",
+    "word_count": "23"
+  },
+  {
+    "word": "Cooperative",
+    "word_count": "23"
+  },
+  {
+    "word": "Leavenworth",
+    "word_count": "23"
+  },
+  {
+    "word": "Fall",
+    "word_count": "23"
+  },
+  {
+    "word": "Combat",
+    "word_count": "23"
+  },
+  {
+    "word": "Associated",
+    "word_count": "23"
+  },
+  {
+    "word": "Pharmacist",
+    "word_count": "23"
+  },
+  {
+    "word": "Changes",
+    "word_count": "23"
+  },
+  {
+    "word": "Wichita",
+    "word_count": "23"
+  },
+  {
+    "word": "Water",
+    "word_count": "23"
+  },
+  {
+    "word": "&ndash",
+    "word_count": "23"
+  },
+  {
+    "word": "Veterans&rsquo",
+    "word_count": "23"
+  },
+  {
+    "word": "Forgot",
+    "word_count": "23"
+  },
+  {
+    "word": "Handouts",
+    "word_count": "23"
+  },
+  {
+    "word": "Content",
+    "word_count": "23"
+  },
+  {
+    "word": "Hiring",
+    "word_count": "23"
+  },
+  {
+    "word": "Acute",
+    "word_count": "23"
+  },
+  {
+    "word": "Historic",
+    "word_count": "23"
+  },
+  {
+    "word": "Opioid",
+    "word_count": "23"
+  },
+  {
+    "word": "Others",
+    "word_count": "23"
+  },
+  {
+    "word": "Workshop",
+    "word_count": "23"
+  },
+  {
+    "word": "Older",
+    "word_count": "23"
+  },
+  {
+    "word": "Update",
+    "word_count": "23"
+  },
+  {
+    "word": "Vista",
+    "word_count": "23"
+  },
+  {
+    "word": "Outcomes",
+    "word_count": "23"
+  },
+  {
+    "word": "Reno",
+    "word_count": "23"
+  },
+  {
+    "word": "Baby",
+    "word_count": "23"
+  },
+  {
+    "word": "Subject",
+    "word_count": "23"
+  },
+  {
+    "word": "Forma",
+    "word_count": "22"
+  },
+  {
+    "word": "Asian",
+    "word_count": "22"
+  },
+  {
+    "word": "Workforce",
+    "word_count": "22"
+  },
+  {
+    "word": "Bisexual",
+    "word_count": "22"
+  },
+  {
+    "word": "Member",
+    "word_count": "22"
+  },
+  {
+    "word": "Reimbursement",
+    "word_count": "22"
+  },
+  {
+    "word": "Seattle",
+    "word_count": "22"
+  },
+  {
+    "word": "Developed",
+    "word_count": "22"
+  },
+  {
+    "word": "Market",
+    "word_count": "22"
+  },
+  {
+    "word": "Antonio",
+    "word_count": "22"
+  },
+  {
+    "word": "Photos",
+    "word_count": "22"
+  },
+  {
+    "word": "Coming",
+    "word_count": "22"
+  },
+  {
+    "word": "Comparison",
+    "word_count": "22"
+  },
+  {
+    "word": "Coverage",
+    "word_count": "22"
+  },
+  {
+    "word": "Device",
+    "word_count": "22"
+  },
+  {
+    "word": "Ways",
+    "word_count": "22"
+  },
+  {
+    "word": "Show",
+    "word_count": "22"
+  },
+  {
+    "word": "Coordinators",
+    "word_count": "22"
+  },
+  {
+    "word": "Oakland",
+    "word_count": "22"
+  },
+  {
+    "word": "Player",
+    "word_count": "22"
+  },
+  {
+    "word": "Adult",
+    "word_count": "22"
+  },
+  {
+    "word": "Star",
+    "word_count": "22"
+  },
+  {
+    "word": "Medications",
+    "word_count": "22"
+  },
+  {
+    "word": "Listing",
+    "word_count": "22"
+  },
+  {
+    "word": "Analytics",
+    "word_count": "22"
+  },
+  {
+    "word": "Supports",
+    "word_count": "21"
+  },
+  {
+    "word": "Pharmaceutical",
+    "word_count": "21"
+  },
+  {
+    "word": "Hotline",
+    "word_count": "21"
+  },
+  {
+    "word": "Veterans&#",
+    "word_count": "21"
+  },
+  {
+    "word": "Prime",
+    "word_count": "21"
+  },
+  {
+    "word": "Vendor",
+    "word_count": "21"
+  },
+  {
+    "word": "Glossary",
+    "word_count": "21"
+  },
+  {
+    "word": "Jacksonville",
+    "word_count": "21"
+  },
+  {
+    "word": "Smoking",
+    "word_count": "21"
+  },
+  {
+    "word": "Secure",
+    "word_count": "21"
+  },
+  {
+    "word": "Audiology",
+    "word_count": "21"
+  },
+  {
+    "word": "Alternative",
+    "word_count": "21"
+  },
+  {
+    "word": "Optometry",
+    "word_count": "21"
+  },
+  {
+    "word": "Terms",
+    "word_count": "21"
+  },
+  {
+    "word": "Station",
+    "word_count": "21"
+  },
+  {
+    "word": "Franchise",
+    "word_count": "21"
+  },
+  {
+    "word": "Future",
+    "word_count": "21"
+  },
+  {
+    "word": "Voices",
+    "word_count": "21"
+  },
+  {
+    "word": "Runtime",
+    "word_count": "21"
+  },
+  {
+    "word": "Assignments",
+    "word_count": "21"
+  },
+  {
+    "word": "People",
+    "word_count": "21"
+  },
+  {
+    "word": "Justice",
+    "word_count": "21"
+  },
+  {
+    "word": "ICYMI",
+    "word_count": "21"
+  },
+  {
+    "word": "Charleston",
+    "word_count": "21"
+  },
+  {
+    "word": "Foreign",
+    "word_count": "21"
+  },
+  {
+    "word": "Markers",
+    "word_count": "21"
+  },
+  {
+    "word": "What's",
+    "word_count": "21"
+  },
+  {
+    "word": "Announces",
+    "word_count": "21"
+  },
+  {
+    "word": "Coping",
+    "word_count": "21"
+  },
+  {
+    "word": "Diagnostic",
+    "word_count": "21"
+  },
+  {
+    "word": "Provide",
+    "word_count": "21"
+  },
+  {
+    "word": "Compliance",
+    "word_count": "21"
+  },
+  {
+    "word": "Fully",
+    "word_count": "20"
+  },
+  {
+    "word": "Park",
+    "word_count": "20"
+  },
+  {
+    "word": "FHCC",
+    "word_count": "20"
+  },
+  {
+    "word": "Flags",
+    "word_count": "20"
+  },
+  {
+    "word": "Shower",
+    "word_count": "20"
+  },
+  {
+    "word": "Testing",
+    "word_count": "20"
+  },
+  {
+    "word": "Statement",
+    "word_count": "20"
+  },
+  {
+    "word": "Into",
+    "word_count": "20"
+  },
+  {
+    "word": "Vegas",
+    "word_count": "20"
+  },
+  {
+    "word": "Care",
+    "word_count": "20"
+  },
+  {
+    "word": "Register",
+    "word_count": "20"
+  },
+  {
+    "word": "Thomas",
+    "word_count": "20"
+  },
+  {
+    "word": "Area",
+    "word_count": "20"
+  },
+  {
+    "word": "Waco",
+    "word_count": "20"
+  },
+  {
+    "word": "Campaign",
+    "word_count": "20"
+  },
+  {
+    "word": "Reasonable",
+    "word_count": "20"
+  },
+  {
+    "word": "Connected",
+    "word_count": "20"
+  },
+  {
+    "word": "Descriptions",
+    "word_count": "20"
+  },
+  {
+    "word": "Congressional",
+    "word_count": "20"
+  },
+  {
+    "word": "FORUM",
+    "word_count": "20"
+  },
+  {
+    "word": "America",
+    "word_count": "20"
+  },
+  {
+    "word": "PACT",
+    "word_count": "20"
+  },
+  {
+    "word": "WALLA",
+    "word_count": "20"
+  },
+  {
+    "word": "RINs",
+    "word_count": "20"
+  },
+  {
+    "word": "Database",
+    "word_count": "20"
+  },
+  {
+    "word": "Difference",
+    "word_count": "20"
+  },
+  {
+    "word": "Stand",
+    "word_count": "20"
+  },
+  {
+    "word": "Burn",
+    "word_count": "20"
+  },
+  {
+    "word": "Honors",
+    "word_count": "20"
+  },
+  {
+    "word": "Diagnosis",
+    "word_count": "20"
+  },
+  {
+    "word": "Summit",
+    "word_count": "20"
+  },
+  {
+    "word": "Trident",
+    "word_count": "20"
+  },
+  {
+    "word": "Handbook",
+    "word_count": "20"
+  },
+  {
+    "word": "Blue",
+    "word_count": "20"
+  },
+  {
+    "word": "Adults",
+    "word_count": "20"
+  },
+  {
+    "word": "Processing",
+    "word_count": "20"
+  },
+  {
+    "word": "Mass",
+    "word_count": "20"
+  },
+  {
+    "word": "Honoring",
+    "word_count": "19"
+  },
+  {
+    "word": "Equity",
+    "word_count": "19"
+  },
+  {
+    "word": "Interviewing",
+    "word_count": "19"
+  },
+  {
+    "word": "Inside",
+    "word_count": "19"
+  },
+  {
+    "word": "Cognitive",
+    "word_count": "19"
+  },
+  {
+    "word": "Those",
+    "word_count": "19"
+  },
+  {
+    "word": "Systematic",
+    "word_count": "19"
+  },
+  {
+    "word": "Launches",
+    "word_count": "19"
+  },
+  {
+    "word": "Potentially",
+    "word_count": "19"
+  },
+  {
+    "word": "Certificate",
+    "word_count": "19"
+  },
+  {
+    "word": "Lejeune",
+    "word_count": "19"
+  },
+  {
+    "word": "Workplace",
+    "word_count": "19"
+  },
+  {
+    "word": "Clergy",
+    "word_count": "19"
+  },
+  {
+    "word": "Birth",
+    "word_count": "19"
+  },
+  {
+    "word": "Bank",
+    "word_count": "19"
+  },
+  {
+    "word": "Agreement",
+    "word_count": "19"
+  },
+  {
+    "word": "Operation",
+    "word_count": "19"
+  },
+  {
+    "word": "Ribbon",
+    "word_count": "19"
+  },
+  {
+    "word": "Pressure",
+    "word_count": "19"
+  },
+  {
+    "word": "Catalog",
+    "word_count": "19"
+  },
+  {
+    "word": "Version",
+    "word_count": "19"
+  },
+  {
+    "word": "Wayne",
+    "word_count": "19"
+  },
+  {
+    "word": "Private",
+    "word_count": "19"
+  },
+  {
+    "word": "Charges",
+    "word_count": "19"
+  },
+  {
+    "word": "Wait",
+    "word_count": "19"
+  },
+  {
+    "word": "Challenges",
+    "word_count": "19"
+  },
+  {
+    "word": "Devices",
+    "word_count": "19"
+  },
+  {
+    "word": "Moines",
+    "word_count": "19"
+  },
+  {
+    "word": "Overpayments",
+    "word_count": "19"
+  },
+  {
+    "word": "Profile",
+    "word_count": "19"
+  },
+  {
+    "word": "Basics",
+    "word_count": "19"
+  },
+  {
+    "word": "Pathology",
+    "word_count": "19"
+  },
+  {
+    "word": "VetChange",
+    "word_count": "19"
+  },
+  {
+    "word": "Webinar",
+    "word_count": "19"
+  },
+  {
+    "word": "Enrolled",
+    "word_count": "19"
+  },
+  {
+    "word": "Centered",
+    "word_count": "19"
+  },
+  {
+    "word": "Gravesite",
+    "word_count": "19"
+  },
+  {
+    "word": "Joint",
+    "word_count": "19"
+  },
+  {
+    "word": "IHSTHP",
+    "word_count": "18"
+  },
+  {
+    "word": "Measures",
+    "word_count": "18"
+  },
+  {
+    "word": "Test",
+    "word_count": "18"
+  },
+  {
+    "word": "Best",
+    "word_count": "18"
+  },
+  {
+    "word": "Medicare",
+    "word_count": "18"
+  },
+  {
+    "word": "Survivor",
+    "word_count": "18"
+  },
+  {
+    "word": "Three",
+    "word_count": "18"
+  },
+  {
+    "word": "Heritage",
+    "word_count": "18"
+  },
+  {
+    "word": "Sites",
+    "word_count": "18"
+  },
+  {
+    "word": "Residential",
+    "word_count": "18"
+  },
+  {
+    "word": "Dissemination",
+    "word_count": "18"
+  },
+  {
+    "word": "Problems",
+    "word_count": "18"
+  },
+  {
+    "word": "Fellowships",
+    "word_count": "18"
+  },
+  {
+    "word": "Talent",
+    "word_count": "18"
+  },
+  {
+    "word": "Communities",
+    "word_count": "18"
+  },
+  {
+    "word": "Shared",
+    "word_count": "18"
+  },
+  {
+    "word": "Prevent",
+    "word_count": "18"
+  },
+  {
+    "word": "Dangerous",
+    "word_count": "18"
+  },
+  {
+    "word": "RequestPath",
+    "word_count": "18"
+  },
+  {
+    "word": "Past",
+    "word_count": "18"
+  },
+  {
+    "word": "Pandemic",
+    "word_count": "18"
+  },
+  {
+    "word": "Named",
+    "word_count": "18"
+  },
+  {
+    "word": "TEPT",
+    "word_count": "18"
+  },
+  {
+    "word": "Daily",
+    "word_count": "18"
+  },
+  {
+    "word": "Receiving",
+    "word_count": "18"
+  },
+  {
+    "word": "Detected",
+    "word_count": "18"
+  },
+  {
+    "word": "Client",
+    "word_count": "18"
+  },
+  {
+    "word": "HealthPOWER!",
+    "word_count": "18"
+  },
+  {
+    "word": "Caregiving",
+    "word_count": "18"
+  },
+  {
+    "word": "Term",
+    "word_count": "18"
+  },
+  {
+    "word": "Individual",
+    "word_count": "18"
+  },
+  {
+    "word": "Impairment",
+    "word_count": "18"
+  },
+  {
+    "word": "QUERI",
+    "word_count": "18"
+  },
+  {
+    "word": "Pending",
+    "word_count": "18"
+  },
+  {
+    "word": "Transformation",
+    "word_count": "18"
+  },
+  {
+    "word": "Celebrates",
+    "word_count": "18"
+  },
+  {
+    "word": "Dialysis",
+    "word_count": "18"
+  },
+  {
+    "word": "Call",
+    "word_count": "18"
+  },
+  {
+    "word": "Expenditures",
+    "word_count": "18"
+  },
+  {
+    "word": "Assistant",
+    "word_count": "18"
+  },
+  {
+    "word": "Crisis",
+    "word_count": "18"
+  },
+  {
+    "word": "Veteran's",
+    "word_count": "18"
+  },
+  {
+    "word": "Science",
+    "word_count": "17"
+  },
+  {
+    "word": "Most",
+    "word_count": "17"
+  },
+  {
+    "word": "Acquisition",
+    "word_count": "17"
+  },
+  {
+    "word": "Quality",
+    "word_count": "17"
+  },
+  {
+    "word": "Ready",
+    "word_count": "17"
+  },
+  {
+    "word": "Logistics",
+    "word_count": "17"
+  },
+  {
+    "word": "Reinvestment",
+    "word_count": "17"
+  },
+  {
+    "word": "Contracts",
+    "word_count": "17"
+  },
+  {
+    "word": "Significant",
+    "word_count": "17"
+  },
+  {
+    "word": "Purchase",
+    "word_count": "17"
+  },
+  {
+    "word": "Pilot",
+    "word_count": "17"
+  },
+  {
+    "word": "Commitment",
+    "word_count": "17"
+  },
+  {
+    "word": "Hines",
+    "word_count": "17"
+  },
+  {
+    "word": "Helped",
+    "word_count": "17"
+  },
+  {
+    "word": "PatientCentered",
+    "word_count": "17"
+  },
+  {
+    "word": "Ending",
+    "word_count": "17"
+  },
+  {
+    "word": "Name",
+    "word_count": "17"
+  },
+  {
+    "word": "Viewer",
+    "word_count": "17"
+  },
+  {
+    "word": "Zone",
+    "word_count": "17"
+  },
+  {
+    "word": "Goals",
+    "word_count": "17"
+  },
+  {
+    "word": "College",
+    "word_count": "17"
+  },
+  {
+    "word": "Agencies",
+    "word_count": "17"
+  },
+  {
+    "word": "Applications",
+    "word_count": "17"
+  },
+  {
+    "word": "Easy",
+    "word_count": "17"
+  },
+  {
+    "word": "Building",
+    "word_count": "17"
+  },
+  {
+    "word": "Continuing",
+    "word_count": "17"
+  },
+  {
+    "word": "Plans",
+    "word_count": "17"
+  },
+  {
+    "word": "Roanoke",
+    "word_count": "17"
+  },
+  {
+    "word": "Police",
+    "word_count": "17"
+  },
+  {
+    "word": "Budget",
+    "word_count": "17"
+  },
+  {
+    "word": "Diem",
+    "word_count": "17"
+  },
+  {
+    "word": "Join",
+    "word_count": "17"
+  },
+  {
+    "word": "Korean",
+    "word_count": "17"
+  },
+  {
+    "word": "Helpline",
+    "word_count": "17"
+  },
+  {
+    "word": "Outside",
+    "word_count": "17"
+  },
+  {
+    "word": "Schedules",
+    "word_count": "17"
+  },
+  {
+    "word": "Providing",
+    "word_count": "17"
+  },
+  {
+    "word": "Hold",
+    "word_count": "17"
+  },
+  {
+    "word": "Injuries",
+    "word_count": "17"
+  },
+  {
+    "word": "Foster",
+    "word_count": "17"
+  },
+  {
+    "word": "Midwest",
+    "word_count": "17"
+  },
+  {
+    "word": "Animal",
+    "word_count": "17"
+  },
+  {
+    "word": "Researcher",
+    "word_count": "17"
+  },
+  {
+    "word": "Skills",
+    "word_count": "17"
+  },
+  {
+    "word": "EvidenceBased",
+    "word_count": "16"
+  },
+  {
+    "word": "Control",
+    "word_count": "16"
+  },
+  {
+    "word": "Banner",
+    "word_count": "16"
+  },
+  {
+    "word": "Chemical",
+    "word_count": "16"
+  },
+  {
+    "word": "PRIDE",
+    "word_count": "16"
+  },
+  {
+    "word": "Brooklyn",
+    "word_count": "16"
+  },
+  {
+    "word": "Against",
+    "word_count": "16"
+  },
+  {
+    "word": "Culture",
+    "word_count": "16"
+  },
+  {
+    "word": "Topeka",
+    "word_count": "16"
+  },
+  {
+    "word": "Could",
+    "word_count": "16"
+  },
+  {
+    "word": "Sensory",
+    "word_count": "16"
+  },
+  {
+    "word": "Step",
+    "word_count": "16"
+  },
+  {
+    "word": "Electron",
+    "word_count": "16"
+  },
+  {
+    "word": "Disabilities",
+    "word_count": "16"
+  },
+  {
+    "word": "Physicians",
+    "word_count": "16"
+  },
+  {
+    "word": "Partnership",
+    "word_count": "16"
+  },
+  {
+    "word": "MedSAFE",
+    "word_count": "16"
+  },
+  {
+    "word": "Mount",
+    "word_count": "16"
+  },
+  {
+    "word": "Audit",
+    "word_count": "16"
+  },
+  {
+    "word": "Microscopy",
+    "word_count": "16"
+  },
+  {
+    "word": "Benefits",
+    "word_count": "16"
+  },
+  {
+    "word": "Cardiovascular",
+    "word_count": "16"
+  },
+  {
+    "word": "Brief",
+    "word_count": "16"
+  },
+  {
+    "word": "Missing",
+    "word_count": "16"
+  },
+  {
+    "word": "Parenting",
+    "word_count": "16"
+  },
+  {
+    "word": "Practices",
+    "word_count": "16"
+  },
+  {
+    "word": "Room",
+    "word_count": "16"
+  },
+  {
+    "word": "Relief",
+    "word_count": "16"
+  },
+  {
+    "word": "Deposit",
+    "word_count": "16"
+  },
+  {
+    "word": "Interest",
+    "word_count": "16"
+  },
+  {
+    "word": "Harrison",
+    "word_count": "16"
+  },
+  {
+    "word": "Exchange",
+    "word_count": "16"
+  },
+  {
+    "word": "Extension",
+    "word_count": "16"
+  },
+  {
+    "word": "Infection",
+    "word_count": "16"
+  },
+  {
+    "word": "Columbus",
+    "word_count": "16"
+  },
+  {
+    "word": "InPerson",
+    "word_count": "16"
+  },
+  {
+    "word": "Guides",
+    "word_count": "16"
+  },
+  {
+    "word": "Times",
+    "word_count": "16"
+  },
+  {
+    "word": "Infectious",
+    "word_count": "16"
+  },
+  {
+    "word": "Inpatient",
+    "word_count": "16"
+  },
+  {
+    "word": "Allied",
+    "word_count": "16"
+  },
+  {
+    "word": "Guaranteed",
+    "word_count": "16"
+  },
+  {
+    "word": "Explorer",
+    "word_count": "16"
+  },
+  {
+    "word": "Resident",
+    "word_count": "16"
+  },
+  {
+    "word": "Survey",
+    "word_count": "16"
+  },
+  {
+    "word": "Dallas",
+    "word_count": "16"
+  },
+  {
+    "word": "Prisoner",
+    "word_count": "15"
+  },
+  {
+    "word": "Move!",
+    "word_count": "15"
+  },
+  {
+    "word": "Dependent",
+    "word_count": "15"
+  },
+  {
+    "word": "Spina",
+    "word_count": "15"
+  },
+  {
+    "word": "Preparing",
+    "word_count": "15"
+  },
+  {
+    "word": "Role",
+    "word_count": "15"
+  },
+  {
+    "word": "Manual",
+    "word_count": "15"
+  },
+  {
+    "word": "Teams",
+    "word_count": "15"
+  },
+  {
+    "word": "Bifida",
+    "word_count": "15"
+  },
+  {
+    "word": "Forever",
+    "word_count": "15"
+  },
+  {
+    "word": "Cards",
+    "word_count": "15"
+  },
+  {
+    "word": "Infections",
+    "word_count": "15"
+  },
+  {
+    "word": "Resilience",
+    "word_count": "15"
+  },
+  {
+    "word": "meta",
+    "word_count": "15"
+  },
+  {
+    "word": "Criteria",
+    "word_count": "15"
+  },
+  {
+    "word": "Amputation",
+    "word_count": "15"
+  },
+  {
+    "word": "Labor",
+    "word_count": "15"
+  },
+  {
+    "word": "Code",
+    "word_count": "15"
+  },
+  {
+    "word": "Athletes",
+    "word_count": "15"
+  },
+  {
+    "word": "Recipients",
+    "word_count": "15"
+  },
+  {
+    "word": "Innovations",
+    "word_count": "15"
+  },
+  {
+    "word": "Geographic",
+    "word_count": "15"
+  },
+  {
+    "word": "Pennsylvania",
+    "word_count": "15"
+  },
+  {
+    "word": "Accomplishments",
+    "word_count": "15"
+  },
+  {
+    "word": "Marker",
+    "word_count": "15"
+  },
+  {
+    "word": "Messaging",
+    "word_count": "15"
+  },
+  {
+    "word": "Track",
+    "word_count": "15"
+  },
+  {
+    "word": "Healing",
+    "word_count": "15"
+  },
+  {
+    "word": "Wyoming",
+    "word_count": "15"
+  },
+  {
+    "word": "Charlotte",
+    "word_count": "15"
+  },
+  {
+    "word": "Scheduling",
+    "word_count": "15"
+  },
+  {
+    "word": "Together",
+    "word_count": "15"
+  },
+  {
+    "word": "Plans",
+    "word_count": "15"
+  },
+  {
+    "word": "Cyberseminars",
+    "word_count": "15"
+  },
+  {
+    "word": "Child",
+    "word_count": "15"
+  },
+  {
+    "word": "Shulkin",
+    "word_count": "15"
+  },
+  {
+    "word": "CoOccurring",
+    "word_count": "15"
+  },
+  {
+    "word": "Recruitment",
+    "word_count": "15"
+  },
+  {
+    "word": "Keeping",
+    "word_count": "15"
+  },
+  {
+    "word": "Look",
+    "word_count": "15"
+  },
+  {
+    "word": "Hazards",
+    "word_count": "15"
+  },
+  {
+    "word": "Haven",
+    "word_count": "15"
+  },
+  {
+    "word": "Delivery",
+    "word_count": "15"
+  },
+  {
+    "word": "Rehab",
+    "word_count": "15"
+  },
+  {
+    "word": "Location",
+    "word_count": "15"
+  },
+  {
+    "word": "Forward",
+    "word_count": "15"
+  },
+  {
+    "word": "Missouri",
+    "word_count": "15"
+  },
+  {
+    "word": "Herbicide",
+    "word_count": "15"
+  },
+  {
+    "word": "Inclusion",
+    "word_count": "15"
+  },
+  {
+    "word": "Nebraska",
+    "word_count": "15"
+  },
+  {
+    "word": "Applying",
+    "word_count": "15"
+  },
+  {
+    "word": "Articles",
+    "word_count": "15"
+  },
+  {
+    "word": "Speeches",
+    "word_count": "15"
+  },
+  {
+    "word": "Five",
+    "word_count": "15"
+  },
+  {
+    "word": "Guam",
+    "word_count": "15"
+  },
+  {
+    "word": "Shows",
+    "word_count": "15"
+  },
+  {
+    "word": "Completed",
+    "word_count": "15"
+  },
+  {
+    "word": "Omaha",
+    "word_count": "15"
+  },
+  {
+    "word": "Determination",
+    "word_count": "15"
+  },
+  {
+    "word": "Beneficiaries",
+    "word_count": "15"
+  },
+  {
+    "word": "Port",
+    "word_count": "15"
+  },
+  {
+    "word": "Leaders",
+    "word_count": "15"
+  },
+  {
+    "word": "Shots",
+    "word_count": "15"
+  },
+  {
+    "word": "Residents",
+    "word_count": "15"
+  },
+  {
+    "word": "Notice",
+    "word_count": "15"
+  },
+  {
+    "word": "Useful",
+    "word_count": "15"
+  },
+  {
+    "word": "Conferences",
+    "word_count": "15"
+  },
+  {
+    "word": "Satisfaction",
+    "word_count": "15"
+  },
+  {
+    "word": "Over",
+    "word_count": "15"
+  },
+  {
+    "word": "Sacramento",
+    "word_count": "14"
+  },
+  {
+    "word": "Breast",
+    "word_count": "14"
+  },
+  {
+    "word": "ClinicianAdministered",
+    "word_count": "14"
+  },
+  {
+    "word": "Finding",
+    "word_count": "14"
+  },
+  {
+    "word": "Campaigns",
+    "word_count": "14"
+  },
+  {
+    "word": "Oncology",
+    "word_count": "14"
+  },
+  {
+    "word": "CARS",
+    "word_count": "14"
+  },
+  {
+    "word": "Opens",
+    "word_count": "14"
+  },
+  {
+    "word": "Hartford",
+    "word_count": "14"
+  },
+  {
+    "word": "Prosthetics",
+    "word_count": "14"
+  },
+  {
+    "word": "Mission",
+    "word_count": "14"
+  },
+  {
+    "word": "Foundation",
+    "word_count": "14"
+  },
+  {
+    "word": "Servicemembers",
+    "word_count": "14"
+  },
+  {
+    "word": "Legal",
+    "word_count": "14"
+  },
+  {
+    "word": "Submitting",
+    "word_count": "14"
+  },
+  {
+    "word": "Simulation",
+    "word_count": "14"
+  },
+  {
+    "word": "Clinician",
+    "word_count": "14"
+  },
+  {
+    "word": "Friends",
+    "word_count": "14"
+  },
+  {
+    "word": "Continues",
+    "word_count": "14"
+  },
+  {
+    "word": "Brochures",
+    "word_count": "14"
+  },
+  {
+    "word": "Purchasing",
+    "word_count": "14"
+  },
+  {
+    "word": "Prescriptions",
+    "word_count": "14"
+  },
+  {
+    "word": "Newark",
+    "word_count": "14"
+  },
+  {
+    "word": "Raleigh",
+    "word_count": "14"
+  },
+  {
+    "word": "Expenditure",
+    "word_count": "14"
+  },
+  {
+    "word": "Refills",
+    "word_count": "14"
+  },
+  {
+    "word": "Rating",
+    "word_count": "14"
+  },
+  {
+    "word": "Bedford",
+    "word_count": "14"
+  },
+  {
+    "word": "Order",
+    "word_count": "14"
+  },
+  {
+    "word": "Lives",
+    "word_count": "14"
+  },
+  {
+    "word": "Pregnancy",
+    "word_count": "14"
+  },
+  {
+    "word": "Alerts",
+    "word_count": "14"
+  },
+  {
+    "word": "Limits",
+    "word_count": "14"
+  },
+  {
+    "word": "Walk",
+    "word_count": "14"
+  },
+  {
+    "word": "Entrepreneur",
+    "word_count": "14"
+  },
+  {
+    "word": "Points",
+    "word_count": "14"
+  },
+  {
+    "word": "Approved",
+    "word_count": "14"
+  },
+  {
+    "word": "Assisted",
+    "word_count": "14"
+  },
+  {
+    "word": "Case",
+    "word_count": "14"
+  },
+  {
+    "word": "Inventory",
+    "word_count": "14"
+  },
+  {
+    "word": "Temple",
+    "word_count": "14"
+  },
+  {
+    "word": "Headstones",
+    "word_count": "14"
+  },
+  {
+    "word": "Journal",
+    "word_count": "14"
+  },
+  {
+    "word": "#ExploreVA",
+    "word_count": "14"
+  },
+  {
+    "word": "Initaitves",
+    "word_count": "14"
+  },
+  {
+    "word": "MyVA",
+    "word_count": "14"
+  },
+  {
+    "word": "Allowance",
+    "word_count": "14"
+  },
+  {
+    "word": "Talk",
+    "word_count": "14"
+  },
+  {
+    "word": "VEMEC",
+    "word_count": "14"
+  },
+  {
+    "word": "Flash!",
+    "word_count": "14"
+  },
+  {
+    "word": "Requests",
+    "word_count": "14"
+  },
+  {
+    "word": "Medallions",
+    "word_count": "14"
+  },
+  {
+    "word": "Danville",
+    "word_count": "14"
+  },
+  {
+    "word": "Options",
+    "word_count": "14"
+  },
+  {
+    "word": "Shuttle",
+    "word_count": "14"
+  },
+  {
+    "word": "Major",
+    "word_count": "14"
+  },
+  {
+    "word": "Build",
+    "word_count": "14"
+  },
+  {
+    "word": "Password",
+    "word_count": "14"
+  },
+  {
+    "word": "&mdash",
+    "word_count": "14"
+  },
+  {
+    "word": "Download",
+    "word_count": "14"
+  },
+  {
+    "word": "Recognized",
+    "word_count": "14"
+  },
+  {
+    "word": "Investment",
+    "word_count": "14"
+  },
+  {
+    "word": "Directors",
+    "word_count": "14"
+  },
+  {
+    "word": "Without",
+    "word_count": "13"
+  },
+  {
+    "word": "Background",
+    "word_count": "13"
+  },
+  {
+    "word": "Jose",
+    "word_count": "13"
+  },
+  {
+    "word": "Islander",
+    "word_count": "13"
+  },
+  {
+    "word": "Address",
+    "word_count": "13"
+  },
+  {
+    "word": "Assistive",
+    "word_count": "13"
+  },
+  {
+    "word": "Doctor",
+    "word_count": "13"
+  },
+  {
+    "word": "Pharmacological",
+    "word_count": "13"
+  },
+  {
+    "word": "Soon",
+    "word_count": "13"
+  },
+  {
+    "word": "Cover",
+    "word_count": "13"
+  },
+  {
+    "word": "Positions",
+    "word_count": "13"
+  },
+  {
+    "word": "Mindfulness",
+    "word_count": "13"
+  },
+  {
+    "word": "Connect",
+    "word_count": "13"
+  },
+  {
+    "word": "Response",
+    "word_count": "13"
+  },
+  {
+    "word": "Comprehensive",
+    "word_count": "13"
+  },
+  {
+    "word": "Obtain",
+    "word_count": "13"
+  },
+  {
+    "word": "Civilian",
+    "word_count": "13"
+  },
+  {
+    "word": "Fresno",
+    "word_count": "13"
+  },
+  {
+    "word": "Archived",
+    "word_count": "13"
+  },
+  {
+    "word": "Lenders",
+    "word_count": "13"
+  },
+  {
+    "word": "Marriage",
+    "word_count": "13"
+  },
+  {
+    "word": "Anniversary",
+    "word_count": "13"
+  },
+  {
+    "word": "Forum",
+    "word_count": "13"
+  },
+  {
+    "word": "Tallahassee",
+    "word_count": "13"
+  },
+  {
+    "word": "Appraisal",
+    "word_count": "13"
+  },
+  {
+    "word": "Breakdown",
+    "word_count": "13"
+  },
+  {
+    "word": "Promise",
+    "word_count": "13"
+  },
+  {
+    "word": "Iron",
+    "word_count": "13"
+  },
+  {
+    "word": "Altoona",
+    "word_count": "13"
+  },
+  {
+    "word": "Offer",
+    "word_count": "13"
+  },
+  {
+    "word": "Matrix",
+    "word_count": "13"
+  },
+  {
+    "word": "Milestones",
+    "word_count": "13"
+  },
+  {
+    "word": "Instructions",
+    "word_count": "13"
+  },
+  {
+    "word": "Savannah",
+    "word_count": "13"
+  },
+  {
+    "word": "Influenza",
+    "word_count": "13"
+  },
+  {
+    "word": "MultiSpecialty",
+    "word_count": "13"
+  },
+  {
+    "word": "Assault",
+    "word_count": "13"
+  },
+  {
+    "word": "Class\"nojs",
+    "word_count": "13"
+  },
+  {
+    "word": "Airborne",
+    "word_count": "13"
+  },
+  {
+    "word": "Just",
+    "word_count": "13"
+  },
+  {
+    "word": "Makes",
+    "word_count": "13"
+  },
+  {
+    "word": "Prolonged",
+    "word_count": "13"
+  },
+  {
+    "word": "Defects",
+    "word_count": "13"
+  },
+  {
+    "word": "Surgical",
+    "word_count": "13"
+  },
+  {
+    "word": "Chiropractic",
+    "word_count": "13"
+  },
+  {
+    "word": "Warriors",
+    "word_count": "13"
+  },
+  {
+    "word": "Quit",
+    "word_count": "13"
+  },
+  {
+    "word": "Greenville",
+    "word_count": "13"
+  },
+  {
+    "word": "Compare",
+    "word_count": "13"
+  },
+  {
+    "word": "Therapeutic",
+    "word_count": "13"
+  },
+  {
+    "word": "Athlete",
+    "word_count": "13"
+  },
+  {
+    "word": "Still",
+    "word_count": "13"
+  },
+  {
+    "word": "Alzheimer's",
+    "word_count": "13"
+  },
+  {
+    "word": "Prescott",
+    "word_count": "13"
+  },
+  {
+    "word": "Presidential",
+    "word_count": "13"
+  },
+  {
+    "word": "Interventions",
+    "word_count": "13"
+  },
+  {
+    "word": "Storage",
+    "word_count": "13"
+  },
+  {
+    "word": "Agency",
+    "word_count": "13"
+  },
+  {
+    "word": "Systems",
+    "word_count": "13"
+  },
+  {
+    "word": "Clinicians",
+    "word_count": "13"
+  },
+  {
+    "word": "Dietitian",
+    "word_count": "13"
+  },
+  {
+    "word": "Reduction",
+    "word_count": "13"
+  },
+  {
+    "word": "Symptom",
+    "word_count": "13"
+  },
+  {
+    "word": "Tucson",
+    "word_count": "13"
+  },
+  {
+    "word": "Eating",
+    "word_count": "13"
+  },
+  {
+    "word": "Veteran’s",
+    "word_count": "13"
+  },
+  {
+    "word": "Responsibilities",
+    "word_count": "13"
+  },
+  {
+    "word": "Don't",
+    "word_count": "13"
+  },
+  {
+    "word": "EBenefits",
+    "word_count": "13"
+  },
+  {
+    "word": "Twitter",
+    "word_count": "13"
+  },
+  {
+    "word": "Desert",
+    "word_count": "13"
+  },
+  {
+    "word": "McClellan",
+    "word_count": "13"
+  },
+  {
+    "word": "Exam",
+    "word_count": "13"
+  },
+  {
+    "word": "Integrity",
+    "word_count": "13"
+  },
+  {
+    "word": "Factors",
+    "word_count": "13"
+  },
+  {
+    "word": "Ionizing",
+    "word_count": "13"
+  },
+  {
+    "word": "Anger",
+    "word_count": "13"
+  },
+  {
+    "word": "Share",
+    "word_count": "13"
+  },
+  {
+    "word": "VAnguard",
+    "word_count": "13"
+  },
+  {
+    "word": "Peer",
+    "word_count": "13"
+  },
+  {
+    "word": "Premium",
+    "word_count": "13"
+  },
+  {
+    "word": "Heights",
+    "word_count": "13"
+  },
+  {
+    "word": "Senior",
+    "word_count": "13"
+  },
+  {
+    "word": "Podcasts",
+    "word_count": "13"
+  },
+  {
+    "word": "Announcement",
+    "word_count": "13"
+  },
+  {
+    "word": "Following",
+    "word_count": "13"
+  },
+  {
+    "word": "Rights",
+    "word_count": "13"
+  },
+  {
+    "word": "GRECC",
+    "word_count": "13"
+  },
+  {
+    "word": "LongTerm",
+    "word_count": "12"
+  },
+  {
+    "word": "Surveys",
+    "word_count": "12"
+  },
+  {
+    "word": "Pocket",
+    "word_count": "12"
+  },
+  {
+    "word": "Postdoctoral",
+    "word_count": "12"
+  },
+  {
+    "word": "Visit",
+    "word_count": "12"
+  },
+  {
+    "word": "Next",
+    "word_count": "12"
+  },
+  {
+    "word": "VALERI",
+    "word_count": "12"
+  },
+  {
+    "word": "Mobility",
+    "word_count": "12"
+  },
+  {
+    "word": "Doing",
+    "word_count": "12"
+  },
+  {
+    "word": "Recruiter",
+    "word_count": "12"
+  },
+  {
+    "word": "Harvey",
+    "word_count": "12"
+  },
+  {
+    "word": "Classes",
+    "word_count": "12"
+  },
+  {
+    "word": "Court",
+    "word_count": "12"
+  },
+  {
+    "word": "Email",
+    "word_count": "12"
+  },
+  {
+    "word": "PTSD",
+    "word_count": "12"
+  },
+  {
+    "word": "Commercial",
+    "word_count": "12"
+  },
+  {
+    "word": "Cape",
+    "word_count": "12"
+  },
+  {
+    "word": "Trial",
+    "word_count": "12"
+  },
+  {
+    "word": "Questionnaire",
+    "word_count": "12"
+  },
+  {
+    "word": "Holiday",
+    "word_count": "12"
+  },
+  {
+    "word": "Abstracts",
+    "word_count": "12"
+  },
+  {
+    "word": "PreDischarge",
+    "word_count": "12"
+  },
+  {
+    "word": "Move",
+    "word_count": "12"
+  },
+  {
+    "word": "Roundtable",
+    "word_count": "12"
+  },
+  {
+    "word": "Contacting",
+    "word_count": "12"
+  },
+  {
+    "word": "Awarded",
+    "word_count": "12"
+  },
+  {
+    "word": "Meade",
+    "word_count": "12"
+  },
+  {
+    "word": "Bronx",
+    "word_count": "12"
+  },
+  {
+    "word": "Yellow",
+    "word_count": "12"
+  },
+  {
+    "word": "Briefs",
+    "word_count": "12"
+  },
+  {
+    "word": "Spokane",
+    "word_count": "12"
+  },
+  {
+    "word": "Prepare",
+    "word_count": "12"
+  },
+  {
+    "word": "Specific",
+    "word_count": "12"
+  },
+  {
+    "word": "Repair",
+    "word_count": "12"
+  },
+  {
+    "word": "Early",
+    "word_count": "12"
+  },
+  {
+    "word": "Multimedia",
+    "word_count": "12"
+  },
+  {
+    "word": "PSAS",
+    "word_count": "12"
+  },
+  {
+    "word": "CRRC",
+    "word_count": "12"
+  },
+  {
+    "word": "Land",
+    "word_count": "12"
+  },
+  {
+    "word": "Weapons",
+    "word_count": "12"
+  },
+  {
+    "word": "Payer",
+    "word_count": "12"
+  },
+  {
+    "word": "Psychological",
+    "word_count": "12"
+  },
+  {
+    "word": "Developing",
+    "word_count": "12"
+  },
+  {
+    "word": "Cultural",
+    "word_count": "12"
+  },
+  {
+    "word": "Aligned",
+    "word_count": "12"
+  },
+  {
+    "word": "Spending",
+    "word_count": "12"
+  },
+  {
+    "word": "AEGD",
+    "word_count": "12"
+  },
+  {
+    "word": "Checklist",
+    "word_count": "12"
+  },
+  {
+    "word": "Proposed",
+    "word_count": "12"
+  },
+  {
+    "word": "Filing",
+    "word_count": "12"
+  },
+  {
+    "word": "Steven",
+    "word_count": "12"
+  },
+  {
+    "word": "Leader",
+    "word_count": "12"
+  },
+  {
+    "word": "Scholarship",
+    "word_count": "12"
+  },
+  {
+    "word": "PreNeed",
+    "word_count": "12"
+  },
+  {
+    "word": "Obesity",
+    "word_count": "12"
+  },
+  {
+    "word": "Virgin",
+    "word_count": "12"
+  },
+  {
+    "word": "Spread",
+    "word_count": "12"
+  },
+  {
+    "word": "View",
+    "word_count": "12"
+  },
+  {
+    "word": "WWII",
+    "word_count": "12"
+  },
+  {
+    "word": "Visits",
+    "word_count": "12"
+  },
+  {
+    "word": "Biography",
+    "word_count": "12"
+  },
+  {
+    "word": "Complex",
+    "word_count": "12"
+  },
+  {
+    "word": "Dates",
+    "word_count": "12"
+  },
+  {
+    "word": "Employers",
+    "word_count": "12"
+  },
+  {
+    "word": "Laws",
+    "word_count": "12"
+  },
+  {
+    "word": "Care",
+    "word_count": "11"
+  },
+  {
+    "word": "Joining",
+    "word_count": "11"
+  },
+  {
+    "word": "Davis",
+    "word_count": "11"
+  },
+  {
+    "word": "Office",
+    "word_count": "11"
+  },
+  {
+    "word": "United",
+    "word_count": "11"
+  },
+  {
+    "word": "Neurosciences",
+    "word_count": "11"
+  },
+  {
+    "word": "Fellows",
+    "word_count": "11"
+  },
+  {
+    "word": "Preventing",
+    "word_count": "11"
+  },
+  {
+    "word": "Matters",
+    "word_count": "11"
+  },
+  {
+    "word": "Complementary",
+    "word_count": "11"
+  },
+  {
+    "word": "Communications",
+    "word_count": "11"
+  },
+  {
+    "word": "Broadcasts",
+    "word_count": "11"
+  },
+  {
+    "word": "Chattanooga",
+    "word_count": "11"
+  },
+  {
+    "word": "CAPS",
+    "word_count": "11"
+  },
+  {
+    "word": "Despite",
+    "word_count": "11"
+  },
+  {
+    "word": "Recognize",
+    "word_count": "11"
+  },
+  {
+    "word": "OALC",
+    "word_count": "11"
+  },
+  {
+    "word": "Workload",
+    "word_count": "11"
+  },
+  {
+    "word": "Museum",
+    "word_count": "11"
+  },
+  {
+    "word": "Generation",
+    "word_count": "11"
+  },
+  {
+    "word": "Continental",
+    "word_count": "11"
+  },
+  {
+    "word": "Started",
+    "word_count": "11"
+  },
+  {
+    "word": "Colmery",
+    "word_count": "11"
+  },
+  {
+    "word": "Radiology",
+    "word_count": "11"
+  },
+  {
+    "word": "Wake",
+    "word_count": "11"
+  },
+  {
+    "word": "Vaccines",
+    "word_count": "11"
+  },
+  {
+    "word": "Treatments",
+    "word_count": "11"
+  },
+  {
+    "word": "Front",
+    "word_count": "11"
+  },
+  {
+    "word": "Adam",
+    "word_count": "11"
+  },
+  {
+    "word": "Lung",
+    "word_count": "11"
+  },
+  {
+    "word": "Doctors",
+    "word_count": "11"
+  },
+  {
+    "word": "Aging",
+    "word_count": "11"
+  },
+  {
+    "word": "Quick",
+    "word_count": "11"
+  },
+  {
+    "word": "Across",
+    "word_count": "11"
+  },
+  {
+    "word": "SGLV",
+    "word_count": "11"
+  },
+  {
+    "word": "Benepisyo",
+    "word_count": "11"
+  },
+  {
+    "word": "Postdeployment",
+    "word_count": "11"
+  },
+  {
+    "word": "Choose",
+    "word_count": "11"
+  },
+  {
+    "word": "DONATIONS",
+    "word_count": "11"
+  },
+  {
+    "word": "SHAD",
+    "word_count": "11"
+  },
+  {
+    "word": "Complaints",
+    "word_count": "11"
+  },
+  {
+    "word": "Experts",
+    "word_count": "11"
+  },
+  {
+    "word": "Immunizations",
+    "word_count": "11"
+  },
+  {
+    "word": "Idaho",
+    "word_count": "11"
+  },
+  {
+    "word": "Saginaw",
+    "word_count": "11"
+  },
+  {
+    "word": "Logon",
+    "word_count": "11"
+  },
+  {
+    "word": "FUNDING",
+    "word_count": "11"
+  },
+  {
+    "word": "Liaison",
+    "word_count": "11"
+  },
+  {
+    "word": "Diet",
+    "word_count": "11"
+  },
+  {
+    "word": "Before",
+    "word_count": "11"
+  },
+  {
+    "word": "Brian",
+    "word_count": "11"
+  },
+  {
+    "word": "Link",
+    "word_count": "11"
+  },
+  {
+    "word": "Handbooks",
+    "word_count": "11"
+  },
+  {
+    "word": "Population",
+    "word_count": "11"
+  },
+  {
+    "word": "Moving",
+    "word_count": "11"
+  },
+  {
+    "word": "Sign",
+    "word_count": "11"
+  },
+  {
+    "word": "NAAC",
+    "word_count": "11"
+  },
+  {
+    "word": "Intensive",
+    "word_count": "11"
+  },
+  {
+    "word": "Some",
+    "word_count": "11"
+  },
+  {
+    "word": "Easier",
+    "word_count": "11"
+  },
+  {
+    "word": "Taking",
+    "word_count": "11"
+  },
+  {
+    "word": "Personnel",
+    "word_count": "11"
+  },
+  {
+    "word": "Courseware",
+    "word_count": "11"
+  },
+  {
+    "word": "Specialized",
+    "word_count": "11"
+  },
+  {
+    "word": "Roll",
+    "word_count": "11"
+  },
+  {
+    "word": "Salute",
+    "word_count": "11"
+  },
+  {
+    "word": "Light",
+    "word_count": "11"
+  },
+  {
+    "word": "Intervention",
+    "word_count": "11"
+  },
+  {
+    "word": "Higher",
+    "word_count": "11"
+  },
+  {
+    "word": "Activity",
+    "word_count": "11"
+  },
+  {
+    "word": "Been",
+    "word_count": "11"
+  },
+  {
+    "word": "Hawaii",
+    "word_count": "11"
+  },
+  {
+    "word": "PTSD",
+    "word_count": "11"
+  },
+  {
+    "word": "Engineering",
+    "word_count": "11"
+  },
+  {
+    "word": "Depleted",
+    "word_count": "11"
+  },
+  {
+    "word": "Expect",
+    "word_count": "11"
+  },
+  {
+    "word": "Guest",
+    "word_count": "11"
+  },
+  {
+    "word": "File",
+    "word_count": "11"
+  },
+  {
+    "word": "Hill",
+    "word_count": "11"
+  },
+  {
+    "word": "Celebrating",
+    "word_count": "11"
+  },
+  {
+    "word": "Certificates",
+    "word_count": "11"
+  },
+  {
+    "word": "Drive",
+    "word_count": "11"
+  },
+  {
+    "word": "Definition",
+    "word_count": "11"
+  },
+  {
+    "word": "Uranium",
+    "word_count": "11"
+  },
+  {
+    "word": "Sessions",
+    "word_count": "11"
+  },
+  {
+    "word": "Pass",
+    "word_count": "11"
+  },
+  {
+    "word": "Enhance",
+    "word_count": "11"
+  },
+  {
+    "word": "Daisy",
+    "word_count": "11"
+  },
+  {
+    "word": "Vehicle",
+    "word_count": "11"
+  },
+  {
+    "word": "Northeast",
+    "word_count": "11"
+  },
+  {
+    "word": "Maria",
+    "word_count": "11"
+  },
+  {
+    "word": "Huntsville",
+    "word_count": "11"
+  },
+  {
+    "word": "Assurance",
+    "word_count": "11"
+  },
+  {
+    "word": "Stroke",
+    "word_count": "11"
+  },
+  {
+    "word": "Good",
+    "word_count": "11"
+  },
+  {
+    "word": "Warrant",
+    "word_count": "11"
+  },
+  {
+    "word": "Nuclear",
+    "word_count": "11"
+  },
+  {
+    "word": "Opinion",
+    "word_count": "11"
+  },
+  {
+    "word": "Help",
+    "word_count": "11"
+  },
+  {
+    "word": "Franklin",
+    "word_count": "11"
+  },
+  {
+    "word": "Congress",
+    "word_count": "11"
+  },
+  {
+    "word": "Lawrenceville",
+    "word_count": "11"
+  },
+  {
+    "word": "Admin",
+    "word_count": "11"
+  },
+  {
+    "word": "CFDA",
+    "word_count": "11"
+  },
+  {
+    "word": "Property",
+    "word_count": "11"
+  },
+  {
+    "word": "WinstonSalem",
+    "word_count": "11"
+  },
+  {
+    "word": "Heartland",
+    "word_count": "11"
+  },
+  {
+    "word": "Preference",
+    "word_count": "10"
+  },
+  {
+    "word": "Psychotherapy",
+    "word_count": "10"
+  },
+  {
+    "word": "Directorbr",
+    "word_count": "10"
+  },
+  {
+    "word": "Eureka",
+    "word_count": "10"
+  },
+  {
+    "word": "Bakersfield",
+    "word_count": "10"
+  },
+  {
+    "word": "ExploreVA",
+    "word_count": "10"
+  },
+  {
+    "word": "Heroes",
+    "word_count": "10"
+  },
+  {
+    "word": "Marshfield",
+    "word_count": "10"
+  },
+  {
+    "word": "Coordinating",
+    "word_count": "10"
+  },
+  {
+    "word": "Short",
+    "word_count": "10"
+  },
+  {
+    "word": "Sciences",
+    "word_count": "10"
+  },
+  {
+    "word": "Yoga",
+    "word_count": "10"
+  },
+  {
+    "word": "Manhattan",
+    "word_count": "10"
+  },
+  {
+    "word": "Supplies",
+    "word_count": "10"
+  },
+  {
+    "word": "Atlantic",
+    "word_count": "10"
+  },
+  {
+    "word": "Morning",
+    "word_count": "10"
+  },
+  {
+    "word": "Internships",
+    "word_count": "10"
+  },
+  {
+    "word": "Incident",
+    "word_count": "10"
+  },
+  {
+    "word": "Promotional",
+    "word_count": "10"
+  },
+  {
+    "word": "Discrimination",
+    "word_count": "10"
+  },
+  {
+    "word": "Infertility",
+    "word_count": "10"
+  },
+  {
+    "word": "Structure",
+    "word_count": "10"
+  },
+  {
+    "word": "Hispanic",
+    "word_count": "10"
+  },
+  {
+    "word": "Efforts",
+    "word_count": "10"
+  },
+  {
+    "word": "Honored",
+    "word_count": "10"
+  },
+  {
+    "word": "Complete",
+    "word_count": "10"
+  },
+  {
+    "word": "Pulmonary",
+    "word_count": "10"
+  },
+  {
+    "word": "Shreveport",
+    "word_count": "10"
+  },
+  {
+    "word": "Auto",
+    "word_count": "10"
+  },
+  {
+    "word": "Game",
+    "word_count": "10"
+  },
+  {
+    "word": "P&LO",
+    "word_count": "10"
+  },
+  {
+    "word": "Price",
+    "word_count": "10"
+  },
+  {
+    "word": "Borne",
+    "word_count": "10"
+  },
+  {
+    "word": "Prisoners",
+    "word_count": "10"
+  },
+  {
+    "word": "Lanai",
+    "word_count": "10"
+  },
+  {
+    "word": "Asst",
+    "word_count": "10"
+  },
+  {
+    "word": "Concepts",
+    "word_count": "10"
+  },
+  {
+    "word": "Immunization",
+    "word_count": "10"
+  },
+  {
+    "word": "Partnerships",
+    "word_count": "10"
+  },
+  {
+    "word": "Ceremony",
+    "word_count": "10"
+  },
+  {
+    "word": "Investigators",
+    "word_count": "10"
+  },
+  {
+    "word": "Charge",
+    "word_count": "10"
+  },
+  {
+    "word": "Stay",
+    "word_count": "10"
+  },
+  {
+    "word": "Recently",
+    "word_count": "10"
+  },
+  {
+    "word": "Buying",
+    "word_count": "10"
+  },
+  {
+    "word": "VALNET",
+    "word_count": "10"
+  },
+  {
+    "word": "Poplar",
+    "word_count": "10"
+  },
+  {
+    "word": "Strategies",
+    "word_count": "10"
+  },
+  {
+    "word": "Place",
+    "word_count": "10"
+  },
+  {
+    "word": "Potential",
+    "word_count": "10"
+  },
+  {
+    "word": "Issue",
+    "word_count": "10"
+  },
+  {
+    "word": "Intimate",
+    "word_count": "10"
+  },
+  {
+    "word": "Paid",
+    "word_count": "10"
+  },
+  {
+    "word": "Save",
+    "word_count": "10"
+  },
+  {
+    "word": "Northampton",
+    "word_count": "10"
+  },
+  {
+    "word": "Parkinson's",
+    "word_count": "10"
+  },
+  {
+    "word": "Much",
+    "word_count": "10"
+  },
+  {
+    "word": "Bluff",
+    "word_count": "10"
+  },
+  {
+    "word": "Committees",
+    "word_count": "10"
+  },
+  {
+    "word": "Kentucky",
+    "word_count": "10"
+  },
+  {
+    "word": "Expansion",
+    "word_count": "10"
+  },
+  {
+    "word": "Plain",
+    "word_count": "10"
+  },
+  {
+    "word": "Citations",
+    "word_count": "10"
+  },
+  {
+    "word": "Toledo",
+    "word_count": "10"
+  },
+  {
+    "word": "Cedar",
+    "word_count": "10"
+  },
+  {
+    "word": "Exposed",
+    "word_count": "10"
+  },
+  {
+    "word": "Anxiety",
+    "word_count": "10"
+  },
+  {
+    "word": "HighDollar",
+    "word_count": "10"
+  },
+  {
+    "word": "Terrorism",
+    "word_count": "10"
+  },
+  {
+    "word": "Medal",
+    "word_count": "10"
+  },
+  {
+    "word": "Sexuality",
+    "word_count": "10"
+  },
+  {
+    "word": "Participating",
+    "word_count": "10"
+  },
+  {
+    "word": "Principles",
+    "word_count": "10"
+  },
+  {
+    "word": "Caring",
+    "word_count": "10"
+  },
+  {
+    "word": "Asheville",
+    "word_count": "10"
+  },
+  {
+    "word": "Guaranty",
+    "word_count": "10"
+  },
+  {
+    "word": "Sunshine",
+    "word_count": "10"
+  },
+  {
+    "word": "Improves",
+    "word_count": "10"
+  },
+  {
+    "word": "Oupatient",
+    "word_count": "10"
+  },
+  {
+    "word": "Compensation",
+    "word_count": "10"
+  },
+  {
+    "word": "Biloxi",
+    "word_count": "10"
+  },
+  {
+    "word": "Collaboration",
+    "word_count": "10"
+  },
+  {
+    "word": "VALU",
+    "word_count": "10"
+  },
+  {
+    "word": "Increase",
+    "word_count": "10"
+  },
+  {
+    "word": "Posts",
+    "word_count": "10"
+  },
+  {
+    "word": "Workers",
+    "word_count": "10"
+  },
+  {
+    "word": "Scott",
+    "word_count": "10"
+  },
+  {
+    "word": "Straight",
+    "word_count": "10"
+  },
+  {
+    "word": "Groups",
+    "word_count": "10"
+  },
+  {
+    "word": "Graduate",
+    "word_count": "10"
+  },
+  {
+    "word": "Henderson",
+    "word_count": "10"
+  },
+  {
+    "word": "Action",
+    "word_count": "10"
+  },
+  {
+    "word": "Season",
+    "word_count": "10"
+  },
+  {
+    "word": "Investigations",
+    "word_count": "10"
+  },
+  {
+    "word": "Female",
+    "word_count": "10"
+  },
+  {
+    "word": "Marietta",
+    "word_count": "10"
+  },
+  {
+    "word": "Headstone",
+    "word_count": "10"
+  },
+  {
+    "word": "Dogs",
+    "word_count": "10"
+  },
+  {
+    "word": "Southwest",
+    "word_count": "10"
+  },
+  {
+    "word": "Focus",
+    "word_count": "10"
+  },
+  {
+    "word": "Limb",
+    "word_count": "10"
+  },
+  {
+    "word": "Definitions",
+    "word_count": "10"
+  },
+  {
+    "word": "Corpus",
+    "word_count": "10"
+  },
+  {
+    "word": "Computer",
+    "word_count": "10"
   }
 ]
