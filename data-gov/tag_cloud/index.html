@@ -1,0 +1,13 @@
+---
+layout: default
+title: Tag Cloud
+---
+
+{% assign topics = site.data.datagovtagcloud %}
+<div id="topiccloud" class="wordcloud">
+  {% for topic in topics %}
+    <span data-weight="{{ topic.word_count }}">
+      {{ topic.word }}
+    </span>
+  {% endfor %}
+</div>
