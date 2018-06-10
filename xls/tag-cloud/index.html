@@ -1,9 +1,11 @@
 ---
 layout: default
-title: All Tag Cloud
+title: XLS Tag Cloud
 ---
 
-{% assign topics = site.data.all_tag_cloud %}
+<h1>XLS Tag Cloud</h1>
+<p>This is a list of top keywords from across all XLS/XLSX files identified from spidering the VA website.</p>
+{% assign topics = site.data.xls_tag_cloud %}
 <div id="topiccloud" class="wordcloud">
   {% for topic in topics %}
 

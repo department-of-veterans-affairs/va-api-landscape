@@ -1,9 +1,11 @@
 ---
 layout: default
-title: All Tag Cloud
+title: XML Tag Cloud
 ---
 
-{% assign topics = site.data.all_tag_cloud %}
+<h1>XML Tags Cloud</h1>
+<p>This is a list of top keywords from across all XML files identified from spidering the VA website.</p>
+{% assign topics = site.data.xml_tag_cloud %}
 <div id="topiccloud" class="wordcloud">
   {% for topic in topics %}
 

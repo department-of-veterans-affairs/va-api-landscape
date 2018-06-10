@@ -1,8 +1,10 @@
 ---
 layout: default
-title: All Tag Cloud
+title: CSV Tag Cloud
 ---
 
+<h1>CSV Tags Cloud</h1>
+<p>This is a list of top keywords from across all CSV files identified from spidering the VA website.</p>
 {% assign topics = site.data.csv_tag_cloud %}
 <div id="topiccloud" class="wordcloud">
   {% for topic in topics %}

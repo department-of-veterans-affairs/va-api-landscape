@@ -1,0 +1,12 @@
+---
+layout: default
+title: JSON Keywords Listing
+---
+<h1>JSON Tags Listing</h1>
+<p>This is a list of top keywords from across all JSON files identified from spidering the VA website.</p>
+{% assign topics = site.data.json_tag_cloud %}
+<ul>
+  {% for topic in topics %}
+    <li>{{ topic.word }} ({{ topic.word_count }})</li>
+  {% endfor %}
+</ul>

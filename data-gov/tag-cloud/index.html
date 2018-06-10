@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Tag Cloud
+title: Data.gov Tag Cloud
 ---
-
+<h1>Data.gov Tags Cloud</h1>
+<p>This is a list of top keywords from across all daa files published to Data.gov.</p>
 {% assign topics = site.data.data_gov_tag_cloud %}
 <div id="topiccloud" class="wordcloud">
   {% for topic in topics %}

@@ -1,9 +1,11 @@
 ---
 layout: default
-title: All Tag Cloud
+title: JSON Tag Cloud
 ---
 
-{% assign topics = site.data.all_tag_cloud %}
+<h1>JSON Tags Cloud</h1>
+<p>This is a list of top keywords from across all JSON files identified from spidering the VA website.</p>
+{% assign topics = site.data.json_tag_cloud %}
 <div id="topiccloud" class="wordcloud">
   {% for topic in topics %}
 

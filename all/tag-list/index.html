@@ -1,0 +1,12 @@
+---
+layout: default
+title: All Tag Listing
+---
+<h1>All Tags Listing</h1>
+<p>This is a list of top tags across all pages processed so far.</p>
+{% assign topics = site.data.all_tag_cloud %}
+<ul>
+  {% for topic in topics %}
+    <li>{{ topic.word }} ({{ topic.word_count }})</li>
+  {% endfor %}
+</ul>

@@ -1,9 +1,11 @@
 ---
 layout: default
-title: All Tag Cloud
+title: Table Tag Cloud
 ---
 
-{% assign topics = site.data.all_tag_cloud %}
+<h1>Table Tag Cloud</h1>
+<p>This is a list of top keywords from across all pages that have tables with more than 10 rows.</p>
+{% assign topics = site.data.table_tag_cloud %}
 <div id="topiccloud" class="wordcloud">
   {% for topic in topics %}
 

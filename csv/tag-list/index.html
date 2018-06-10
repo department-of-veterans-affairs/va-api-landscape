@@ -1,0 +1,12 @@
+---
+layout: default
+title: CSV Keywords Listing
+---
+<h1>CSV Tags Listing</h1>
+<p>This is a list of top keywords from across all CSV files identified from spidering the VA website.</p>
+{% assign topics = site.data.csv_tag_cloud %}
+<ul>
+  {% for topic in topics %}
+    <li>{{ topic.word }} ({{ topic.word_count }})</li>
+  {% endfor %}
+</ul>
