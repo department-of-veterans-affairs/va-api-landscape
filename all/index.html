@@ -1,0 +1,13 @@
+---
+layout: default
+title: Data.gov
+---
+{% assign items = site.data.datagov %}
+{% assign items = items | sort: 'total' | reverse %}
+<p><strong>Data.gov Data</strong></p>
+<p>These are the data sets pulled from Data.gov, and sorted by their downloads, with the <a href="https://raw.githubusercontent.com/api-evangelist/va-api-landscape/master/_data/datagov.json" target="_blank">JSON file available here</a>.</p>
+<ul style="margin-left: 25px; text-align:left;">
+{% for item in items %}
+<li>{{ item.name }} ({{ item.format }}) ({{ item.total }}) - <a href="{{ item.url }}">{{ item.url }}</a></li>
+{% endfor %}
+</ul>
