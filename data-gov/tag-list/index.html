@@ -5,8 +5,6 @@ title: Data.gov Tag Listing
 <h1>Data.gov Tags Listing</h1>
 <p>This is a list of top keywords from across all daa files published to Data.gov.</p>
 {% assign topics = site.data.data_gov_tag_cloud %}
-<ul>
-  {% for topic in topics %}
-    <li>{{ topic.word }} ({{ topic.word_count }})</li>
-  {% endfor %}
-</ul>
+{% for topic in topics %}
+  {{ topic.word }} ({{ topic.word_count }})<br />
+{% endfor %}

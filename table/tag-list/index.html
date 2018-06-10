@@ -5,8 +5,6 @@ title: Table Keywords Listing
 <h1>Table Keywords Listing</h1>
 <p>This is a list of top keywords from across all pages that have tables with more than 10 rows.</p>
 {% assign topics = site.data.table_tag_cloud %}
-<ul>
-  {% for topic in topics %}
-    <li>{{ topic.word }} ({{ topic.word_count }})</li>
-  {% endfor %}
-</ul>
+{% for topic in topics %}
+  {{ topic.word }} ({{ topic.word_count }})<br />
+{% endfor %}

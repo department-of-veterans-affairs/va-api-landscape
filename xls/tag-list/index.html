@@ -5,8 +5,6 @@ title: XLS Tag Listing
 <h1>XLS Tags Listing</h1>
 <p>This is a list of top keywords from across all XLS/XLSX files identified from spidering the VA website.</p>
 {% assign topics = site.data.xls_tag_cloud %}
-<ul>
-  {% for topic in topics %}
-    <li>{{ topic.word }} ({{ topic.word_count }})</li>
-  {% endfor %}
-</ul>
+{% for topic in topics %}
+  {{ topic.word }} ({{ topic.word_count }})<br />
+{% endfor %}
