@@ -84,10 +84,6 @@
     "word_count": 9
   },
   {
-    "word": "Opioid",
-    "word_count": 6
-  },
-  {
     "word": "Sacramento",
     "word_count": 6
   },
@@ -96,7 +92,7 @@
     "word_count": 6
   },
   {
-    "word": "Dispensing",
+    "word": "Opioid",
     "word_count": 6
   },
   {
@@ -104,11 +100,11 @@
     "word_count": 6
   },
   {
-    "word": "GEORGIA",
+    "word": "Dispensing",
     "word_count": 6
   },
   {
-    "word": "MIDDLE",
+    "word": "GEORGIA",
     "word_count": 6
   },
   {
@@ -120,7 +116,7 @@
     "word_count": 6
   },
   {
-    "word": "TENNESSEE",
+    "word": "MIDDLE",
     "word_count": 6
   },
   {
@@ -132,11 +128,15 @@
     "word_count": 6
   },
   {
-    "word": "Diego",
+    "word": "TENNESSEE",
     "word_count": 6
   },
   {
     "word": "Health",
+    "word_count": 6
+  },
+  {
+    "word": "Diego",
     "word_count": 6
   },
   {
@@ -148,11 +148,11 @@
     "word_count": 6
   },
   {
-    "word": "Eastern",
+    "word": "Hills",
     "word_count": 6
   },
   {
-    "word": "Hills",
+    "word": "Eastern",
     "word_count": 6
   },
   {
@@ -200,14 +200,6 @@
     "word_count": 4
   },
   {
-    "word": "John",
-    "word_count": 3
-  },
-  {
-    "word": "CYFY",
-    "word_count": 3
-  },
-  {
     "word": "Facility",
     "word_count": 3
   },
@@ -220,11 +212,11 @@
     "word_count": 3
   },
   {
-    "word": "Dingell",
+    "word": "John",
     "word_count": 3
   },
   {
-    "word": "Aggregate",
+    "word": "CYFY",
     "word_count": 3
   },
   {
@@ -244,6 +236,22 @@
     "word_count": 3
   },
   {
+    "word": "Dingell",
+    "word_count": 3
+  },
+  {
+    "word": "Aggregate",
+    "word_count": 3
+  },
+  {
+    "word": "Healthcar",
+    "word_count": 3
+  },
+  {
+    "word": "James",
+    "word_count": 3
+  },
+  {
     "word": "Muskogee",
     "word_count": 3
   },
@@ -256,11 +264,11 @@
     "word_count": 3
   },
   {
-    "word": "Healthcar",
+    "word": "Spokane",
     "word_count": 3
   },
   {
-    "word": "James",
+    "word": "Martinsburg",
     "word_count": 3
   },
   {
@@ -276,11 +284,11 @@
     "word_count": 3
   },
   {
-    "word": "Spokane",
+    "word": "Washington",
     "word_count": 3
   },
   {
-    "word": "Martinsburg",
+    "word": "Zandt",
     "word_count": 3
   },
   {
@@ -292,18 +300,6 @@
     "word_count": 3
   },
   {
-    "word": "Washington",
-    "word_count": 3
-  },
-  {
-    "word": "Zandt",
-    "word_count": 3
-  },
-  {
-    "word": "Brooklyn",
-    "word_count": 3
-  },
-  {
     "word": "Minneapolis",
     "word_count": 3
   },
@@ -312,7 +308,7 @@
     "word_count": 3
   },
   {
-    "word": "Grand",
+    "word": "Brooklyn",
     "word_count": 3
   },
   {
@@ -328,15 +324,7 @@
     "word_count": 3
   },
   {
-    "word": "Tuscaloosa",
-    "word_count": 3
-  },
-  {
-    "word": "Pines",
-    "word_count": 3
-  },
-  {
-    "word": "Junction",
+    "word": "Grand",
     "word_count": 3
   },
   {
@@ -356,15 +344,15 @@
     "word_count": 3
   },
   {
-    "word": "Miami",
+    "word": "Tuscaloosa",
     "word_count": 3
   },
   {
-    "word": "Montana",
+    "word": "Pines",
     "word_count": 3
   },
   {
-    "word": "CANANDAIGUA",
+    "word": "Junction",
     "word_count": 3
   },
   {
@@ -384,15 +372,15 @@
     "word_count": 3
   },
   {
-    "word": "ClevelandWade",
+    "word": "Miami",
     "word_count": 3
   },
   {
-    "word": "Birmingham",
+    "word": "Montana",
     "word_count": 3
   },
   {
-    "word": "Kansas",
+    "word": "CANANDAIGUA",
     "word_count": 3
   },
   {
@@ -404,11 +392,15 @@
     "word_count": 3
   },
   {
-    "word": "Park",
+    "word": "ClevelandWade",
     "word_count": 3
   },
   {
-    "word": "Leavenworth",
+    "word": "Birmingham",
+    "word_count": 3
+  },
+  {
+    "word": "Kansas",
     "word_count": 3
   },
   {
@@ -428,6 +420,26 @@
     "word_count": 3
   },
   {
+    "word": "Park",
+    "word_count": 3
+  },
+  {
+    "word": "Leavenworth",
+    "word_count": 3
+  },
+  {
+    "word": "Atlanta",
+    "word_count": 3
+  },
+  {
+    "word": "Columbia",
+    "word_count": 3
+  },
+  {
+    "word": "Northampton",
+    "word_count": 3
+  },
+  {
     "word": "Wichita",
     "word_count": 3
   },
@@ -444,15 +456,15 @@
     "word_count": 3
   },
   {
-    "word": "Atlanta",
+    "word": "Durham",
     "word_count": 3
   },
   {
-    "word": "Columbia",
+    "word": "Springs",
     "word_count": 3
   },
   {
-    "word": "Northampton",
+    "word": "Wilmington",
     "word_count": 3
   },
   {
@@ -468,15 +480,11 @@
     "word_count": 3
   },
   {
-    "word": "Durham",
+    "word": "Salt",
     "word_count": 3
   },
   {
-    "word": "Springs",
-    "word_count": 3
-  },
-  {
-    "word": "Wilmington",
+    "word": "Fargo",
     "word_count": 3
   },
   {
@@ -492,22 +500,6 @@
     "word_count": 3
   },
   {
-    "word": "Salt",
-    "word_count": 3
-  },
-  {
-    "word": "Fargo",
-    "word_count": 3
-  },
-  {
-    "word": "Line",
-    "word_count": 3
-  },
-  {
-    "word": "Plain",
-    "word_count": 3
-  },
-  {
     "word": "Lake",
     "word_count": 3
   },
@@ -516,15 +508,11 @@
     "word_count": 3
   },
   {
-    "word": "Detroit",
+    "word": "Line",
     "word_count": 3
   },
   {
-    "word": "Calls",
-    "word_count": 3
-  },
-  {
-    "word": "Campus",
+    "word": "Plain",
     "word_count": 3
   },
   {
@@ -537,6 +525,18 @@
   },
   {
     "word": "Dallas",
+    "word_count": 3
+  },
+  {
+    "word": "Detroit",
+    "word_count": 3
+  },
+  {
+    "word": "Calls",
+    "word_count": 3
+  },
+  {
+    "word": "Campus",
     "word_count": 3
   },
   {
