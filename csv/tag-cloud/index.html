@@ -7,10 +7,10 @@ title: All Tag Cloud
 <div id="topiccloud" class="wordcloud">
   {% for topic in topics %}
 
-  {% if topic.word_count > 300 %}
+  {% if topic.word_count > 100 %}
     {% assign path_value = 10 %}
   {% endif %}
-  {% if topic.word_count > 90 and topic.word_count < 300 %}
+  {% if topic.word_count > 90 and topic.word_count < 100 %}
     {% assign path_value = 9 %}
   {% endif %}
   {% if topic.word_count > 70 and topic.word_count < 80 %}
