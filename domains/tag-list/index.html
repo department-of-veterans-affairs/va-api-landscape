@@ -6,5 +6,5 @@ title: Domain Listing
 <p>This is a list of top tags across all subdomains currently identified as part of the harvesting.</p>
 {% assign topics = site.data.domains %}
 {% for topic in topics %}
-  {{ topic.word }} ({{ topic.word_count }})<br />
+  {{ topic.domain }} ({{ topic.domain_count }})<br />
 {% endfor %}
