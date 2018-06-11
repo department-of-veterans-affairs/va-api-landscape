@@ -6,6 +6,9 @@
     "processed": 716346
   },
   {
+    "domains": 278
+  },
+  {
     "csv": 387
   },
   {
@@ -21,6 +24,6 @@
     "tables": 5111
   },
   {
-    "data-gov": 519
+    "data_gov": 519
   }
 ]
