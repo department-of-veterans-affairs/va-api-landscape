@@ -1,0 +1,28 @@
+---
+layout: default
+title: Process
+---
+
+<p><strong>The Process</strong></p>
+<p>Web APIs are just the next evolution of the web, with the first phase is about delivering data and content to humans in the browser, and the second phase being about delivering the same data and content to other systems and applications using APIs. To help the Department of Veterans Affairs (VA) identify the low hanging fruit that exists across their website, we have a pretty simple spider script that we can turn on and run for as long as we need. To get started, we seed the script by giving it the root URL for the website we are targeting, which it then:</p>
+<ul>
+<li>Parses every URL on the page and stores them in a database.</li>
+<li>Counts every table, and the number of rows that exist on the page.</li>
+<li>Counts every form that exists on the page.</li>
+</ul>
+<p>The script then iterates and repeats this for every URL it finds on the page. It ignores any external URLs, and only spiders URLs that are within the seed domain. It also ignores images, word docs, video, and many other common objects that exist on the website. However, in addition to counting the tables and forms, the script identifies, sets aside, and counts:</p>
+<ul>
+<li>Every CSV file</li>
+<li>Every XML file</li>
+<li>Every JSON file</li>
+<li>Every XLS or XLSX file</li>
+</ul>
+<p>After running the script for several weeks, the intention is to spider every page within a website and identified every table, form, csv, xml, json, and spreadsheet file. This script and resulting process produce the low hanging fruit we are looking for from any existing website. The resulting report paints a pretty interesting picture of the VA websites.</p>
+<p>Once we have a good amount of data harvest, with plenty of CSV, XML, JSON, XLS, and tables identified we do our best to identify the potential resources each data file possess by parsing several elements:</p>
+<ul>
+<li>Title of the page a file was published</li>
+<li>Name of the file itself</li>
+<li>Sometimes a sample of data</li>
+</ul>
+<p>We take the list of words extracted from this process and we sort them and group by the number of times the word is used, helping us understand the overall presence of each resource. Sometimes this produces a lot of meaningless words, but we'll work to filter those out over time, only leaving the meaningful data resources.</p>
+<p>As we progress on this process, we'll begin to craft an executive summary of the process, and work to develop a narrative about the VA web presence, and the data resources being published. Just like the rest of this repository, we'll keep updating this process page as it evolves.</p>
