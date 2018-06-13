@@ -1,11 +1,14 @@
 {
   "targeted": 4058278,
-  "processed": 716346,
-  "domains": 278,
-  "csv": 387,
-  "json": 342,
-  "xml": 1759,
-  "xls": 3645,
-  "tables": 5111,
+  "processed": 1216346,
+  "domains_programs": 133,
+  "domains_city": 120,
+  "domains_state": 22,
+  "csv": 534,
+  "json": 467,
+  "xml": 3099,
+  "xls": 6077,
+  "tables": 8393,
+  "forms": 0,
   "data_gov": 519
 }

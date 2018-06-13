@@ -12,20 +12,12 @@
     "word_count": 148
   },
   {
-    "word": "Center",
-    "word_count": 148
-  },
-  {
     "word": "Hospital",
     "word_count": 144
   },
   {
     "word": "Healthcare",
     "word_count": 86
-  },
-  {
-    "word": "System",
-    "word_count": 80
   },
   {
     "word": "Outpatient",
@@ -40,16 +32,16 @@
     "word_count": 72
   },
   {
-    "word": "Date",
-    "word_count": 58
-  },
-  {
-    "word": "Range",
-    "word_count": 58
-  },
-  {
     "word": "Veterans",
     "word_count": 24
+  },
+  {
+    "word": "Hepatitis",
+    "word_count": 12
+  },
+  {
+    "word": "Virus",
+    "word_count": 12
   },
   {
     "word": "Registry",
@@ -64,31 +56,7 @@
     "word_count": 12
   },
   {
-    "word": "Texas",
-    "word_count": 12
-  },
-  {
-    "word": "Hepatitis",
-    "word_count": 12
-  },
-  {
-    "word": "Virus",
-    "word_count": 12
-  },
-  {
-    "word": "West",
-    "word_count": 11
-  },
-  {
-    "word": "Phoenix",
-    "word_count": 9
-  },
-  {
-    "word": "Sacramento",
-    "word_count": 6
-  },
-  {
-    "word": "Long",
+    "word": "Performance",
     "word_count": 6
   },
   {
@@ -96,39 +64,7 @@
     "word_count": 6
   },
   {
-    "word": "Beach",
-    "word_count": 6
-  },
-  {
     "word": "Dispensing",
-    "word_count": 6
-  },
-  {
-    "word": "GEORGIA",
-    "word_count": 6
-  },
-  {
-    "word": "Palo",
-    "word_count": 6
-  },
-  {
-    "word": "Pittsburgh",
-    "word_count": 6
-  },
-  {
-    "word": "MIDDLE",
-    "word_count": 6
-  },
-  {
-    "word": "Alto",
-    "word_count": 6
-  },
-  {
-    "word": "Altoona",
-    "word_count": 6
-  },
-  {
-    "word": "TENNESSEE",
     "word_count": 6
   },
   {
@@ -136,87 +72,11 @@
     "word_count": 6
   },
   {
-    "word": "Diego",
-    "word_count": 6
-  },
-  {
-    "word": "Performance",
-    "word_count": 6
-  },
-  {
-    "word": "Black",
-    "word_count": 6
-  },
-  {
-    "word": "Hills",
-    "word_count": 6
-  },
-  {
-    "word": "Eastern",
-    "word_count": 6
-  },
-  {
-    "word": "Seattle",
-    "word_count": 6
-  },
-  {
-    "word": "Marion",
-    "word_count": 6
-  },
-  {
-    "word": "California",
-    "word_count": 6
-  },
-  {
-    "word": "Puget",
-    "word_count": 6
-  },
-  {
-    "word": "Sound",
-    "word_count": 6
-  },
-  {
-    "word": "Haven",
-    "word_count": 5
-  },
-  {
-    "word": "Maryland",
-    "word_count": 5
-  },
-  {
-    "word": "White",
-    "word_count": 5
-  },
-  {
-    "word": "River",
-    "word_count": 5
-  },
-  {
-    "word": "Loma",
-    "word_count": 4
-  },
-  {
-    "word": "Linda",
-    "word_count": 4
+    "word": "Aggregate",
+    "word_count": 3
   },
   {
     "word": "Facility",
-    "word_count": 3
-  },
-  {
-    "word": "Brown",
-    "word_count": 3
-  },
-  {
-    "word": "George",
-    "word_count": 3
-  },
-  {
-    "word": "John",
-    "word_count": 3
-  },
-  {
-    "word": "CYFY",
     "word_count": 3
   },
   {
@@ -224,267 +84,7 @@
     "word_count": 3
   },
   {
-    "word": "Providence",
-    "word_count": 3
-  },
-  {
-    "word": "Chicago",
-    "word_count": 3
-  },
-  {
-    "word": "Wahlen",
-    "word_count": 3
-  },
-  {
-    "word": "Dingell",
-    "word_count": 3
-  },
-  {
-    "word": "Aggregate",
-    "word_count": 3
-  },
-  {
-    "word": "Healthcar",
-    "word_count": 3
-  },
-  {
-    "word": "James",
-    "word_count": 3
-  },
-  {
-    "word": "Muskogee",
-    "word_count": 3
-  },
-  {
-    "word": "AshevilleOteen",
-    "word_count": 3
-  },
-  {
-    "word": "Iron",
-    "word_count": 3
-  },
-  {
-    "word": "Spokane",
-    "word_count": 3
-  },
-  {
-    "word": "Martinsburg",
-    "word_count": 3
-  },
-  {
-    "word": "Sheridan",
-    "word_count": 3
-  },
-  {
-    "word": "Fort",
-    "word_count": 3
-  },
-  {
-    "word": "Mountain",
-    "word_count": 3
-  },
-  {
-    "word": "Washington",
-    "word_count": 3
-  },
-  {
-    "word": "Zandt",
-    "word_count": 3
-  },
-  {
-    "word": "Harbor",
-    "word_count": 3
-  },
-  {
-    "word": "Meade",
-    "word_count": 3
-  },
-  {
-    "word": "Minneapolis",
-    "word_count": 3
-  },
-  {
-    "word": "Jersey",
-    "word_count": 3
-  },
-  {
-    "word": "Brooklyn",
-    "word_count": 3
-  },
-  {
-    "word": "Cheyenne",
-    "word_count": 3
-  },
-  {
-    "word": "Arbor",
-    "word_count": 3
-  },
-  {
-    "word": "Manila",
-    "word_count": 3
-  },
-  {
-    "word": "Grand",
-    "word_count": 3
-  },
-  {
-    "word": "Amarillo",
-    "word_count": 3
-  },
-  {
-    "word": "Clinic",
-    "word_count": 3
-  },
-  {
-    "word": "Baltimore",
-    "word_count": 3
-  },
-  {
-    "word": "East",
-    "word_count": 3
-  },
-  {
-    "word": "Tuscaloosa",
-    "word_count": 3
-  },
-  {
-    "word": "Pines",
-    "word_count": 3
-  },
-  {
-    "word": "Junction",
-    "word_count": 3
-  },
-  {
-    "word": "Greater",
-    "word_count": 3
-  },
-  {
-    "word": "Huntington",
-    "word_count": 3
-  },
-  {
-    "word": "Memphis",
-    "word_count": 3
-  },
-  {
-    "word": "Orange",
-    "word_count": 3
-  },
-  {
-    "word": "Miami",
-    "word_count": 3
-  },
-  {
-    "word": "Montana",
-    "word_count": 3
-  },
-  {
-    "word": "CANANDAIGUA",
-    "word_count": 3
-  },
-  {
-    "word": "Spark",
-    "word_count": 3
-  },
-  {
-    "word": "Boise",
-    "word_count": 3
-  },
-  {
-    "word": "ClevelandWade",
-    "word_count": 3
-  },
-  {
-    "word": "Birmingham",
-    "word_count": 3
-  },
-  {
-    "word": "Kansas",
-    "word_count": 3
-  },
-  {
-    "word": "Decatur",
-    "word_count": 3
-  },
-  {
-    "word": "Angeles",
-    "word_count": 3
-  },
-  {
-    "word": "Matsunaga",
-    "word_count": 3
-  },
-  {
-    "word": "Antonio",
-    "word_count": 3
-  },
-  {
-    "word": "Park",
-    "word_count": 3
-  },
-  {
-    "word": "Leavenworth",
-    "word_count": 3
-  },
-  {
-    "word": "Atlanta",
-    "word_count": 3
-  },
-  {
-    "word": "Columbia",
-    "word_count": 3
-  },
-  {
-    "word": "Northampton",
-    "word_count": 3
-  },
-  {
-    "word": "Wichita",
-    "word_count": 3
-  },
-  {
-    "word": "Cleveland",
-    "word_count": 3
-  },
-  {
-    "word": "Colorado",
-    "word_count": 3
-  },
-  {
     "word": "Scheduling",
-    "word_count": 3
-  },
-  {
-    "word": "Durham",
-    "word_count": 3
-  },
-  {
-    "word": "Springs",
-    "word_count": 3
-  },
-  {
-    "word": "Wilmington",
-    "word_count": 3
-  },
-  {
-    "word": "Saginaw",
-    "word_count": 3
-  },
-  {
-    "word": "Boston",
-    "word_count": 3
-  },
-  {
-    "word": "Service",
-    "word_count": 3
-  },
-  {
-    "word": "Salt",
-    "word_count": 3
-  },
-  {
-    "word": "Fargo",
     "word_count": 3
   },
   {
@@ -492,43 +92,11 @@
     "word_count": 3
   },
   {
-    "word": "Jamaica",
-    "word_count": 3
-  },
-  {
-    "word": "Murfreesboro",
-    "word_count": 3
-  },
-  {
-    "word": "Lake",
-    "word_count": 3
-  },
-  {
-    "word": "Charleston",
-    "word_count": 3
-  },
-  {
     "word": "Line",
     "word_count": 3
   },
   {
-    "word": "Plain",
-    "word_count": 3
-  },
-  {
-    "word": "Jesse",
-    "word_count": 3
-  },
-  {
-    "word": "City",
-    "word_count": 3
-  },
-  {
-    "word": "Dallas",
-    "word_count": 3
-  },
-  {
-    "word": "Detroit",
+    "word": "Clinic",
     "word_count": 3
   },
   {
@@ -536,39 +104,7 @@
     "word_count": 3
   },
   {
-    "word": "Campus",
+    "word": "CYFY",
     "word_count": 3
-  },
-  {
-    "word": "Milwaukee",
-    "word_count": 2
-  },
-  {
-    "word": "Battle",
-    "word_count": 2
-  },
-  {
-    "word": "Creek",
-    "word_count": 2
-  },
-  {
-    "word": "Northport",
-    "word_count": 2
-  },
-  {
-    "word": "Perry",
-    "word_count": 2
-  },
-  {
-    "word": "Point",
-    "word_count": 2
-  },
-  {
-    "word": "Overton",
-    "word_count": 2
-  },
-  {
-    "word": "Shreveport",
-    "word_count": 2
   }
 ]
