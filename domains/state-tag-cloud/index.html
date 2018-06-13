@@ -8,29 +8,20 @@ title: State Domains Tag Cloud
 <div id="topiccloud" class="wordcloud">
   {% for topic in topics %}
 
-  {% if topic.domain_count > 100000 %}
+  {% if topic.domain_count > 3000 %}
     {% assign path_value = 10 %}
   {% endif %}
-  {% if topic.domain_count > 10000 and topic.domain_count < 100000 %}
+  {% if topic.domain_count > 2000 and topic.domain_count < 3000 %}
     {% assign path_value = 9 %}
   {% endif %}
-  {% if topic.domain_count > 5000 and topic.domain_count < 10000 %}
+  {% if topic.domain_count > 1000 and topic.domain_count < 2000 %}
     {% assign path_value = 8 %}
   {% endif %}
-  {% if topic.domain_count > 3000 and topic.domain_count < 5000 %}
+  {% if topic.domain_count > 500 and topic.domain_count < 1000 %}
     {% assign path_value = 7 %}
   {% endif %}
-  {% if topic.domain_count > 2000 and topic.domain_count < 3000 %}
-    {% assign path_value = 6 %}
-  {% endif %}
-  {% if topic.domain_count > 1000 and topic.domain_count < 2000 %}
-    {% assign path_value = 5 %}
-  {% endif %}
-  {% if topic.domain_count > 500 and topic.domain_count < 1000 %}
-    {% assign path_value = 4 %}
-  {% endif %}
   {% if topic.domain_count > 100 and topic.domain_count < 500 %}
-    {% assign path_value = 3 %}
+    {% assign path_value = 6 %}
   {% endif %}
   {% if topic.domain_count < 100 %}
     {% assign path_value = 1 %}
