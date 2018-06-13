@@ -1,0 +1,4 @@
+{% assign topics = include.topics %}
+{% for topic in topics %}
+  {{ topic.word }} ({% include numberWithCommas.html number=topic.word_count %})<br />
+{% endfor %}

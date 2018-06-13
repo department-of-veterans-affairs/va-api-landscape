@@ -4,7 +4,5 @@ title: All Tag Listing
 ---
 <p><strong>All Tags Listing</strong> (<a href="{{'/' | prepend:site.baseurl}}">Return to Home</a>)</p>
 <p>This is a list of top tags across all pages processed so far.</p>
-{% assign topics = site.data.all_tag_cloud %}
-{% for topic in topics %}
-  {{ topic.word }} ({% include numberWithCommas.html number=topic.word_count %})<br />
-{% endfor %}
+
+{% include tag_list.html topics=site.data.all_tag_cloud %}
