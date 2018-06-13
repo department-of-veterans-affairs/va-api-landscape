@@ -4,7 +4,7 @@ title: Program Domain Listing
 ---
 <p><strong>Program Domains Listing</strong> (<a href="{{'/' | prepend:site.baseurl}}">Return to Home</a>)</p>
 <p>This is a list of program subdomains currently identified as part of the harvesting.</p>
-{% assign topics = site.data.domains %}
+{% assign topics = site.data.domains_programs %}
 {% for topic in topics %}
   {{ topic.domain }} ({{ topic.domain_count }})<br />
 {% endfor %}

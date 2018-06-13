@@ -4,7 +4,7 @@ title: City Domain Listing
 ---
 <p><strong>City Domains Listing</strong> (<a href="{{'/' | prepend:site.baseurl}}">Return to Home</a>)</p>
 <p>This is a list of city level subdomains currently identified as part of the harvesting.</p>
-{% assign topics = site.data.domains %}
+{% assign topics = site.data.domains_city %}
 {% for topic in topics %}
   {{ topic.domain }} ({{ topic.domain_count }})<br />
 {% endfor %}
