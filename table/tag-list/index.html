@@ -4,7 +4,5 @@ title: Table Keywords Listing
 ---
 <p><strong>Table Keywords Listing</strong> (<a href="{{'/' | prepend:site.baseurl}}">Return to Home</a>)</p>
 <p>This is a list of top keywords from across all pages that have tables with more than 10 rows.</p>
-{% assign topics = site.data.table_tag_cloud %}
-{% for topic in topics %}
-  {{ topic.word }} ({{ topic.word_count }})<br />
-{% endfor %}
+
+{% include tag_list.html topics=site.data.table_tag_cloud %}

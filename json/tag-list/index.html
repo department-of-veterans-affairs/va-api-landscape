@@ -4,7 +4,5 @@ title: JSON Keywords Listing
 ---
 <p><strong>JSON Tags Listing</strong> (<a href="{{'/' | prepend:site.baseurl}}">Return to Home</a>)</p>
 <p>This is a list of top keywords from across all JSON files identified from spidering the VA website.</p>
-{% assign topics = site.data.json_tag_cloud %}
-{% for topic in topics %}
-  {{ topic.word }} ({{ topic.word_count }})<br />
-{% endfor %}
+
+{% include tag_list.html topics=site.data.json_tag_cloud %}

@@ -4,7 +4,5 @@ title: CSV Keywords Listing
 ---
 <p><strong>CSV Tags Listing</strong> (<a href="{{'/' | prepend:site.baseurl}}">Return to Home</a>)</p>
 <p>This is a list of top keywords from across all CSV files identified from spidering the VA website.</p>
-{% assign topics = site.data.csv_tag_cloud %}
-{% for topic in topics %}
-  {{ topic.word }} ({{ topic.word_count }})<br />
-{% endfor %}
+
+{% include tag_list.html topics=site.data.csv_tag_cloud %}
