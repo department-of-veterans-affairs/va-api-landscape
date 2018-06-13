@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Domains Tag Cloud
+title: City Domains Tag Cloud
 ---
-<p><strong>All Domains Cloud</strong> (<a href="{{'/' | prepend:site.baseurl}}">Return to Home</a>)</p>
-<p>This is a list of top tags across all subdomains currently identified as part of the harvesting.</p>
+<p><strong>City Domains Cloud</strong> (<a href="{{'/' | prepend:site.baseurl}}">Return to Home</a>)</p>
+<p>This is a tag cloud of city level subdomains currently identified as part of the harvesting.</p>
 {% assign topics = site.data.domains %}
 <div id="topiccloud" class="wordcloud">
   {% for topic in topics %}

@@ -1,0 +1,94 @@
+---
+layout: default
+title: State Domains Tag Cloud
+---
+<p><strong>State Domains Cloud</strong> (<a href="{{'/' | prepend:site.baseurl}}">Return to Home</a>)</p>
+<p>This is a tag cloud of state subdomains currently identified as part of the harvesting.</p>
+{% assign topics = site.data.domains %}
+<div id="topiccloud" class="wordcloud">
+  {% for topic in topics %}
+
+  {% if topic.domain_count > 100000 %}
+    {% assign path_value = 10 %}
+  {% endif %}
+  {% if topic.domain_count > 10000 and topic.domain_count < 100000 %}
+    {% assign path_value = 9 %}
+  {% endif %}
+  {% if topic.domain_count > 5000 and topic.domain_count < 10000 %}
+    {% assign path_value = 8 %}
+  {% endif %}
+  {% if topic.domain_count > 3000 and topic.domain_count < 5000 %}
+    {% assign path_value = 7 %}
+  {% endif %}
+  {% if topic.domain_count > 2000 and topic.domain_count < 3000 %}
+    {% assign path_value = 6 %}
+  {% endif %}
+  {% if topic.domain_count > 1000 and topic.domain_count < 2000 %}
+    {% assign path_value = 5 %}
+  {% endif %}
+  {% if topic.domain_count > 500 and topic.domain_count < 1000 %}
+    {% assign path_value = 4 %}
+  {% endif %}
+  {% if topic.domain_count > 100 and topic.domain_count < 500 %}
+    {% assign path_value = 3 %}
+  {% endif %}
+  {% if topic.domain_count < 100 %}
+    {% assign path_value = 1 %}
+  {% endif %}
+
+    <span data-weight="{{ path_value }}">
+      {{ topic.domain }}
+    </span>
+  {% endfor %}
+</div>
+
+
+<script>
+
+$(document).ready(function(){
+    $("#topiccloud").awesomeCloud({
+      "size" : {
+        "grid" : 2, // domain spacing, smaller is more tightly packed
+        "factor" : 0, // font resize factor, 0 means automatic
+        "normalize" : false // reduces outliers for more attractive output
+      },
+      "color" : {
+        "background" : "rgba(255,255,255,0)", // background color, transparent by default
+        "start" : "#20f", // color of the smallest font, if options.color = "gradient""
+        "end" : "rgb(200,0,0)" // color of the largest font, if options.color = "gradient"
+      },
+      "options" : {
+        "color" : "random-dark", // random-light, random-dark, gradient
+        "rotationRatio" : 0, // 0 is all horizontal, 1 is all vertical
+        "printMultiplier" : 3, // set to 3 for nice printer output; higher numbers take longer
+        "sort" : "highest" // highest, lowest or random
+      },
+      "font" : "'Times New Roman'", //  the CSS font-family string
+      "shape" : "square" // circle, square, star or a theta function describing a shape
+    });
+});
+
+$(document).ready(function(){
+    $("#organizationcloud").awesomeCloud({
+      "size" : {
+        "grid" : 5, // domain spacing, smaller is more tightly packed
+        "factor" : 10, // font resize factor, 0 means automatic
+        "normalize" : false // reduces outliers for more attractive output
+      },
+      "color" : {
+        "background" : "rgba(255,255,255,0)", // background color, transparent by default
+        "start" : "#20f", // color of the smallest font, if options.color = "gradient""
+        "end" : "rgb(200,0,0)" // color of the largest font, if options.color = "gradient"
+      },
+      "options" : {
+        "color" : "random-dark", // random-light, random-dark, gradient
+        "rotationRatio" : 0, // 0 is all horizontal, 1 is all vertical
+        "printMultiplier" : 3, // set to 3 for nice printer output; higher numbers take longer
+        "sort" : "highest" // highest, lowest or random
+      },
+      "font" : "'Times New Roman'", //  the CSS font-family string
+      "shape" : "square" // circle, square, star or a theta function describing a shape
+    });
+    document.getElementById("orgTagCloud").style.display='none';
+});
+</script>

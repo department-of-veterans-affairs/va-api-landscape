@@ -1,0 +1,10 @@
+---
+layout: default
+title: State Domain Listing
+---
+<p><strong>State Domains Listing</strong> (<a href="{{'/' | prepend:site.baseurl}}">Return to Home</a>)</p>
+<p>This is a list of state subdomains currently identified as part of the harvesting.</p>
+{% assign topics = site.data.domains %}
+{% for topic in topics %}
+  {{ topic.domain }} ({{ topic.domain_count }})<br />
+{% endfor %}
