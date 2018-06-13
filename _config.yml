@@ -4,6 +4,10 @@ raw_url: https://api-evangelist-data.github.io/names/apis/
 baseurl: /va-api-landscape
 tag: Names
 
+sass:
+    style: :compressed
+    sass_dir: ./_scss
+    
 logo:         https://kinlane-productions.s3.amazonaws.com/api-evangelist/api-evangelist-logo-400.png
 logo_width:   80
 logo_bottom_padding: 10
