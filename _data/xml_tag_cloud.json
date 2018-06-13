@@ -8,16 +8,8 @@
     "word_count": 1030
   },
   {
-    "word": "System",
-    "word_count": 854
-  },
-  {
     "word": "Health",
     "word_count": 752
-  },
-  {
-    "word": "Center",
-    "word_count": 684
   },
   {
     "word": "Care",
@@ -26,14 +18,6 @@
   {
     "word": "Medical",
     "word_count": 634
-  },
-  {
-    "word": "Veterans",
-    "word_count": 370
-  },
-  {
-    "word": "Service",
-    "word_count": 256
   },
   {
     "word": "Healthcare",
@@ -56,10 +40,6 @@
     "word_count": 94
   },
   {
-    "word": "American",
-    "word_count": 80
-  },
-  {
     "word": "Recovery",
     "word_count": 80
   },
@@ -76,28 +56,12 @@
     "word_count": 72
   },
   {
-    "word": "Texas",
-    "word_count": 72
-  },
-  {
-    "word": "Central",
-    "word_count": 70
-  },
-  {
-    "word": "City",
-    "word_count": 64
-  },
-  {
     "word": "Feed",
     "word_count": 62
   },
   {
     "word": "Veteran",
     "word_count": 60
-  },
-  {
-    "word": "Louis",
-    "word_count": 56
   },
   {
     "word": "National",
@@ -108,32 +72,12 @@
     "word_count": 54
   },
   {
-    "word": "Alabama",
-    "word_count": 54
-  },
-  {
-    "word": "Junction",
-    "word_count": 54
-  },
-  {
-    "word": "Access",
-    "word_count": 52
-  },
-  {
     "word": "COIN",
     "word_count": 52
   },
   {
-    "word": "Valley",
-    "word_count": 48
-  },
-  {
-    "word": "Providence",
-    "word_count": 48
-  },
-  {
-    "word": "Iowa",
-    "word_count": 46
+    "word": "Access",
+    "word_count": 52
   },
   {
     "word": "Life",
@@ -142,10 +86,6 @@
   {
     "word": "Annual",
     "word_count": 46
-  },
-  {
-    "word": "Eastern",
-    "word_count": 42
   },
   {
     "word": "Finance",
@@ -160,23 +100,11 @@
     "word_count": 40
   },
   {
-    "word": "Initaitves",
-    "word_count": 40
-  },
-  {
-    "word": "Kansas",
-    "word_count": 40
-  },
-  {
-    "word": "Program",
-    "word_count": 38
-  },
-  {
-    "word": "Management",
+    "word": "Local",
     "word_count": 36
   },
   {
-    "word": "Indiana",
+    "word": "Birmingham",
     "word_count": 36
   },
   {
@@ -188,35 +116,7 @@
     "word_count": 36
   },
   {
-    "word": "Mountain",
-    "word_count": 36
-  },
-  {
-    "word": "Local",
-    "word_count": 36
-  },
-  {
-    "word": "Features",
-    "word_count": 36
-  },
-  {
-    "word": "Birmingham",
-    "word_count": 36
-  },
-  {
-    "word": "Grand",
-    "word_count": 36
-  },
-  {
-    "word": "Compensation",
-    "word_count": 34
-  },
-  {
     "word": "Whole",
-    "word_count": 34
-  },
-  {
-    "word": "Amarillo",
     "word_count": 34
   },
   {
@@ -224,59 +124,15 @@
     "word_count": 34
   },
   {
+    "word": "Compensation",
+    "word_count": 34
+  },
+  {
     "word": "Women",
     "word_count": 32
   },
   {
-    "word": "Altoona",
-    "word_count": 32
-  },
-  {
-    "word": "Arbor",
-    "word_count": 32
-  },
-  {
-    "word": "Fayetteville",
-    "word_count": 32
-  },
-  {
-    "word": "Overton",
-    "word_count": 30
-  },
-  {
-    "word": "Johnson",
-    "word_count": 30
-  },
-  {
-    "word": "Hudson",
-    "word_count": 30
-  },
-  {
-    "word": "Network",
-    "word_count": 30
-  },
-  {
-    "word": "Orlando",
-    "word_count": 30
-  },
-  {
-    "word": "Benefits",
-    "word_count": 30
-  },
-  {
-    "word": "Dayton",
-    "word_count": 30
-  },
-  {
-    "word": "Memphis",
-    "word_count": 30
-  },
-  {
-    "word": "Hunter",
-    "word_count": 30
-  },
-  {
-    "word": "Holmes",
+    "word": "Fiscal",
     "word_count": 30
   },
   {
@@ -284,19 +140,11 @@
     "word_count": 30
   },
   {
-    "word": "McGuire",
-    "word_count": 30
-  },
-  {
-    "word": "Richmond",
-    "word_count": 30
-  },
-  {
     "word": "Travel",
     "word_count": 30
   },
   {
-    "word": "Northern",
+    "word": "Network",
     "word_count": 30
   },
   {
@@ -304,83 +152,19 @@
     "word_count": 30
   },
   {
-    "word": "Fiscal",
+    "word": "Benefits",
     "word_count": 30
-  },
-  {
-    "word": "Year",
-    "word_count": 30
-  },
-  {
-    "word": "West",
-    "word_count": 30
-  },
-  {
-    "word": "James",
-    "word_count": 28
   },
   {
     "word": "Regulations",
     "word_count": 28
   },
   {
-    "word": "Mexico",
-    "word_count": 28
-  },
-  {
-    "word": "Salem",
-    "word_count": 28
-  },
-  {
-    "word": "Poplar",
-    "word_count": 26
-  },
-  {
-    "word": "Bluff",
-    "word_count": 26
-  },
-  {
-    "word": "Danville",
-    "word_count": 26
-  },
-  {
-    "word": "Paso",
-    "word_count": 26
-  },
-  {
     "word": "Library",
     "word_count": 26
   },
   {
-    "word": "STVHCS",
-    "word_count": 24
-  },
-  {
-    "word": "MannGrandstaff",
-    "word_count": 24
-  },
-  {
-    "word": "Black",
-    "word_count": 24
-  },
-  {
     "word": "Insurance",
-    "word_count": 24
-  },
-  {
-    "word": "Hills",
-    "word_count": 24
-  },
-  {
-    "word": "Leavenworth",
-    "word_count": 24
-  },
-  {
-    "word": "Nevada",
-    "word_count": 24
-  },
-  {
-    "word": "County",
     "word_count": 24
   },
   {
@@ -388,19 +172,7 @@
     "word_count": 24
   },
   {
-    "word": "Minneapolis",
-    "word_count": 24
-  },
-  {
-    "word": "Milwaukee",
-    "word_count": 24
-  },
-  {
     "word": "Academy",
-    "word_count": 24
-  },
-  {
-    "word": "Ohio",
     "word_count": 24
   },
   {
@@ -408,15 +180,7 @@
     "word_count": 24
   },
   {
-    "word": "Franchise",
-    "word_count": 24
-  },
-  {
-    "word": "Diego",
-    "word_count": 24
-  },
-  {
-    "word": "Fund",
+    "word": "Safety",
     "word_count": 24
   },
   {
@@ -424,15 +188,15 @@
     "word_count": 24
   },
   {
-    "word": "Safety",
+    "word": "STVHCS",
     "word_count": 24
   },
   {
-    "word": "John",
+    "word": "Franchise",
     "word_count": 24
   },
   {
-    "word": "Rehabilitation",
+    "word": "Fund",
     "word_count": 24
   },
   {
@@ -440,19 +204,11 @@
     "word_count": 24
   },
   {
-    "word": "Palm",
+    "word": "Rehabilitation",
     "word_count": 24
   },
   {
-    "word": "Connecticut",
-    "word_count": 22
-  },
-  {
     "word": "Energy",
-    "word_count": 22
-  },
-  {
-    "word": "White",
     "word_count": 22
   },
   {
@@ -460,163 +216,15 @@
     "word_count": 22
   },
   {
-    "word": "Angeles",
-    "word_count": 22
-  },
-  {
-    "word": "Administration",
-    "word_count": 22
-  },
-  {
-    "word": "Cloud",
-    "word_count": 22
-  },
-  {
-    "word": "Cheyenne",
-    "word_count": 22
-  },
-  {
-    "word": "Francisco",
-    "word_count": 22
-  },
-  {
     "word": "Wait",
     "word_count": 22
-  },
-  {
-    "word": "Federal",
-    "word_count": 20
   },
   {
     "word": "Audit",
     "word_count": 20
   },
   {
-    "word": "Puget",
-    "word_count": 20
-  },
-  {
-    "word": "Sound",
-    "word_count": 20
-  },
-  {
-    "word": "Coverage",
-    "word_count": 18
-  },
-  {
-    "word": "Fargo",
-    "word_count": 18
-  },
-  {
-    "word": "Loma",
-    "word_count": 18
-  },
-  {
-    "word": "Linda",
-    "word_count": 18
-  },
-  {
-    "word": "Michigan",
-    "word_count": 18
-  },
-  {
-    "word": "Harbor",
-    "word_count": 18
-  },
-  {
-    "word": "Duty",
-    "word_count": 18
-  },
-  {
-    "word": "Appointments",
-    "word_count": 18
-  },
-  {
-    "word": "Washington",
-    "word_count": 18
-  },
-  {
-    "word": "Canandaigua",
-    "word_count": 18
-  },
-  {
-    "word": "Beckley",
-    "word_count": 18
-  },
-  {
-    "word": "Beach",
-    "word_count": 18
-  },
-  {
-    "word": "Edith",
-    "word_count": 18
-  },
-  {
-    "word": "NVSBE",
-    "word_count": 18
-  },
-  {
-    "word": "Cleveland",
-    "word_count": 18
-  },
-  {
-    "word": "EMPLOYEES",
-    "word_count": 18
-  },
-  {
-    "word": "Pines",
-    "word_count": 18
-  },
-  {
-    "word": "Marion",
-    "word_count": 18
-  },
-  {
-    "word": "Nourse",
-    "word_count": 18
-  },
-  {
-    "word": "OCCUPATION",
-    "word_count": 18
-  },
-  {
-    "word": "Butler",
-    "word_count": 18
-  },
-  {
-    "word": "CAVHCS",
-    "word_count": 18
-  },
-  {
-    "word": "Rogers",
-    "word_count": 18
-  },
-  {
-    "word": "River",
-    "word_count": 18
-  },
-  {
-    "word": "William",
-    "word_count": 18
-  },
-  {
-    "word": "Georgia",
-    "word_count": 18
-  },
-  {
-    "word": "Sierra",
-    "word_count": 18
-  },
-  {
-    "word": "Vermont",
-    "word_count": 18
-  },
-  {
-    "word": "Middleton",
-    "word_count": 18
-  },
-  {
-    "word": "Prosthetic",
+    "word": "Veterans",
     "word_count": 18
   },
   {
@@ -624,11 +232,7 @@
     "word_count": 18
   },
   {
-    "word": "Palo",
-    "word_count": 18
-  },
-  {
-    "word": "Hampton",
+    "word": "Prosthetic",
     "word_count": 18
   },
   {
@@ -636,7 +240,19 @@
     "word_count": 18
   },
   {
-    "word": "Alto",
+    "word": "Employees",
+    "word_count": 18
+  },
+  {
+    "word": "Occupation",
+    "word_count": 18
+  },
+  {
+    "word": "NVSBE",
+    "word_count": 18
+  },
+  {
+    "word": "CAVHCS",
     "word_count": 18
   },
   {
@@ -644,19 +260,7 @@
     "word_count": 18
   },
   {
-    "word": "Western",
-    "word_count": 18
-  },
-  {
-    "word": "Tomah",
-    "word_count": 18
-  },
-  {
-    "word": "Ozarks",
-    "word_count": 18
-  },
-  {
-    "word": "Oklahoma",
+    "word": "Duty",
     "word_count": 18
   },
   {
@@ -664,75 +268,11 @@
     "word_count": 18
   },
   {
-    "word": "Veterans&#",
+    "word": "Appointments",
     "word_count": 18
   },
   {
-    "word": "Sheridan",
-    "word_count": 18
-  },
-  {
-    "word": "Phoenix",
-    "word_count": 18
-  },
-  {
-    "word": "Roseburg",
-    "word_count": 18
-  },
-  {
-    "word": "Arizona",
-    "word_count": 18
-  },
-  {
-    "word": "Rocky",
-    "word_count": 18
-  },
-  {
-    "word": "Southern",
-    "word_count": 18
-  },
-  {
-    "word": "Island",
-    "word_count": 18
-  },
-  {
-    "word": "Walla",
-    "word_count": 16
-  },
-  {
-    "word": "Receiving",
-    "word_count": 16
-  },
-  {
-    "word": "Salt",
-    "word_count": 16
-  },
-  {
-    "word": "Lake",
-    "word_count": 16
-  },
-  {
-    "word": "Miami",
-    "word_count": 16
-  },
-  {
-    "word": "Brooklyn",
-    "word_count": 16
-  },
-  {
-    "word": "Alaska",
-    "word_count": 16
-  },
-  {
-    "word": "Boston",
-    "word_count": 16
-  },
-  {
-    "word": "Jersey",
-    "word_count": 16
-  },
-  {
-    "word": "Portland",
+    "word": "Fact",
     "word_count": 16
   },
   {
@@ -740,16 +280,8 @@
     "word_count": 16
   },
   {
-    "word": "Times",
+    "word": "Receiving",
     "word_count": 16
-  },
-  {
-    "word": "Fact",
-    "word_count": 16
-  },
-  {
-    "word": "Based",
-    "word_count": 14
   },
   {
     "word": "VistA",
@@ -760,35 +292,11 @@
     "word_count": 14
   },
   {
-    "word": "During",
-    "word_count": 14
-  },
-  {
-    "word": "Albany",
-    "word_count": 14
-  },
-  {
-    "word": "Harry",
+    "word": "Prevention",
     "word_count": 12
   },
   {
-    "word": "Nashville",
-    "word_count": 12
-  },
-  {
-    "word": "Bath",
-    "word_count": 12
-  },
-  {
-    "word": "Suicide",
-    "word_count": 12
-  },
-  {
-    "word": "Distribution",
-    "word_count": 12
-  },
-  {
-    "word": "Atlanta",
+    "word": "Veterans",
     "word_count": 12
   },
   {
@@ -796,123 +304,7 @@
     "word_count": 12
   },
   {
-    "word": "Hines",
-    "word_count": 12
-  },
-  {
-    "word": "Detroit",
-    "word_count": 12
-  },
-  {
-    "word": "Truman",
-    "word_count": 12
-  },
-  {
-    "word": "Active",
-    "word_count": 12
-  },
-  {
-    "word": "Jennings",
-    "word_count": 12
-  },
-  {
-    "word": "Coastal",
-    "word_count": 12
-  },
-  {
-    "word": "Honolulu",
-    "word_count": 12
-  },
-  {
-    "word": "Review",
-    "word_count": 12
-  },
-  {
-    "word": "Prevention",
-    "word_count": 12
-  },
-  {
-    "word": "Completed",
-    "word_count": 12
-  },
-  {
-    "word": "Expenditures",
-    "word_count": 12
-  },
-  {
-    "word": "Reference",
-    "word_count": 12
-  },
-  {
-    "word": "Pershing",
-    "word_count": 12
-  },
-  {
-    "word": "Cincinnati",
-    "word_count": 12
-  },
-  {
-    "word": "Bryan",
-    "word_count": 12
-  },
-  {
-    "word": "Bend",
-    "word_count": 12
-  },
-  {
-    "word": "Long",
-    "word_count": 12
-  },
-  {
-    "word": "Model",
-    "word_count": 12
-  },
-  {
-    "word": "Reserve",
-    "word_count": 12
-  },
-  {
-    "word": "Stokes",
-    "word_count": 12
-  },
-  {
-    "word": "Tucson",
-    "word_count": 12
-  },
-  {
-    "word": "Dorn",
-    "word_count": 12
-  },
-  {
-    "word": "Highlights",
-    "word_count": 12
-  },
-  {
-    "word": "Perry",
-    "word_count": 12
-  },
-  {
-    "word": "Veterans&#",
-    "word_count": 12
-  },
-  {
-    "word": "Montana",
-    "word_count": 12
-  },
-  {
-    "word": "Point",
-    "word_count": 12
-  },
-  {
-    "word": "Website",
-    "word_count": 12
-  },
-  {
-    "word": "NebraskaWestern",
-    "word_count": 12
-  },
-  {
-    "word": "Martinsburg",
+    "word": "VADoD",
     "word_count": 12
   },
   {
@@ -920,23 +312,143 @@
     "word_count": 12
   },
   {
-    "word": "List",
+    "word": "Reference",
     "word_count": 12
   },
   {
-    "word": "Coatesville",
+    "word": "Facility",
     "word_count": 12
   },
   {
-    "word": "VADoD",
+    "word": "Model",
     "word_count": 12
   },
   {
-    "word": "Pacific",
+    "word": "Quality",
     "word_count": 12
   },
   {
-    "word": "Syracuse",
+    "word": "Practice",
     "word_count": 12
+  },
+  {
+    "word": "Corporal",
+    "word_count": 12
+  },
+  {
+    "word": "Overpayments",
+    "word_count": 12
+  },
+  {
+    "word": "System",
+    "word_count": 12
+  },
+  {
+    "word": "Geographic",
+    "word_count": 12
+  },
+  {
+    "word": "Distribution",
+    "word_count": 12
+  },
+  {
+    "word": "Optometry",
+    "word_count": 12
+  },
+  {
+    "word": "Expenditures",
+    "word_count": 12
+  },
+  {
+    "word": "CARS",
+    "word_count": 12
+  },
+  {
+    "word": "Recipients",
+    "word_count": 12
+  },
+  {
+    "word": "Survey",
+    "word_count": 12
+  },
+  {
+    "word": "Website",
+    "word_count": 12
+  },
+  {
+    "word": "Calls",
+    "word_count": 12
+  },
+  {
+    "word": "Active",
+    "word_count": 12
+  },
+  {
+    "word": "Review",
+    "word_count": 12
+  },
+  {
+    "word": "Completed",
+    "word_count": 12
+  },
+  {
+    "word": "Reserve",
+    "word_count": 12
+  },
+  {
+    "word": "Suicide",
+    "word_count": 12
+  },
+  {
+    "word": "Guide",
+    "word_count": 10
+  },
+  {
+    "word": "Cemetery",
+    "word_count": 10
+  },
+  {
+    "word": "Loans",
+    "word_count": 10
+  },
+  {
+    "word": "Guaranteed",
+    "word_count": 10
+  },
+  {
+    "word": "CFOI",
+    "word_count": 10
+  },
+  {
+    "word": "Prevalent",
+    "word_count": 10
+  },
+  {
+    "word": "Contacts",
+    "word_count": 10
+  },
+  {
+    "word": "Disabilities",
+    "word_count": 10
+  },
+  {
+    "word": "Accountability",
+    "word_count": 10
+  },
+  {
+    "word": "Benefit",
+    "word_count": 10
+  },
+  {
+    "word": "Connected",
+    "word_count": 10
+  },
+  {
+    "word": "Procedure",
+    "word_count": 10
+  },
+  {
+    "word": "Captain",
+    "word_count": 10
   }
 ]
