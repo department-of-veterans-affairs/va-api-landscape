@@ -1,7 +1,7 @@
 title:        Jekkyll Hypermedia Client
 url:          http://jekyll.hypermedia.client.apievangelist.com/
 raw_url: https://api-evangelist-data.github.io/names/apis/
-
+baseurl: /va-api-landscape
 tag: Names
 
 logo:         https://kinlane-productions.s3.amazonaws.com/api-evangelist/api-evangelist-logo-400.png

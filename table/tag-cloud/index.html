@@ -3,7 +3,7 @@ layout: default
 title: Table Tag Cloud
 ---
 
-<p><strong>Table Tag Cloud</strong> (<a href="{{base}}/">Return to Home</a>)</p>
+<p><strong>Table Tag Cloud</strong> (<a href="{{'/' | prepend:site.baseurl}}">Return to Home</a>)</p>
 <p>This is a list of top keywords from across all pages that have tables with more than 10 rows.</p>
 {% assign topics = site.data.table_tag_cloud %}
 <div id="topiccloud" class="wordcloud">
