@@ -4,7 +4,7 @@ title: Data.gov
 ---
 {% assign items = site.data.data_gov %}
 {% assign items = items | sort: 'total' | reverse %}
-<p><strong>Data.gov Data</strong> (<a href="https://api-evangelist.github.io/va-api-landscape/">Return to Home</a>)</p>
+<p><strong>Data.gov Data</strong> (<a href="{{base}}/">Return to Home</a>)</p>
 <p>These are the data sets pulled from Data.gov, and sorted by their downloads, with the <a href="https://raw.githubusercontent.com/api-evangelist/va-api-landscape/master/_data/datagov.json" target="_blank">JSON file available here</a>.</p>
 <ul style="margin-left: 25px; text-align:left;">
 {% for item in items %}
