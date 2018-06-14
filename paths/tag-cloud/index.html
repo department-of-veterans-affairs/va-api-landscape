@@ -6,6 +6,7 @@ title: Path Tag Cloud
 <p><strong>Path Tags Cloud</strong> (<a href="{{'/' | prepend:site.baseurl}}">Return to Home</a>)</p>
 <p>This is a list of top paths identified from spidering the VA website.</p>
 {% assign topics = site.data.path_tag_cloud %}
+{{ topics }}<br />
 <div id="topiccloud" class="wordcloud">
   {% for topic in topics %}
 
