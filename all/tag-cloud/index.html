@@ -3,7 +3,7 @@ layout: default
 title: All Tag Cloud
 ---
 <p><strong>All Tags Cloud</strong> (<a href="{{'/' | prepend:site.baseurl}}">Return to Home</a>)</p>
-<p>This is a list of top tags across all pages processed so far.</p>
+<p>This is a list of top tags across all pages processed so far as part of the harvesting.</p>
 {% assign topics = site.data.all_tag_cloud %}
 <div id="topiccloud" class="wordcloud">
   {% for topic in topics %}
