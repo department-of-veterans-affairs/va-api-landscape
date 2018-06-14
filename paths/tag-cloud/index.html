@@ -24,14 +24,8 @@ title: Path Tag Cloud
     {% if topic.path_count > 500 and topic.path_count < 1000 %}
       {% assign path_value = 6 %}
     {% endif %}
-    {% if topic.path_count > 250 and topic.path_count < 500 %}
-      {% assign path_value = 5 %}
-    {% endif %}
-    {% if topic.path_count > 100 and topic.path_count < 250 %}
+    {% if topic.path_count < 500 %}
       {% assign path_value = 4 %}
-    {% endif %}
-    {% if topic.path_count < 100 %}
-      {% assign path_value = 1 %}
     {% endif %}
 
     <span data-weight="{{ path_value }}">
