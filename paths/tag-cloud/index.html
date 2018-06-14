@@ -12,29 +12,23 @@ title: Path Tag Cloud
     {% if topic.path_count > 10000 %}
       {% assign path_value = 10 %}
     {% endif %}
-    {% if topic.path_count > 5000 and topic.path_count < 10000 %}
+    {% if topic.path_count > 3000 and topic.path_count < 10000 %}
       {% assign path_value = 9 %}
     {% endif %}
-    {% if topic.path_count > 4000 and topic.path_count < 5000 %}
+    {% if topic.path_count > 2000 and topic.path_count < 5000 %}
       {% assign path_value = 8 %}
     {% endif %}
-    {% if topic.path_count > 3000 and topic.path_count < 4000 %}
+    {% if topic.path_count > 1000 and topic.path_count < 4000 %}
       {% assign path_value = 7 %}
     {% endif %}
-    {% if topic.path_count > 2000 and topic.path_count < 3000 %}
+    {% if topic.path_count > 500 and topic.path_count < 1000 %}
       {% assign path_value = 6 %}
     {% endif %}
-    {% if topic.path_count > 1000 and topic.path_count < 2000 %}
+    {% if topic.path_count > 250 and topic.path_count < 500 %}
       {% assign path_value = 5 %}
     {% endif %}
-    {% if topic.path_count > 500 and topic.path_count < 1000 %}
-      {% assign path_value = 4 %}
-    {% endif %}
-    {% if topic.path_count > 250 and topic.path_count < 500 %}
-      {% assign path_value = 3 %}
-    {% endif %}
     {% if topic.path_count > 100 and topic.path_count < 250 %}
-      {% assign path_value = 2 %}
+      {% assign path_value = 4 %}
     {% endif %}
     {% if topic.path_count < 100 %}
       {% assign path_value = 1 %}
