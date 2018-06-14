@@ -14,23 +14,14 @@ title: All Tag Cloud
   {% if topic.word_count > 5000 and topic.word_count < 10000 %}
     {% assign path_value = 9 %}
   {% endif %}
-  {% if topic.word_count > 2000 and topic.word_count < 5000 %}
+  {% if topic.word_count > 1000 and topic.word_count < 5000 %}
     {% assign path_value = 8 %}
   {% endif %}
-  {% if topic.word_count > 1000 and topic.word_count < 5000 %}
+  {% if topic.word_count > 100 and topic.word_count < 1000 %}
     {% assign path_value = 7 %}
   {% endif %}
-  {% if topic.word_count > 500 and topic.word_count < 1000 %}
+  {% if topic.word_count < 100 %}
     {% assign path_value = 6 %}
-  {% endif %}
-  {% if topic.word_count > 100 and topic.word_count < 500 %}
-    {% assign path_value = 5 %}
-  {% endif %}
-  {% if topic.word_count > 50 and topic.word_count < 100 %}
-    {% assign path_value = 4 %}
-  {% endif %}
-  {% if topic.word_count < 50 %}
-    {% assign path_value = 3 %}
   {% endif %}
 
     <span data-weight="{{ path_value }}">
