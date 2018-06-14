@@ -15,27 +15,32 @@ title: Report
       <p><strong>The Process</strong></p>
       <p>To help the Department of Veterans Affairs (VA) evaluate the landscape that defines their web presence, we are employing a process we are call "low hanging fruit", which involves identifying the resources that exists across their website(s), using a pretty simple spidering script that we have been running for 2 weeks. To begin, we seed the script by giving it the root URL for the website va.gov, which it then proceeds to:</p>
 
-      - Parses every URL on the page and store it in a database
-      - Counts every table, and the number of rows that exist on the page
-      - Counts every form that exists on the page
-      - Extract the title from the meta tags for each page
-
+      <ul>
+      <li>Parses every URL on the page and store it in a database</li>
+      <li>Counts every table, and the number of rows that exist on the page</li>
+      <li>Counts every form that exists on the page</li>
+      <li>Extract the title from the meta tags for each page</li>
+      </ul>
       <p>The low hanging fruit script then iterates and repeats this for every URL it finds on the page. It ignores any external URLs, and only spiders URLs that possess the original see domain va.gov. The spider also ignores images, word docs, video, and many other common objects that exist on the website. While spidering and processing each HTML page, the low hanging fruit script is working to identy the following data resources:</p>
 
-      - Every HTML table with more than 10 rows
-      - Every HTML form
-      - Every CSV file
-      - Every XML file
-      - Every JSON file
-      - Every XLS or XLSX file
+      <ul>
+      <li>Every HTML table with more than 10 rows</li>
+      <li>Every HTML form</li>
+      <li>Every CSV file</li>
+      <li>Every XML file</li>
+      <li>Every JSON file</li>
+      <li>Every XLS or XLSX file</li>
+      </ul>
 
       <p>After running the script for several weeks, and spidering around 1/3 of the URLs we have targeted, processing every table, form, csv, xml, json, and spreadsheet we come across, we feel we have painted a pretty interesting picture of the VA web presence.</p>
 
       <p>With almost 1/3 of the pages targeted, with a wealth of CSV, XML, JSON, XLS, and tables identified we do our best to identify the potential resources each data file possesses by parsing several elements:</p>
 
-      - Title of the page a file was published
-      - Name of the file itself
-      - Sometimes a sample of data
+      <ul>
+      <li>Title of the page a file was published</li>
+      <li>Name of the file itself</li>
+      <li>Sometimes a sample of data</li>
+      </ul>
 
       <p>We take the list of words extracted from this process and we sort them and group by the number of times the word is used, helping us understand the overall presence of each resource. Sometimes this produces a lot of meaningless words, but we've worked to filter those out over time, only leaving the meaningful data resources.</p>
 
