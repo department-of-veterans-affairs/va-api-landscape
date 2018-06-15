@@ -3,189 +3,237 @@ layout: default
 title: Report
 ---
 
-<div>
-  <h1>The Purpose Of The Landscape Analysis</h1>
+<div class="row">
+   <div class="col-md-8">
+      <h1>VA Landscape Analysis</h1>
+      <p>This is a report outlining a two campaign to evaluate the public data assets that exists within the va.gov web domain, and identify potential resources that can be turned into application programming interfaces (APIs) as part of the agencies Lighthouse platform effort.</p>
+      <h1>The Purpose Of The Landscape Analysis</h1>
+      <p>Application Programming Interfaces (APIs) are the next evolution in the web. They are not the latest trend, or vendor solution. The first phase of the web was about delivering data and content to humans using a browser, and this second phase of the web is about delivering the same data and content to other applications using APIs. The purpose of this landscape analysis is to assist the Department of Veteran Affairs in evaluating the data and content publishing efforts made during phase one of their web presence, to help set the stage for the investment in phase two of their web presence.</p>
 
-  <p>Application Programming Interfaces (APIs) are the next evolution in the web. They are not the latest trend, or vendor solution. The first phase of the web was about delivering data and content to humans using a browser, and this second phase of the web is about delivering the same data and content to other applications using APIs. The purpose of this landscape analysis is to assist the Department of Veteran Affairs in evaluating the data and content publishing efforts made during phase one of their web presence, to help set the stage for the investment in phase two of their web presence.</p>
+      <p>The VA has already signaled they are committed to investing in the second phase of their web presence with the announcement of <a href="https://www.oit.va.gov/developer/">the Lighthouse API platform initiative</a>. This landscape analysis will ensure that the Lighthouse efforts builds upon what has already come before it, helping understand what types of data and content the agency has already identified as important, meeting the demand from the public, in support of the veteran community. The VA landscape analysis will provide a snapshot of the VA's existing web presence and work to bring it into alignment with the current investment occurring with the Lighthouse platform, establishing a process that can be used in an ongoing way to help steer API operations, as well as continued web publishing efforts at the federal agency.</p>
 
-  <p>The VA has signaled they are committed to investing in the second phase of their web presence from the leadership at the top with the announcement of <a href="https://www.oit.va.gov/developer/">the Lighthouse API platform initiative</a>. This landscape analysis will help ensure that the Lighthouse efforts builds upon what has come before it, helping understand what types of data and content resources the agency has identified as important, meeting the demand from the public, and in support of the veteran community. The VA landscape analysis will provide a much needed snapshot to bring the VA's existing web presence into alignment with current investment occurring within the Lighthouse platform, while establishing a benchmark process that can be used in an ongoing way to help steer API, as well as web efforts at the federal agency.</p>
+      <h1>The Process</h1>
+      <p>To help the Department of Veterans Affairs (VA) evaluate the landscape that defines their web presence, we are employing a process we are call "low hanging fruit", which involves identifying the resources that exists across their existing website(s), using a pretty simple spidering script that has been running for 2 weeks. To begin the process, the script is seded by giving it the root URL for the va.gov domain, which the script then proceeds to:</p>
 
-  <h1>The Process</h1>
-  <p>To help the Department of Veterans Affairs (VA) evaluate the landscape that defines their web presence, we are employing a process we are call "low hanging fruit", which involves identifying the resources that exists across their website(s), using a pretty simple spidering script that we have been running for 2 weeks. To begin, we seed the script by giving it the root URL for the website va.gov, which it then proceeds to:</p>
+      <ul>
+      <li>Parses every URL on the page and store it in a database</li>
+      <li>Counts every table, and the number of rows that exist on the page</li>
+      <li>Counts every form that exists on the page</li>
+      <li>Extract the title from the meta tags for each page</li>
+      </ul>
 
-  <ul>
-  <li>Parses every URL on the page and store it in a database</li>
-  <li>Counts every table, and the number of rows that exist on the page</li>
-  <li>Counts every form that exists on the page</li>
-  <li>Extract the title from the meta tags for each page</li>
-  </ul>
+      <p>This low hanging fruit script then iterates and repeats this for every URL it finds on any web page. Ignoring any external URLs, and only spidering URLs that possess the original see domain va.gov. The spider also ignores images, word docs, video, and many other common objects that exist on the website. While spidering and processing each HTML page, the low hanging fruit script is working to identy the following data resources:</p>
 
-  <p>The low hanging fruit script then iterates and repeats this for every URL it finds on the page. It ignores any external URLs, and only spiders URLs that possess the original see domain va.gov. The spider also ignores images, word docs, video, and many other common objects that exist on the website. While spidering and processing each HTML page, the low hanging fruit script is working to identy the following data resources:</p>
+      <ul>
+      <li>Every HTML table with more than 10 rows</li>
+      <li>Every HTML form</li>
+      <li>Every CSV file</li>
+      <li>Every XML file</li>
+      <li>Every JSON file</li>
+      <li>Every XLS or XLSX file</li>
+      </ul>
 
-  <ul>
-  <li>Every HTML table with more than 10 rows</li>
-  <li>Every HTML form</li>
-  <li>Every CSV file</li>
-  <li>Every XML file</li>
-  <li>Every JSON file</li>
-  <li>Every XLS or XLSX file</li>
-  </ul>
+      <p>After running the script for several weeks, and spidering around 1/3 of the URLs which have targeted, processing every table, form, CSV, XML, JSON, and spreadsheet file we come across, we feel we have painted a pretty interesting picture of the VA web presence.</p>
 
-  <p>After running the script for several weeks, and spidering around 1/3 of the URLs we have targeted, processing every table, form, csv, xml, json, and spreadsheet we come across, we feel we have painted a pretty interesting picture of the VA web presence.</p>
+      <p>With almost 1/3 of the pages procesed, and a wealth of CSV, XML, JSON, XLS, and tables identified, we have been doing our best to identify the potential resources each data file possesses by parsing several elements from them:</p>
 
-  <p>With almost 1/3 of the pages targeted, with a wealth of CSV, XML, JSON, XLS, and tables identified we do our best to identify the potential resources each data file possesses by parsing several elements:</p>
+      <ul>
+      <li>Title of the page a file was published on</li>
+      <li>Name of the file itself</li>
+      <li>Ocasionally a sample of data</li>
+      </ul>
 
-  <ul>
-  <li>Title of the page a file was published</li>
-  <li>Name of the file itself</li>
-  <li>Sometimes a sample of data</li>
-  </ul>
+      <p>We take the list of words extracted from this process and we sort them and group by the number of times the word is applied, helping us understand the overall presence of each potential resource. Sometimes this produces a lot of meaningless words, but we've worked to filter those out over time, leaving only the meaningful data resources.</p>
 
-  <p>We take the list of words extracted from this process and we sort them and group by the number of times the word is used, helping us understand the overall presence of each resource. Sometimes this produces a lot of meaningless words, but we've worked to filter those out over time, only leaving the meaningful data resources.</p>
+      <p>This process is meant to paint a landscape picture of the VA web presence, from a data and content perspective. Working through huge amounts of information, and come out of the other side with a story, and series of visuals we can use to help understand what has happened to date, and assist in setting the stage for where the Department of Veterans Affairs (VA) might want to go next with this next phase of their web presence using APIs.</p>
 
-  <p>This process is meant to paint a landscape picture of the VA web presence, from a data and content perspective. Trying to work through huge amounts of information, and come out of the other side with a story, and series of visuals we can use to help understand what has happened to date, and assist in setting the stage for where the Department of Veterans Affairs (VA) might want to go next with this next phase of their web presence using APIs.</p>
+      <h1>VA Web Presence</h1>
+      <p>The Department of Veterans Affairs (VA) has a pretty sprawling web presence, spanning multiple domains, as well as subdomains. For this landscape analysis we've focused on everything within the va.gov domain. In the future we will be working to extend the landscape analysis to other domains, but this round we will keep focused on the core of the VA web presence. Painting a picture of the heart of the VA that can be used to help jumpstart the API conversation that is occurring within the VA Lighthouse initiative.</p>
 
-  <h1>VA Web Presence</h1>
-  <p>The Department of Veterans Affairs (VA) has a pretty sprawling web presence, spanning multiple domains, as well as subdomains. For this landscape analysis we've focused on everything within the va.gov domain. We will be working to extend the landscape analysis to other domains, but this round we will keep focused on the core of the VA web presence. Painting a picture of the heart of the VA that can be used to help jumpstart the API conversation that is occurring within the VA Lighthouse initiative.</p>
+      <h2>VA Domain Sprawl</h2>
+      <p>The VA web presence is spread across a mix of top level, and program, city, region, and state level subdomains. Domains play a role in providing addressing in the browser so that users can find the resources they need, as well as providing similar addressing for applications to find the resources they need via APIs. The VA domain sprawl reflects the growth of the VA web presence, and the lack of overall strategy when it comes to providing web address and routing to all VA resources. The current strategy (or lack of one) represents the need for location and program related resource discovery, whether it is in the browser, or for other applications via APIs.</p>
 
-  <h1>VA Domain Sprawl</h1>
-  <p>The VA web presence is spread across a mix of top level, and program, city, region, and state level subdomains. Domains play a role in providing addressing in the browser so that users can find the resources they need, as well as providing similar addressing for applications to find the resources they need via APIs. The VA domain sprawl reflects the growth of the VA web presence, and the lack of overall strategy when it comes to providing web address and routing to all VA resources. The current strategy (or lack of one) represents the need for location and program related resource discover, whether it is in the browser, or for other applications via APIs.</p>
+      <p>We assume there are other domains that have not been indexed, as we were only able to index 1/3 of the targeted URLs during this two week sprint. The project will keep indexing and updating numbers beyond the two week sprint, to continue painting a complete picture. Ideally, this would extend beyond the core va.gov domain, and provide a complete picture of the VA web landscape, so that it can be used to drive the overall API program. Domain, and subdomains plays an important role in determining how APIs will be accessed, and will have a downstream impact on the overall API design, affecting API path and parameter design--making it a top level consideration early on in this journey.</p>
 
-  <p>We assume there might be other domains that have not been indexed, as we were only able to index 1/3 of the targeted URLs during this two week sprint. The project will keep indexing and update numbers beyond the two week sprint, to continue painting a complete picture. Ideally, this would extend beyond the core va.gov domain, and provide a complete picture of the VA web landscape, so that it can be used to drive the API program. Domain, and subdomain plays an important role in determining how APIs will be accessed, and will have a downstream impact on the overall API design, effecting API path and parameter design.</p>
+      <h2>Program Domains</h2>
+      <p>After the top level domains of va.gov and www.va.gov, the most common approach to defining domains is by program, providing the addressing needed for organizing information by relve programs. We have identified <a href="https://api-evangelist.github.io/va-api-landscape/domains/programs-tag-list/">133 individual program related domains</a>, which you can view on Github.</p>
 
-  <h2>Program Domains</h2>
-  <p>After the top level domains of va.gov and www.va.gov, the most common approach to designating domains is by program, providing the addressing needed for organizing information by program. We have identified <a href="https://api-evangelist.github.io/va-api-landscape/domains/programs-tag-list/">133 individual program related domains</a>, which you can view on Github.</p>
+      <p><img src="https://api-evangelist.github.io/va-api-landscape/images/tag-cloud/domains-programs.png" width="90%" align="center"></p>
 
-  <p><img src="https://api-evangelist.github.io/va-api-landscape/images/tag-cloud/domains-programs.png" width="90%" align="center"></p>
+      <p>While there isn't consistent naming conventions used in the crafting on subdomains, it does demonstrate the prominence of programs, research, and other related groupings used across the VA web presence for organizing resources.</p>
 
-  <p>While there isn't consistent naming conventions used in the crafting on subdomains, it does demonstrate the prominence of programs, research, and other related groupings used across the VA web presence.</p>
+      <h2>State Domains</h2>
+      <p>Beyond program related domains, state and region level domains are being used to organize data and content for presentation to consumers. <a href="https://api-evangelist.github.io/va-api-landscape/domains/state-tag-list/">Only 22 subdomains are represented currently</a>, but the practice demonstrate the prominence of these locations when it comes to organizing information.</p>
 
-  <h2>State Domains</h2>
-  <p>Beyond program related domains, state and region level domains are being used to organize data and content for delivery to consumers. <a href="https://api-evangelist.github.io/va-api-landscape/domains/state-tag-list/">Only 22 subdomains are represented currently</a>, but demonstrate the prominence of these locations when it comes to organizing information.</p>
+      <p><img src="https://api-evangelist.github.io/va-api-landscape/images/tag-cloud/domains-state.png" width="90%" align="center"></p>
 
-  <p><img src="https://api-evangelist.github.io/va-api-landscape/images/tag-cloud/domains-state.png" width="90%" align="center"></p>
+      <p>Some states are just paths within the top level VA domains, while others exist within regional subdomains, with the rest possessing their own subdomain. Demonstrating the importance of states and regions, but also the inconsistency of how domains or paths are used to organize information.</p>
 
-  <p>Some states are just paths within the top level VA domains, while others exist within regional subdomains, with the rest possessing their own subdomain. Demonstrating the importance of states and regions, but the inconsistency of how domains or paths are used to organize information.</p>
+      <h2>City Domains</h2>
+      <p>Lastly, you find many city related subdomains being used to organize data and content, providing another dimension to how resources are being organized, while demonstrating the dominance of specific cities.  We have identified <a href="https://api-evangelist.github.io/va-api-landscape/domains/city-tag-list/">120 individual program related domains</a>, which you can view on Github.</p>
 
-  <h2>City Domains</h2>
-  <p>Lastly, you find many city related subdomains being used to organize data and content, providing another dimension to how resources are being organized, while demonstrating the dominance of specific cities.  We have identified <a href="https://api-evangelist.github.io/va-api-landscape/domains/city-tag-list/">120 individual program related domains</a>, which you can view on Github.</p>
+      <p><img src="https://api-evangelist.github.io/va-api-landscape/images/tag-cloud/domains-city.png" width="90%" align="center"></p>
 
-  <p><img src="https://api-evangelist.github.io/va-api-landscape/images/tag-cloud/domains-city.png" width="90%" align="center"></p>
+      <p>Like states, there isn't a consistent pattern to which cities have their own subdomain, with others existing as a path within state subdomains or top level domains. The approach to using cities as part of subdomain DNS addressing further demonstrates the importance of location when it comes to the organization of data and content.</p>
 
-  <p>Like states, there isn't a consistent pattern to which cities have their own subdomain, with others existing as a path within state subdomains or top level domains. The approach to using cities as part of subdomain DNS addressing further demonstrates the importance of location when it comes to the organization of data and content.</p>
+      <h1>Website Outline</h1>
+      <p>As part of the spidering the va.gov domain across the 278 subdomains that exist, over 4M individual URLs were identified, with slightly less than 1/3 of these URLs evaluated for potential data sources to date. Across these URLs we've taken the base path and grouped them by the number of pages, and data files that exist.</p>
 
-  <h1>Website Outline</h1>
-  <p>As part of the spidering the va.gov domain, and across the 278 subdomains that exist, over 4M individual URLs were identified, with slightly less than 1/3 of these URLs evaluated for potential data sources. Across these URLs we've taken the base path and grouped them by the number of pages, and data files that exist.</p>
+      <p><img src="https://api-evangelist.github.io/va-api-landscape/images/tag-cloud/path.png" width="90%" align="center"></p>
 
-  <p><img src="https://api-evangelist.github.io/va-api-landscape/images/tag-cloud/path.png" width="90%" align="center"></p>
+      <p>While there are many other paths in use across the VA websites, these paths reflect the top paths in use to deliver data and content. Providing a look at what the most relevant resources are when it comes to providing web access to data and content, which is something that should be considered when delivering the same data and content to other applications.</p>
 
-  <p>While there are many other paths in use across the VA websites, these paths reflect the top paths in use to deliver data and content. Providing a look at what the most relevant resources are when it comes to providing web access to data and content, which is something that should be considered when delivering the same data and content to other applications.</p>
+      <h2>Data Vocabulary</h2>
+      <p>While assessing the targeted and processed URLs, the titles of the HTML pages, as well as file names, it is clear that there is no consistent vocabulary in use across VA resources. This combined with the use of key phrases, acronyms, singular and plural variances makes it difficult to cleanly identify resources. We opted to use just keywords over phrases, and to not hydrate acronyms as part of the process due to difficulty in consistently identifying resources.</p>
 
-  <h2>Data Vocabulary</h2>
-  <p>While assessing the targeted and processed URLs, the titles of the HTML pages, as well as file names, it is clear that there is no consistent vocabulary in use across VA resources. This combined with the use of key phrases, acronyms, singular and plural variances makes it difficult to cleanly identify resources. We opted to use just keywords over phrases, and to not hydrate acronyms as part of the process due to difficulty in consistently identifying resources.</p>
+      <p>Even with the difficulties in identifying some resources, we were still able to paint a pretty compelling picture of the resources being exposed as common data formats across VA web properties. Isolating, grouping, and identifying the words that are used most to identify resources, and establishing the top keywords being applied when exposing data by the VA. Helping use establish some lists of resources, which we have organized visually as tag clouds, and lists as part of this landscape analysis.</p>
 
-  <p>Even with the difficulties in identifying some resources, we were still able to paint a pretty clear picture of the resources being exposed as common data formats across VA web properties. Isolating, grouping, and identifying the words that are used most to identify resources, and establishing the top keywords being used to expose data by the VA. Helping use establish some lists of resources, which we are organizing visually as tag clouds, and lists as part of this landscape analysis.</p>
+      <h1>VA Data Resources</h1>
+      <p>Data is available across VA websites in a variety of formats. We've focused on a handful of easy to identify formats, reflecting the low hanging fruit aspect of this landscape analysis. While there is data locked up in simple text files, and zipped up packages, we are choosing to look for the easiest to identify, as well as the easiest to publish data sources. The data that is published by humans usually as CSV files, spreadsheets, and HTML tables, as well as data published by other systems as JSON and XML.</p>
 
-  <h1>VA Data Resources</h1>
-  <p>Data is available across VA websites in a variety of formats. We've focused on a handful of easy to identify formats, reflecting the low hanging fruit nature of this landscape analysis. While there is data locked up in simple text files, and zipped up packages, we are choosing to look for the easiest to identify, as well as the easiest to publish data sources. The data that is published by humans usually as CSV files, spreadsheets, and HTML tables, as well as data published by other systems as JSON and XML.</p>
+      <h2>Data Formats</h2>
+      <p>Each of the types of formats we have targeted provide a different story of what types of resources are being published, and the importance and value to VA stakeholders, as well as potentially to veterans and other consumers of this information. We've worked to harvest all the data available in several formats, but also worked to identify what top resource types are available across each of the formats.</p>
 
-  <h2>Data Formats</h2>
-  <p>Each of the types of formats we have targeted provide a different story of what types of resources are being published, and the importance and value of them to VA stakeholders, as well as potentially to veterans and other consumers of information. We've worked to harvest all the data available in each format, but also worked to identify what top resources are available across each of the formats.</p>
+      <h2>CSV Files</h2>
+      <p>After processing over 1M files we were able to <a href="https://api-evangelist.github.io/va-api-landscape/csv/">identify 534 CSV files</a> containing a variety of data. By parsing the titles of the web pages these CSV files were linked fro, and the names of some of the files were able to identify a handful of top resource types present across these files.</p>
 
-  <h2>CSV Files</h2>
-  <p>Through the processing of over 1M files we were able to <a href="https://api-evangelist.github.io/va-api-landscape/csv/">identify 534 CSV files</a> containing variety of data. By parsing the titles of the web pages these CSV files were linked on, and the  names of some of the files were able to identify a handful of top resources present across these files.</p>
+      <p><img src="https://api-evangelist.github.io/va-api-landscape/images/tag-cloud/csv.png" width="90%" align="center"></p>
 
-  <p><img src="https://api-evangelist.github.io/va-api-landscape/images/tag-cloud/csv.png" width="90%" align="center"></p>
+      <p>CSV files tell a particular story because most of these files were most likely published by people working at the VA, exporting the files from spreadsheets, and making them available for a reason on the website--telling a story of why these resources are relevant to the API conversation. You can view <a href="https://api-evangelist.github.io/va-api-landscape/csv/tag-list/">a list of CSV resources</a>, as well as a <a href="https://api-evangelist.github.io/va-api-landscape/csv/">complete list of CSV files</a> on the Github repository for the landscaping efforts.</p>
 
-  <p>CSV files tell a particular story because most of these files were probably published by people working at the VA, exporting the files from spreadsheets, and making them available for a reason on the website--telling a story of why these resources are relevant to the API conversation. You can view <a href="https://api-evangelist.github.io/va-api-landscape/csv/tag-list/">a list of CSV resources</a>, as well as a <a href="https://api-evangelist.github.io/va-api-landscape/csv/">complete list of CSV files</a> on the Github repository for the landscaping efforts.</p>
+      <h2>XLS / XLSX Files</h2>
+      <p>After processing over 1M files we were able to identify <a href="https://api-evangelist.github.io/va-api-landscape/xls/">6,077 Microsoft Excel spreadsheets</a> containing a variety of data. By parsing the titles of the web pages these spreadsheets were linked on, and the names of some of the files were able to identify a handful of top resource types present across these files.</p>
 
-  <h2>XLS / XLSX Files</h2>
-  <p>Through the processing of over 1M files we were able to identify <a href="https://api-evangelist.github.io/va-api-landscape/xls/">6,077 Microsoft Excel spreadsheets</a> containing variety of data. By parsing the titles of the web pages these spreadsheets were linked on, and the names of some of the files were able to identify a handful of top resources present across these files.</p>
+      <p><img src="https://api-evangelist.github.io/va-api-landscape/images/tag-cloud/xls.png" width="90%" align="center"></p>
 
-  <p><img src="https://api-evangelist.github.io/va-api-landscape/images/tag-cloud/xls.png" width="90%" align="center"></p>
+      <p>Similar to CSV files, the presence of spreadsheets tell a very human story. Spreadsheet is the #1 source of data on the web, and reflects the data management and publishing practices across the VA. While looking at what resources are available across these spreadsheets, we have been considering the use of spreadsheets as a data source, as well as a data publishing tool. You can view <a href="https://api-evangelist.github.io/va-api-landscape/xls/tag-list/">a list of XLS/XlSX resources</a>, as well as a <a href="https://api-evangelist.github.io/va-api-landscape/xls/">complete list of XLS/XlSX files</a> on the Github repository for the landscaping efforts.</p>
 
-  <p>Similar to CSV files, the presence of spreadsheets tell a very human story. Spreadsheet is the #1 source of data on the web, and reflects the data management and publishing practices across the VA. While we are looking at what resources are available across spreadsheets at this time, the use of spreadsheets as a data source, as well as a data publishing tool should be considering as part of the API conversation. You can view <a href="https://api-evangelist.github.io/va-api-landscape/xls/tag-list/">a list of XLS/XlSX resources</a>, as well as a <a href="https://api-evangelist.github.io/va-api-landscape/xls/">complete list of XLS/XlSX files</a> on the Github repository for the landscaping efforts.</p>
+      <h2>JSON Files</h2>
+      <p>After processing of over 1M files we were able to identify <a href="https://api-evangelist.github.io/va-api-landscape/json/">467 JSON files containing a variety of data</a>. Unliked the CSV and spreadsheet data sources, JSON files are likely published as part of more modern systems, and data publishing processes, identifying a whole other set of data sources that should be considered when deploying APIs.</p>
 
-  <h2>JSON Files</h2>
-  <p>Through the processing of over 1M files we were able to identify <a href="https://api-evangelist.github.io/va-api-landscape/json/">467 JSON files containing variety of data. Unliked the CSV and spreadsheet data sources</a>, JSON files are likely published as part of more modern systems, and data publishing processes, identifying a whole other set of data sources that should be considered when deploying APIs.</p>
+      <p><img src="https://api-evangelist.github.io/va-api-landscape/images/tag-cloud/json.png" width="90%" align="center"></p>
 
-  <p><img src="https://api-evangelist.github.io/va-api-landscape/images/tag-cloud/json.png" width="90%" align="center"></p>
+      <p>JSON reflects the latest evolution of data publishing at the VA, but reflects a small subset of the data being made available across VA web properties. Demonstrating what the recent priorities have been when it comes to publishing data and making it available to developers, and other consumers of data. You can view <a href="https://api-evangelist.github.io/va-api-landscape/json/tag-list/">a list of JSON resources</a>, as well as a <a href="https://api-evangelist.github.io/va-api-landscape/json/">complete list of JSON files</a> on the Github repository for the landscaping efforts.</p>
 
-  <p>JSON reflects the latest evolution of data publishing at the VA, but reflects a small subset of the data being made available across VA web properties. Demonstrating what the recent priorities have been when it comes to publishing data and making available to developers, and other consumers of data. You can view <a href="https://api-evangelist.github.io/va-api-landscape/json/tag-list/">a list of JSON resources</a>, as well as a <a href="https://api-evangelist.github.io/va-api-landscape/json/">complete list of JSON files</a> on the Github repository for the landscaping efforts.</p>
+      <h2>XML Files</h2>
+      <p>After processing of over 1M files we were able to identify <a href="https://api-evangelist.github.io/va-api-landscape/xml/">3,099 XML files containing a variety of data</a>. Like JSON files, the Xml files represent the system publishing of data, but different from JSON, XML reflects the older generations of data publishing, and older systems that are still in operation to support data integration and publishing at the VA.</p>
 
-  <h2>XML Files</h2>
-  <p>Through the processing of over 1M files we were able to identify <a href="https://api-evangelist.github.io/va-api-landscape/xml/">3,099 XML files containing variety of data</a>. Like JSON files, the Xml files represent the system publishing of data, but different from JSON, XML reflects the older generations of data publishing, and older systems that are still in operation to support data integration and publishing efforts.</p>
+      <p><img src="https://api-evangelist.github.io/va-api-landscape/images/tag-cloud/xml.png" width="90%" align="center"></p>
 
-  <p><img src="https://api-evangelist.github.io/va-api-landscape/images/tag-cloud/xml.png" width="90%" align="center"></p>
+      <p>XML represents a large portion of the data being published across VA web properties. This list of priority resources represents a significant part of the system-based publishing of data occurring at the VA. Providing a large snapshot of the systems that should be evolved as part of the deployment of APIs. You can view <a href="https://api-evangelist.github.io/va-api-landscape/xml/tag-list/">a list of XML resources</a>, as well as a <a href="https://api-evangelist.github.io/va-api-landscape/xml/">complete list of XML files</a> on the Github repository for the landscaping efforts.</p>
 
-  <p>XML represents a large portion of the data being published across VA web properties. This list of priority resources represents a significant part of the system-based publishing of data occurring at the VA. Providing a large snapshot of the systems that should be evolved as part of the deployment of APIs. You can view <a href="https://api-evangelist.github.io/va-api-landscape/xml/tag-list/">a list of XML resources</a>, as well as a <a href="https://api-evangelist.github.io/va-api-landscape/xml/">complete list of XML files</a> on the Github repository for the landscaping efforts.</p>
+      <h2>HTML Tables</h2>
+      <p>Through the processing of over 1M files we were able to identify <a href="https://api-evangelist.github.io/va-api-landscape/table/">8,393 pages that had tables on them with over 10 rows</a>. While not CSV, JSON, XML, or XLS/XLSX files, these tables represent valuable data that has been published to VA web properties for a variety of reasons. Providing a potnetial list of resources that should be considered as part of API deployment conversations.</p>
 
-  <h2>HTML Tables</h2>
-  <p>Through the processing of over 1M files we were able to identify <a href="https://api-evangelist.github.io/va-api-landscape/table/">8,393 pages that had tables</a> on them with over 10 rows. While not CSV, JSON, XML, or XLS/XLSX files, these tables represent valuable data that has been published to VA web properties for a variety of reasons. Providing a potnetial list of resources that should be considered as part of API deployment conversations.</p>
+      <p><img src="https://api-evangelist.github.io/va-api-landscape/images/tag-cloud/table.png" width="90%" align="center"></p>
 
-  <p><img src="https://api-evangelist.github.io/va-api-landscape/images/tag-cloud/table.png" width="90%" align="center"></p>
+      <p>While HTML tables tell a story about top resources that needed to be published for consumption by website users, they are also data that was published with potential search engine optimization in mind. Providing a way to index data by search engines, making it more available to users, and other consumers. We can only assume what the SEO motivations are at the VA, but the publishing of data to tables using HTML reflect a different set of priorities than with other data formats. You can view <a href="https://api-evangelist.github.io/va-api-landscape/table/tag-list/">a list of table resources</a>, as well as a <a href="https://api-evangelist.github.io/va-api-landscape/table/">complete list of pages containg tables</a> on the Github repository for the landscaping efforts.</p>
 
-  <p>While HTML tables tell a story about top resources that needed to be published for consumption by website users, they are also data that was published with potential search engine optimization in mind. Providing a way to index data by search engines, making it more available to users, and other consumers. We can only assume what the SEO motivations are at the VA, but the publishing of data to tables using HTML reflect a different set of priorities than with other data formats. You can view <a href="https://api-evangelist.github.io/va-api-landscape/table/tag-list/">a list of table resources</a>, as well as a <a href="https://api-evangelist.github.io/va-api-landscape/table/">complete list of pages containg tables</a> on the Github repository for the landscaping efforts.</p>
+      <h2>HTML Forms</h2>
+      <p>After processing of over 1M files we were able to identify 1,127 pages that had more than one form (which is usually just a basic search) present. Similar to HTML tables, these forms provide a look at how the VA is making data available for users to search, explore, and consume in the browser. Telling another story of what types of resources are published to VA websites and made available to support the agencies mission.</p>
 
-  <h2>HTML Forms</h2>
-  <p>Through the processing of over 1M files we were able to identify 1,127 pages that had more than one form (which is usually basic search) on it. Similar to HTML tables, in providing a look at how the VA is making data available for users to search, explore, and consume in the browser. Telling another story of what types of resources are published to VA websites and made available to support the agencies mission.</p>
+      <p><img src="https://api-evangelist.github.io/va-api-landscape/images/tag-cloud/table.png" width="90%" align="center"></p>
 
-  <p><img src="https://api-evangelist.github.io/va-api-landscape/images/tag-cloud/table.png" width="90%" align="center"></p>
+      <p>HTML forms often times provide a search mechanism for other table, CSV, JSON, XML, and spreadsheet resources listed above. Providing an overlap in how and why data is being published  across VA websites. Offering another source of interesting resources that are being made available, and should be considered as part of API deployment efforts being conducted as part of VA Lighthouse platform efforts.</p>
 
-  <p>HTML forms often times provide a search mechanism for other table, CSV, JSON, XML, and spreadsheet resources listed above. Providing an overlap in how and why data is being published  across VA websites. Providing another source of interesting resources that are being made available, and should be considered as part of API deployment efforts being conducted as part of VA Lighthouse platform efforts.</p>
+      <h1>The Data.gov Story</h1>
+      <p>The only external source of data we included in this VA landscape analysis was all data sources published to data.gov. While somewhat out of date, the data catalog, and API tells an important story that should be considered as part of the Lighthouse API efforts. There are a lot of lessons, both good and bad present in what has happened as part of the data.gov effort, beyond just understanding what resources have been published there.</p>
 
-  <h1>The Data.gov Story</h1>
-  <p>The only external source of data we included in this VA landscape analysis was all data sources published to data.gov. While somewhat out of date, the data catalog, and API tells an important story that should be considered as part of the Lighthouse API efforts. There are a lot of lessons, both good and bad present in what has happened as part of the data.gov effort, beyond just understanding what resources have been published there.</p>
+      <p><img src="https://api-evangelist.github.io/va-api-landscape/images/tag-cloud/data-gov.png" width="90%" align="center"></p>
 
-  <p><img src="https://api-evangelist.github.io/va-api-landscape/images/tag-cloud/data-gov.png" width="90%" align="center"></p>
+      <p>The resources published to data.gov reflects the recent past at the VA when it comes to making data resources available, and accessible as download and via APIs. The most important lesson that should be learned from coming out of data.gov should be that moving forward the VA should own all of the data and API resources, and syndicate them as part of other externalefforts--this way they own the effort which will ultimately result in the agency being will being more invested in API operations. You can view <a href="https://api-evangelist.github.io/va-api-landscape/data-gov/tag-list/">a list of data.gov resources</a>, as well as a <a href="https://api-evangelist.github.io/va-api-landscape/data-gov/">complete list of data files</a> on the Github repository for the landscaping efforts.</p>
 
-  <p>The resources published to data.gov reflects the recent past at the VA when it comes to making data resources available, and accessible as download and via APIs. While there are many lessons to be learned from the data.gov efforts, the most important one should be that the VA should own all of the data and API resources, and then syndicate as part of other efforts--this way they own the effort and will be more invested. You can view <a href="https://api-evangelist.github.io/va-api-landscape/data-gov/tag-list/">a list of data.gov resources</a>, as well as a <a href="https://api-evangelist.github.io/va-api-landscape/data-gov/">complete list of data files</a> on the Github repository for the landscaping efforts.</p>
+      <h1>An Overview From Landscape</h1>
+      <p>The landscape analysis which only processed 1/3 of the files targeted during the spidering of the VA websites over the course of a two week period, produced 20,216 potential data files. The work has produced a lot of data to work with, and to try to make sense of. Each of the data formats available tell their own story about what data is published to VA websites, and why it was published The number of times a resource has been published as an HTML table, or made available via a CSV, JSON, XML file, or spreadsheet has been a vote for that resource to be made available via the web.</p>
 
-  <h1>An Overview From Landscape</h1>
-  <p>The landscape analysis which only processed 1/3 of the files targeted as part of the spidering of the VA websites, produced 20,216 potential data files. That is a lot of data to work with, and try to make sense of. Each of the data formats available tell their own story about what data is published to VA websites. The number of times a resource has been published as an HTML table, or made available via a CSV, JSON, XML file, or spreadsheet is a vote for that resource.</p>
+      <p>The landscape analysis has produced a huge amount of information, which weve tried to sort through, and organize in way that shows the most relevant resources from years of publishing data to VA websites. The top resources identified from all of the URLs processed, as well as across the CSV, XML, JSON, XLS/XLSX files, and the tables and forms all point to the data resources that should be turned into APIs. If it was a priority when publishing to the VA websites, and it should be a priority when it comes to publishing via an API as part of the VA Lighthouse efforts.</p>
 
-  <p>The landscape analysis has produced a huge amount of information, which weve tried to sort through, and organize in way that shows the most relevant resources from years of publishing data to VA websites. The top resources identified from all of the URLs processed, as well as across the CSV, XML, JSON, XLS/XLSX files, and the tables and forms all point to the data resources that should be turned into APIs. If it was a priority when publishing to the VA websites it should be a priority when it comes to publishing via an API as part of the VA Lighthouse efforts.<,/p>
+      <h1>Central Focus On Veteran</h1>
+      While it may be obvious, it needs to be said--the most important resource present throughout the landscape analysis is the veteran, and their personal data. The veteran identify, and healthcare record should be front and center with any APIs being deployed as part of the Lighthouse API platform effort. Obviously, all of the resources highlighted as part of this work centers around the veteran, but many of them are rendered useless without a focus on, as well as a knowledge of, and accurate information about a veteran. Making some sort of identity and access management, as well as a detailed, layered, portable, and usable profile of the veteran essential to APIs working well, or not at all.</p>
 
-  <h1>An Overview From Community</h1>
+      <h1>Personalization</h1>
+      One thing that is evident throughout our landscape analysis was the need for personalization of data across almost every resource we've identified. While there is value in having medical facilities, services, programs, resources, and other digital information available generally. The value of this data becomes exponentially more valuable when you personalize it, localize, and make it more relevant to the veteran who is browsing, searching, and engaging. Allowing for two types of engagements with the resources we are propose, 1) general access without knowledge of the veteran, and 2) personalized with an understanding of veteran and custom configuration of settings which determine the relevancy of data and content as it is made available via APIs and within applications.
 
-  [Need Content]
+      <p>There are existing portal efforts like vets.gov available as part of the VA online presence. The personalization efforts occurring here should be reflected across the design and operation of Lighthouse APIs. Allowing for APIs to operate in general or personalization mode, empowering API developers to act on behalf of a veteran using OAuth tokens. If a token is present, each API will act in a more personalized manner, allowing for localization based upon a veterans preferences, and personalization based upon their history, activity, and preferences. This personalization layer should act as a bridge between the core veterans health care record, and the other resources being considered as part of this landscape analysis.
 
-  <h1>An Overview From Analysts</h1>
-  After spending time with all of the data discovered as part of the VA landscape analysis, some of the top resources begin to stand out, and you begin to see patterns across all of the resources being made available. Weve spent some time considering what the top resource areas that we felt should be prioritized as part of the VA Lighthouse API discussions. These are the top 25 resources:
+      <h1>An Overview From Community</h1>
 
-  - Hospitals
-  - Clinics
-  - Facilities
-  - Organizations
-  - Services
-  - Programs
-  - Resources
-  - Schedules
-  - Events
-  - Benefits
-  - Performance
-  - Insurance
-  - Loans
-  - Grants
-  - Education
-  - Training
-  - Jobs
-  - Forms
-  - Budgets
-  - Statistics
-  - Cemeteries
-  - News
-  - Press
-  - Populations
-  - Surveys
+      [Results of The Communitiy Workshop]
 
-  <p>These resources represent what was harvested as part of this landscape analysis, merging many of the patterns present across individual data sets, and organized using a REST-centric approach to turning data into API resources, allowing for access via HTTP.</p>
+      <h1>An Overview From Analysts</h1>
+      After spending time with all of the data discovered as part of the VA landscape analysis, some of the top resources begin to stand out, and you begin to see patterns present across all of the resources being published regular to VA properties. Weve spent some time considering what the top resource areas that we felt should be prioritized as part of the VA Lighthouse API discussions, and these are the top 25 resources:
+      <ul>
+      <li><strong>Healthcare Facilities</strong> - Up to date information on hospitals, clinics, and other healthcare facilities.</li>
+      <li><strong>Organizations</strong> - Details on any type of organization that is in the service of veterans and their families.</li>
+      <li><strong>Services</strong> - Services being offered by the VA, healthcare facilities, and organizations providing assistance.</li>
+      <li><strong>Programs</strong> - Programs being offered by the VA, healthcare facilities, and organizations providing assistance.</li>
+      <li><strong>Resources</strong> - Content, video, and other resources providing healthcare, outpatient, and other relevant content.</li>
+      <li><strong>Schedules</strong> - The schdules of healthcare facilities, organizations, services, and programs being offered.</li>
+      <li><strong>Events</strong> - Calendar and details of relevant events that service veterans around the country.</li>
+      <li><strong>Benefits</strong> - Details of the benefits being offered to veterans, including elements of the process involved.</li>
+      <li><strong>Performance</strong> - Performance details for the healthcare facilities, organizations, services and programs.</li>
+      <li><strong>Insurance</strong> - Home, auto, and healthcare insurance information for veterans to take advantage of.</li>
+      <li><strong>Loans</strong> - Information on home, auto, and other types of loans available to veterans and their families.</li>
+      <li><strong>Grants</strong> - Grants for education, businesses, projects, and other veteran focused efforts.</li>
+      <li><strong>Education</strong> - Educational opportunities and information available for veterans and their families.</li>
+      <li><strong>Training</strong> - Specific training opportunities available that veterans can take advantage of.</li>
+      <li><strong>Jobs</strong> - Job postings which veterans can apply for and use to guide their career.</li>
+      <li><strong>Human Resources</strong> - VA human resources, and information supporting VA employess and Veterans.</li>
+      <li><strong>Forms</strong> - Directory, access, and management of forms and the data that is stored within them.</li>
+      <li><strong>Budgets</strong> - The budgets of healthcare facilities, organizations, and VA agency related programs and services.</li>
+      <li><strong>Statistics</strong> - Statistics and data on all aspects of VA operations, and anything that impacts veterans.</li>
+      <li><strong>Cemeteries</strong> - Details of the cemeteries, and the veterans who are laid to rest at all locations.</li>
+      <li><strong>News</strong> - The news that impacts veterans from across any news source that is relevant to the community.</li>
+      <li><strong>Press</strong> - Press releases from the Department of Veterans Affairs (VA) and related programs or organizations.</li>
+      <li><strong>Research</strong> - Information and other resources produced as part of specific veteran related research.</li>
+      <li><strong>Surveys</strong> - Centralized organization, access to, and the results of veteran and program related surveys.</li>
+      <li><strong>FOIA</strong> - Process and information related to Freedom of Information Act (FOIA) efforts occurring at VA.</li>
+      </ul>
+      <p>These resources represent what was harvested as part of this landscape analysis, merging many of the patterns present across individual data sets, and organized using a REST-centric approach to turning data into API resources, allowing for access via to data via HTTP. Many of the keywords identified as part of the landscape analysis have been rolled up into higher level areas, such as PTSD, mental health, and suicide would exist across services, programs, and resources.</p>
 
-  <h1>A Focus on the Data Source</h1>
+      <p>These suggested resources are derived from about 65% of the top level resources identifed across all the top paths identified, as well as the CSV, XLS/XLSX, JSON, XML, and table or forms. Providing a nice cross-section of resources across all the data formats, but also reflecting the general web presence of the VA. Providing a coherent stack of resources that could be developed, deployed, and maintained in support of the central veteran APIs, offering personalized, as well as more generalized data experiences that would benefit veterans and their families.</p>
 
-  <h1>Leveraging Common Data Formats</h1>
+      <h1>Writing, Not Just Reading Data</h1>
+      <p>Many of the resources identified as part of the VA landscape analysis represent read only access to data and content. It is important to note that getting access to data and content is important, but a significant portion of the resources harvested as part of the landscape analysis, and gathered through conversations with the community will require the ability to write information to APIs. Forms, surveys, and other feedback loops will need to allow for APIs that GET, as well as POST, and PUT data as part of their operations. Rounding off the Lighthouse API stack of resources, ensuring that the services provide a two-way street for engaging with the VA community.</p>
 
-  <h1>Further Challenges</h1>
+      <p>The ability to write data and content, as well as read it will be a deciding factor in whether applications built on top of the APIs will deliver the meaningful value veterans, their families require. If information is only pushing outwards, many applications will be seen as having no value to end-users, but also by developers, and Lighthouse API platform operators. To deliver meaningful value to everyone involved, all applications should be able to share usage data, feed analytics, and establish feedback loops between users and the platform operators. Without this ability to write data, the APIs will lack meaning and substance, and will contribute to the lack of adoption, and integration.</p>
 
-  <h1>A Journey</h1>
+      <h1>A Focus on the Source of Data</h1>
+      <p>A common misconception of conducting a landscape analysis looking for low hanging fruit is that the data discovered wil be used to publish APIs deployed as part of the next phase of work. This is rarely the situation, as most of this data is just published snapshots derived from existing data sources. This is the case with VA, and much of the data that has been discovered is unusable in its current state due to a lack or normalization, duplication of data, and other noise and clutter that is present in the CSV, and spreadsheets. Much of the XML and JSON data targets identified provide a much cleaner option for transforming into web APIs, however with any resource identified, it is much more desirable to discover the original source of data rather than relying on published version.</p>
+
+      [robs image here]
+
+      <p>Even after coming to a consensus on the data resources to transform into APIs, the next phase of work should focus on identifying the data sources for each of the targeted resource areas, and not relying on published data that already exists across websites. While it is tempting, and sometimes necessary to rely on published data for source of API data, it increases the chance that an API will eventually become dormant, out of date, and many of the issues we've seen play out with existing VA data repositories and with data.gov. This landscape analysis is intended to map out the landscape from a public view, and prioritize data resource types, where a secondary, internal, more focused landscape analysis should conducted identifying the sources of data for any resource type emerging from this landscaping effort.</p>
+
+      <h1>Leveraging Common Data Formats</h1>
+      <p>Augmenting the vocabulary portion of this report above, another important aspect of the landscape to note is the lack of common schema and data formats present. Most data published is derived from an existing system, or represents a current human directed process, containing a significant amount of fluff and noise surrounding the valuable data, and a lack of consistent naming, and field types. Based upon the resources identified here, there are a handful of existing data formats that should be considered as part of this landscape analysis. Some of these are alread in motion, with others not currrently reflected in VA Lighthouse efforts, but are used by other government entities to publish data in a consistent manner.
+
+      <ul>
+        <li><strong>Fast Healthcare Interoperability Requirements (FHIR)</strong> - FHIR is already being used as part of existing VA Lighthouse efforts, and across other projects, and agency efforts. It is worth highlight here, to provide an achor for why common data schema formats are relevant to other resources beyond the veterans healthcare record.</li>
+        <li><strong>Open Referral (211)</strong> - Open Referral is a common schema and API specification for defining human services, including organizations, locations, and services, including all the supporting and meta information that goes with this core set of resources.</li>
+        <li><strong>Open311</strong> - Open311 is a common date format for reporting problems and issues at the municipal level, but can easily be adopted for establishing feedback loops at any level of government and public sector. Providing a common schema for how large volumes of information gets submitted via API infrastructure.
+        <li><strong>Schema.org</strong> - A common schema vocabulary which provides object definitions for almost every resource identified throuighout this landscape analysis, and the recommended list of resources above.</li>
+      </ul>
+
+      <p>There are undoubtedly other open data formats that could be included as part of this landscape analysis and subsequent API development work. Common microformats and other RFCs should also be considered, but these can be addressed during the define and design stages of the API development, once individual resources have been decided upon. Common formats help ensure resources are interoperable and resuable across VA groups, and also help bring teams together to speak in a common language, using a common dictionary, which will go a long ways to standardizing how data is published and consumed.</p>
+
+      <h1>Analytics</h1>
+      We had hoped there would be more analytics available to help rank data that was identified as part of the VA landscape analysis. We did incorporate the ranking available from data.gov into the prioritization of resources, however we mostly relied up the frequency of published, and the overall occurrence of each keywords to help weight its relevance. The existence of a word in a path, title, and file name gives it a weight, which can be amplified for every occurance, providing us with adequate levels of prioritization, grouping, and organization to help us understand each topics importance. If a topic exists frequently across VA web properites, and exists as a sectional grouping, and title of data file, it has importance and relevancy.</p>
+
+      <h1>Search</h1>
+
+      <p>The lack of analytics, or access to up to date analytics across existing VA data sources demonstrates the importance of a consistent, and comprehesnive analytics strategy across VA data. There should be download counts for all machine readable files, or more importantly, real time analytics for the consumption of this data via simple web APIs. There should be regional, and program related data. We should have personalized data for what matters most to veterans. We should understand what is relevant and what is not through strategically designed analytics across web and API operations. The lack of analytics is why we are working to identify relevant data resources, so we can make available via APIs, where analytics are the default, not an afterthought.</p>
+
+      <h1>Further Work</h1>
+      <p>The VA landscape analysis produces a lot of information that was messy, and difficult to work with. More work is being conducted to make another pass and refine indexes, optimize title and file name parsing, and the development of key phrase, plural word, and other dictionaries to make the results much more refined. It was a lot of data harvest, process, and make sense of in a two week sprint, but we feel we were able to do a good job of making sense of what was captured. There is endless amounts work that still could be done, and we are actively working to identify would could be wrapped up as part of this sprint, but also included in potential future sprints around identifying data resources for the Lighthouse effort.</p>
+
+      <p>Another spring could easily be spent sorting through all of the data targeted, separating quality datasets from the more messier data sets. A dictionary to translate words, and rehydrate acronyms would be very useful to help make further sense of what is available in CSV, JSON, XML, and spreadsheets. More work could be done identifying the types of forms available, and defining their search mechanisms, defining what input parameters they allows, whether they allow for GET or POST, and further details on how the data stored within forms can be unlocked--as much of the form, and table data often have direct connection to backend databases, making them more valuable than some of the published data files.</p>
+
+      <p>All of the data from the landscape analysis has been published to Github, minus the primary index of harvested and processed URLs. They are too big to publish as JSON to Github, but we will evaluate how to best provide access to each site index using an Amazon AMI, or potentially other solution. We are also running another new index of VA website using a secondary spider solution, and will be publishing those indexes as separate Github repositories within a single Github organization when they are complete. We feel these newer indexes will provide a much richer approach to understanding the data and content that exists across VA properties, and allow for other researchers and analysts to fork and work to make sense of the data they contain.</p>
+
+      <h1>A Journey</h1>
+      <p>The landscape analysis for the VA does not end here. Just like the resulting API effort to come out of this, the evaluation of the web presence of the VA should be an ongoing thing. Work should continue to help identify data that is being published to VA web properties, and whenever possible this data should be incorporated into API operations, and published data replaced with API-driven solutions. In the long term, there should be no table, form, CSV, JSON, XML, or spreadsheet that does not have a direct connection to the API platform. Eventually ALL data should be derived from a federated, but standardized set of API platforms that are designed, deployed, and managed consistently as part of the VA Lighthouse effort.</p>
+
+      <p>Hopefully the work conducted here provides a base of resources to consider as the VA Lighthouse effort continues to move forward. Ideally, everything uncovered as part of this work eventually becomes an API, or part of a suite of APIs. We understand that this is not the reality anytime soon, and worked hard to uncover the most valuable resources, and provide a concise list of data resources that could be turned into APIs, and used to begin driving web, mobile, and desktop applications that serve veterans and their families. There is a wealth of resources available to veterans across VA websites. The challenge now, is how do we ensure they can consistently deliver value across the many websites, web and mobile applications they are being put to use--a simple, consistent, and usable API stack is how you achieve this vision.</p>
+  </div>
 </div>
