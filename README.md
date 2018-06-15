@@ -1,4 +1,4 @@
-# VA Lighthouse API Landscape Analysis and Near-term Roadmap Project
+# VA Lighthouse API Landscape Analysis and Roadmapping Project
 This is [Skylight's](https://skylight.digital/) repository for managing the [VA API Lighthouse landscape analysis and near-term roadmap project](https://github.com/department-of-veterans-affairs/VA-Micropurchase-Repo/issues/19).
 
 You can view the public HTML version of this project here: https://api-evangelist.github.io/va-api-landscape/

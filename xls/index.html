@@ -2,10 +2,13 @@
 layout: default
 title: XLS URLs
 ---
+
+<h2 class="mb-4">XLS URLs</h2>
+
+<p class="mb-4">These are the XLS datasets harvested so far, with the <a href="https://raw.githubusercontent.com/api-evangelist/va-api-landscape/master/_data/xls_urls.json" target="_blank">JSON available here</a>.</p>
+
+<ul>
 {% assign items = site.data.xls_urls %}
-<p><strong>XLS URLS</strong> (<a href="{{'/' | prepend:site.baseurl}}">Return to Home</a>)</p>
-<p>These are the XLS data sets pulled harvested so far, with the <a href="https://raw.githubusercontent.com/api-evangelist/va-api-landscape/master/_data/xls_urls.xls" target="_blank">XLS file available here</a>.</p>
-<ul style="margin-left: 25px; text-align:left;">
 {% for item in items %}
 <li><a href="{{ item.url }}">{{ item.title }}</a></li>
 {% endfor %}

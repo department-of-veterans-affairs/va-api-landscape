@@ -2,10 +2,13 @@
 layout: default
 title: JSON URLs
 ---
+
+<h2 class="mb-4">JSON URLs</h2>
+
+<p class="mb-4">These are the JSON datasets pulled harvested so far, with the <a href="https://raw.githubusercontent.com/api-evangelist/va-api-landscape/master/_data/json_urls.json" target="_blank">JSON file available here</a>.</p>
+
 {% assign items = site.data.json_urls %}
-<p><strong>JSON URLS</strong> (<a href="{{'/' | prepend:site.baseurl}}">Return to Home</a>)</p>
-<p>These are the JSON data sets pulled harvested so far, with the <a href="https://raw.githubusercontent.com/api-evangelist/va-api-landscape/master/_data/json_urls.json" target="_blank">JSON file available here</a>.</p>
-<ul style="margin-left: 25px; text-align:left;">
+<ul>
 {% for item in items %}
 <li><a href="{{ item.url }}">{{ item.title }}</a></li>
 {% endfor %}

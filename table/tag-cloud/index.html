@@ -3,8 +3,10 @@ layout: default
 title: Table Tag Cloud
 ---
 
-<p><strong>Table Tag Cloud</strong> (<a href="{{'/' | prepend:site.baseurl}}">Return to Home</a>)</p>
-<p>This is a list of top keywords from across all pages that have tables with more than 10 rows.</p>
+<h2 class="mb-4">Table Tag Cloud</h2>
+
+<p class="mb-4">This is a list of top keywords from across all pages that have tables with more than 10 rows.</p>
+
 {% assign topics = site.data.table_tag_cloud %}
 <div id="topiccloud" class="wordcloud">
   {% for topic in topics %}
@@ -45,30 +47,3 @@ title: Table Tag Cloud
     </span>
   {% endfor %}
 </div>
-
-
-<script>
-
-$(document).ready(function(){
-    $("#topiccloud").awesomeCloud({
-      "size" : {
-        "grid" : 2, // word spacing, smaller is more tightly packed
-        "factor" : 0, // font resize factor, 0 means automatic
-        "normalize" : false // reduces outliers for more attractive output
-      },
-      "color" : {
-        "background" : "rgba(255,255,255,0)", // background color, transparent by default
-        "start" : "#20f", // color of the smallest font, if options.color = "gradient""
-        "end" : "rgb(200,0,0)" // color of the largest font, if options.color = "gradient"
-      },
-      "options" : {
-        "color" : "random-dark", // random-light, random-dark, gradient
-        "rotationRatio" : 0, // 0 is all horizontal, 1 is all vertical
-        "printMultiplier" : 3, // set to 3 for nice printer output; higher numbers take longer
-        "sort" : "highest" // highest, lowest or random
-      },
-      "font" : "'Times New Roman'", //  the CSS font-family string
-      "shape" : "square" // circle, square, star or a theta function describing a shape
-    });
-});
-</script>

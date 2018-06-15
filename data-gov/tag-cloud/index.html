@@ -2,12 +2,14 @@
 layout: default
 title: Data.gov Tag Cloud
 ---
-<p><strong>Data.gov Tags Cloud</strong> (<a href="{{'/' | prepend:site.baseurl}}">Return to Home</a>)</p>
-<p>This is a list of top keywords from across all daa files published to Data.gov.</p>
+
+<h2 class="mb-4">Data.gov Tag Cloud</h2>
+
+<p class="mb-4">This is a list of top keywords from across all Data.gov files published on Data.gov.</p>
+
 {% assign topics = site.data.data_gov_tag_cloud %}
 <div id="topiccloud" class="wordcloud">
   {% for topic in topics %}
-
   {% if topic.word_count > 300 %}
     {% assign path_value = 10 %}
   {% endif %}
@@ -44,30 +46,3 @@ title: Data.gov Tag Cloud
     </span>
   {% endfor %}
 </div>
-
-
-<script>
-
-$(document).ready(function(){
-    $("#topiccloud").awesomeCloud({
-      "size" : {
-        "grid" : 2, // word spacing, smaller is more tightly packed
-        "factor" : 0, // font resize factor, 0 means automatic
-        "normalize" : false // reduces outliers for more attractive output
-      },
-      "color" : {
-        "background" : "rgba(255,255,255,0)", // background color, transparent by default
-        "start" : "#20f", // color of the smallest font, if options.color = "gradient""
-        "end" : "rgb(200,0,0)" // color of the largest font, if options.color = "gradient"
-      },
-      "options" : {
-        "color" : "random-dark", // random-light, random-dark, gradient
-        "rotationRatio" : 0, // 0 is all horizontal, 1 is all vertical
-        "printMultiplier" : 3, // set to 3 for nice printer output; higher numbers take longer
-        "sort" : "highest" // highest, lowest or random
-      },
-      "font" : "'Times New Roman'", //  the CSS font-family string
-      "shape" : "square" // circle, square, star or a theta function describing a shape
-    });
-});
-</script>

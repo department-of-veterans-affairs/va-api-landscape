@@ -1,10 +1,16 @@
 ---
 layout: default
-title: City Domain Listing
+title: City Domain List
 ---
-<p><strong>City Domains Listing</strong> (<a href="{{'/' | prepend:site.baseurl}}">Return to Home</a>)</p>
-<p>This is a list of city level subdomains currently identified as part of the harvesting.</p>
+<h2 class="mb-4">City Domain List</h2>
+
+<p class="mb-4">This is a list of city-level subdomains currently identified as part of the harvesting.</p>
+
+<ul>
 {% assign topics = site.data.domains_city %}
 {% for topic in topics %}
-  {{ topic.domain }} ({{ topic.domain_count }})<br />
+  <li>
+    {{ topic.domain }} ({% include number_with_commas.html number=topic.domain_count %})
+  </li>
 {% endfor %}
+</ul>
