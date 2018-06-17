@@ -9,7 +9,7 @@ title: JSON URLs
 
 {% assign items = site.data.json_urls %}
 <ul>
-{% for item in items %}
-<li><a href="{{ item.url }}">{{ item.title }}</a></li>
-{% endfor %}
+  {% for item in items %}
+    <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+  {% endfor %}
 </ul>

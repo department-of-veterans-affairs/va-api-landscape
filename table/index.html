@@ -8,7 +8,7 @@ title: Table URLs
 <p class="mb-4">These are the table datasets harvested so far, with the <a href="https://raw.githubusercontent.com/api-evangelist/va-api-landscape/master/_data/table_urls.json" target="_blank">JSON file available here</a>.</p>
 
 {% assign items = site.data.table_urls %}
-{% for item in items %}
-<li><a href="{{ item.url }}">{{ item.title }}</a></li>
-{% endfor %}
+  {% for item in items %}
+    <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+  {% endfor %}
 </ul>

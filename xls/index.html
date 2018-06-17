@@ -9,7 +9,7 @@ title: XLS URLs
 
 <ul>
 {% assign items = site.data.xls_urls %}
-{% for item in items %}
-<li><a href="{{ item.url }}">{{ item.title }}</a></li>
-{% endfor %}
+  {% for item in items %}
+    <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+  {% endfor %}
 </ul>

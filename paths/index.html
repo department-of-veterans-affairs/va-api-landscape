@@ -8,8 +8,8 @@ title: Paths
 <p class="mb-4">These are the paths pulled harvested so far, with the <a href="https://raw.githubusercontent.com/api-evangelist/va-api-landscape/master/_data/path_urls.json" target="_blank">JSON file available here</a>.</p>
 
 {% assign items = site.data.path_urls %}
-<ul>
-{% for item in items %}
-<li>{{ item.path }}</li>
-{% endfor %}
+  <ul>
+    {% for item in items %}
+      <li>{{ item.path }}</li>
+    {% endfor %}
 </ul>
