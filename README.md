@@ -5,4 +5,4 @@ You can view the public HTML version of this project here: https://skylight-hq.g
 
 You can see how we tracked progress using a [public Trello board](https://trello.com/b/VcBEnHP5/va-lighthouse-api-landscape-analysis-and-near-term-roadmap-project).
 
-If you have any questions or comments, please feel free to [submit an issue](https://skylight-hq.github.io/va-api-landscape//issues).
+If you have any questions or comments, please feel free to [submit an issue](https://github.com/skylight-hq/va-api-landscape/issues).
